@@ -26,3 +26,4 @@ C:\Ohy\Project\SMM_v2\SMM.Desktop\obj\Debug\net8.0\refint\HelloPhotino.NET.dll
 C:\Ohy\Project\SMM_v2\SMM.Desktop\obj\Debug\net8.0\HelloPhotino.NET.pdb
 C:\Ohy\Project\SMM_v2\SMM.Desktop\obj\Debug\net8.0\HelloPhotino.NET.genruntimeconfig.cache
 C:\Ohy\Project\SMM_v2\SMM.Desktop\obj\Debug\net8.0\ref\HelloPhotino.NET.dll
+C:\Ohy\Project\SMM_v2\SMM.Desktop\obj\Debug\net8.0\HelloPhotino.NET.sourcelink.json
