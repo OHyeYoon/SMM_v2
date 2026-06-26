@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HelloPhotino.NET")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13f45c2a00a924dd056c0322a0e57f2ff4aa8c33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ed0339f9c17b8ac21dd33372e86b030d7bbef25")]
 [assembly: System.Reflection.AssemblyProductAttribute("HelloPhotino.NET")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HelloPhotino.NET")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

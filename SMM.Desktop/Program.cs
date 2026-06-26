@@ -12,7 +12,7 @@ namespace HelloPhotinoApp
         static void Main(string[] args)
         {
             // Window title declared here for visibility
-            string windowTitle = "Photino for .NET Demo App";
+            string windowTitle = "Stardew Mod Manager";
 
             // Creating a new PhotinoWindow instance with the fluent API
             var window = new PhotinoWindow()
@@ -20,11 +20,11 @@ namespace HelloPhotinoApp
                 // Resize to a percentage of the main monitor work area
                 .SetUseOsDefaultSize(false)
                 .SetSize(new Size(1024, 800))
+                .SetResizable(true)
                 // Center window in the middle of the screen
                 .Center()
                 // Users can resize windows by default.
                 // Let's make this one fixed instead.
-                .SetResizable(false)
                 .Load("http://localhost:5173")
 
                 .RegisterCustomSchemeHandler("app", (object sender, string scheme, string url, out string contentType) =>
