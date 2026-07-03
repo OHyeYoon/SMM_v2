@@ -1,0 +1,4 @@
+11:22:50 1. start
+11:22:51 2. icon exists: False / D:\Project\stardew\SMM_v2\SMM.Desktop\bin\Release\net8.0-windows\win-x64\publish\Assets\icon.ico
+11:22:51 3. index exists: True / C:\Users\ralot\AppData\Local\Temp\SMM\wwwroot\index.html
+11:22:51 4. before window

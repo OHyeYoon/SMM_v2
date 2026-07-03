@@ -1,11 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "i3gDMLs3vn4=",
+  "dgSpecHash": "b5G9AtBJRow=",
   "success": true,
-  "projectFilePath": "C:\\Ohy\\Project\\SMM_v2\\SMM.Desktop\\HelloPhotino.NET.csproj",
+  "projectFilePath": "D:\\Project\\stardew\\SMM_v2\\SMM.Desktop\\SMM.Desktop.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\2020006\\.nuget\\packages\\photino.native\\3.2.3\\photino.native.3.2.3.nupkg.sha512",
-    "C:\\Users\\2020006\\.nuget\\packages\\photino.net\\3.2.3\\photino.net.3.2.3.nupkg.sha512"
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.9\\microsoft.extensions.configuration.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.9\\microsoft.extensions.configuration.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.9\\microsoft.extensions.configuration.binder.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.9\\microsoft.extensions.configuration.fileextensions.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.configuration.ini\\10.0.9\\microsoft.extensions.configuration.ini.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.9\\microsoft.extensions.fileproviders.abstractions.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.9\\microsoft.extensions.fileproviders.physical.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.9\\microsoft.extensions.filesystemglobbing.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.9\\microsoft.extensions.primitives.10.0.9.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\photino.native\\3.2.3\\photino.native.3.2.3.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\photino.net\\3.2.3\\photino.net.3.2.3.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.28\\microsoft.netcore.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.28\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.28\\microsoft.aspnetcore.app.runtime.win-x64.8.0.28.nupkg.sha512",
+    "C:\\Users\\ralot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.28\\microsoft.netcore.app.host.win-x64.8.0.28.nupkg.sha512"
   ],
   "logs": []
 }

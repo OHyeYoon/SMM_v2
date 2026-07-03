@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <Version>2.0.0</Version>
+    <AssemblyName>SMM</AssemblyName>
+    <AssemblyVersion>2.0.0.0</AssemblyVersion>
+    <FileVersion>2.0.0.0</FileVersion>
+
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Platforms>AnyCPU</Platforms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>Assets\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+<ItemGroup>
+  <Compile Remove="wwwroot\**" />
+
+  <None Update="config.ini">
+    <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+  </None>
+
+  <EmbeddedResource Include="wwwroot\**\*.*">
+    <LogicalName>wwwroot/%(RecursiveDir)%(Filename)%(Extension)</LogicalName>
+  </EmbeddedResource>
+
+  <EmbeddedResource Include="Languages\**\*.json">
+    <LogicalName>Languages/%(RecursiveDir)%(Filename)%(Extension)</LogicalName>
+  </EmbeddedResource>
+</ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="10.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Binder" Version="10.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Ini" Version="10.0.9" />
+    <PackageReference Include="Photino.NET" Version="3.2.3" />
+  </ItemGroup>
+
+</Project>
