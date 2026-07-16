@@ -88,6 +88,21 @@ type ProfileInfo = {
     exists: boolean;
 };
 
+type ModUpdateResult = {
+    id: string;
+    suggestedUpdate?: {
+        version: string;
+        url: string;
+    } | null;
+};
+
+type AppUpdateInfo = {
+    currentVersion: string;
+    latestVersion: string;
+    releaseUrl: string;
+    hasUpdate: boolean;
+};
+
 function App() {
     const [isLocked, setIsLocked] = useState(false);
     const [lockMessage, setLockMessage] = useState(``);
@@ -135,6 +150,15 @@ function App() {
     const warningCount = mods.filter((m) => m.status === "Warning").length;
     const errorCount = mods.filter((m) => m.status === "Error").length;
 
+    const [modUpdates, setModUpdates] = useState<ModUpdateResult[]>([]);
+    const updateCount = mods.filter((mod) => {
+        const updateInfo = modUpdates.find((item) => item.id === mod.uniqueId);
+
+        const latestVersion = updateInfo?.suggestedUpdate?.version;
+
+        return Boolean(latestVersion && latestVersion !== mod.version);
+    }).length;
+
     const [profiles, setProfiles] = useState<ProfileInfo[]>([]);
     const [isProfileDialogOpen, setIsProfileDialogOpen] = useState(false);
     const activeProfile = profiles.find((p) => p.isActive);
@@ -153,6 +177,7 @@ function App() {
         profiles.find((p) => p.name === selectedProfileName) ?? activeProfile;
 
     const [version, setVersion] = useState("");
+    const [appUpdate, setAppUpdate] = useState<AppUpdateInfo | null>(null);
 
     useEffect(() => {
         window.external.receiveMessage((message: string) => {
@@ -197,9 +222,18 @@ function App() {
                 case "settings":
                     setSettings(response.data);
                     break;
+
+                case "modUpdates":
+                    setModUpdates(response.data);
+                    break;
+
+                case "appUpdate":
+                    setAppUpdate(response.data);
+                    break;
             }
         });
 
+        window.external.sendMessage("mods.checkUpdates");
         window.external.sendMessage("game.getInfo");
         window.external.sendMessage("smapi.getInfo");
         window.external.sendMessage("mods.getList");
@@ -207,6 +241,7 @@ function App() {
         window.external.sendMessage("profiles.getList");
         window.external.sendMessage("language.get");
         window.external.sendMessage("settings.get");
+        window.external.sendMessage("app.checkUpdate");
     }, []);
 
     const filteredMods = mods
@@ -223,6 +258,14 @@ function App() {
                 return false;
             }
 
+            const updateInfo = modUpdates.find(
+                (item) => item.id === mod.uniqueId,
+            );
+
+            const latestVersion = updateInfo?.suggestedUpdate?.version;
+
+            const hasUpdate = !!latestVersion && latestVersion !== mod.version;
+
             switch (filter) {
                 case "enabled":
                     return mod.isEnabled;
@@ -235,6 +278,9 @@ function App() {
 
                 case "error":
                     return mod.status === "Error";
+
+                case "update":
+                    return hasUpdate;
 
                 default:
                     return true;
@@ -331,33 +377,55 @@ function App() {
                                 >
                                     {t("Mod.Filter.All")}
                                 </SelectItem>
-                                <SelectItem value={`enabled`} className={`focus:bg-card hover:bg-transparent text-[14px] h-10
+                                <SelectItem
+                                    value={`enabled`}
+                                    className={`focus:bg-card hover:bg-transparent text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}> 
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Filter.Enabled")}
                                 </SelectItem>
-                                <SelectItem value={`disabled`} className={`focus:bg-card hover:bg-transparent text-[14px] h-10
+                                <SelectItem
+                                    value={`disabled`}
+                                    className={`focus:bg-card hover:bg-transparent text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Filter.Disabled")}
                                 </SelectItem>
-                                <SelectItem value={`warning`} className={`focus:bg-card hover:bg-transparent text-[14px] h-10
+                                <SelectItem
+                                    value={`warning`}
+                                    className={`focus:bg-card hover:bg-transparent text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Filter.Warning")}
                                 </SelectItem>
-                                <SelectItem value={`error`} className={`focus:bg-card hover:bg-transparent text-[14px] h-10
+                                <SelectItem
+                                    value={`error`}
+                                    className={`focus:bg-card hover:bg-transparent text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Filter.Error")}
+                                </SelectItem>
+                                <SelectItem
+                                    value={`update`}
+                                    className={`focus:bg-card hover:bg-transparent text-[14px] h-10
+                                                        px-3
+                                                        text-[14px]
+                                                        focus:bg-muted
+                                                        data-[highlighted]:bg-muted`}
+                                >
+                                    {t("Mod.Filter.Update")}
                                 </SelectItem>
                             </SelectContent>
                         </Select>
@@ -373,18 +441,24 @@ function App() {
                                 <SelectValue />
                             </SelectTrigger>
                             <SelectContent>
-                                <SelectItem value={`name`} className={`text-[14px] h-10
+                                <SelectItem
+                                    value={`name`}
+                                    className={`text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Sort.Name")}
                                 </SelectItem>
-                                <SelectItem value={`status`} className={`text-[14px] h-10
+                                <SelectItem
+                                    value={`status`}
+                                    className={`text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Sort.Status")}
                                 </SelectItem>
                             </SelectContent>
@@ -401,18 +475,24 @@ function App() {
                                 <SelectValue />
                             </SelectTrigger>
                             <SelectContent>
-                                <SelectItem value={`Ascending`} className={`text-[14px] h-10
+                                <SelectItem
+                                    value={`Ascending`}
+                                    className={`text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Order.Asc")}
                                 </SelectItem>
-                                <SelectItem value={`Descending`} className={`text-[14px] h-10
+                                <SelectItem
+                                    value={`Descending`}
+                                    className={`text-[14px] h-10
                                                         px-3
                                                         text-[14px]
                                                         focus:bg-muted
-                                                        data-[highlighted]:bg-muted`}>
+                                                        data-[highlighted]:bg-muted`}
+                                >
                                     {t("Mod.Order.Desc")}
                                 </SelectItem>
                             </SelectContent>
@@ -606,170 +686,197 @@ function App() {
                         <div
                             className={`min-h-0 flex-1 overflow-y-auto overflow-x-hidden px-4 py-2 space-y-2`}
                         >
-                            {filteredMods.map((mod) => (
-                                <div
-                                    key={mod.uniqueId || mod.folderPath}
-                                    className={`
+                            {filteredMods.map((mod) => {
+                                const updateInfo = modUpdates.find(
+                                    (item) => item.id === mod.uniqueId,
+                                );
+
+                                const latestVersion =
+                                    updateInfo?.suggestedUpdate?.version;
+
+                                return (
+                                    <div
+                                        key={mod.uniqueId || mod.folderPath}
+                                        className={`
                                         group grid min-h-14 w-full grid-cols-[24px_minmax(0,1fr)_110px_32px]
                                         items-center gap-3 rounded-[4px]
                                     `}
-                                >
-                                    <input
-                                        type={`checkbox`}
-                                        checked={mod.isEnabled}
-                                        onChange={() => {
-                                            window.external.sendMessage(
-                                                `mods.toggle|${mod.folderPath}`,
-                                            );
-                                        }}
-                                        className={`size-4 accent-blue-600`}
-                                    />
-
-                                    <div
-                                        className={`w-200 truncate text-[14px] font-medium text-left flex flex-col`}
                                     >
-                                        <Label>{mod.name}</Label>
-                                        <Label
-                                            className={`text-[12px] text-muted-foreground font-normal`}
-                                        >
-                                            {mod.version || `-`}
-                                        </Label>
-                                    </div>
+                                        <input
+                                            type={`checkbox`}
+                                            checked={mod.isEnabled}
+                                            onChange={() => {
+                                                window.external.sendMessage(
+                                                    `mods.toggle|${mod.folderPath}`,
+                                                );
+                                            }}
+                                            className={`size-4 accent-blue-600`}
+                                        />
 
-                                    <div className={`w-28`}>
-                                        {mod.status === `Normal` && (
-                                            <Badge
-                                                className={`
+                                        <div
+                                            className={`w-200 truncate text-[14px] font-medium text-left flex flex-col`}
+                                        >
+                                            <Label>{mod.name}</Label>
+                                            <Label
+                                                className={`text-[12px] text-muted-foreground font-normal`}
+                                            >
+                                                {mod.version || `-`}
+                                                {latestVersion &&
+                                                    latestVersion !==
+                                                        mod.version && (
+                                                        <span className="text-blue-500">
+                                                            → {latestVersion}
+                                                        </span>
+                                                    )}
+                                            </Label>
+                                        </div>
+
+                                        <div className={`w-28`}>
+                                            {mod.status === `Normal` && (
+                                                <Badge
+                                                    className={`
                                                     bg-green-100
                                                     text-green-700
                                                 `}
-                                            >
-                                                {t("Mod.Status.Normal")}
-                                            </Badge>
-                                        )}
+                                                >
+                                                    {t("Mod.Status.Normal")}
+                                                </Badge>
+                                            )}
 
-                                        {mod.status === `Warning` && (
-                                            <Tooltip>
-                                                <TooltipTrigger asChild>
-                                                    <Badge
-                                                        className={`
+                                            {mod.status === `Warning` && (
+                                                <Tooltip>
+                                                    <TooltipTrigger asChild>
+                                                        <Badge
+                                                            className={`
                                                             bg-yellow-100
                                                             text-yellow-700
                                                         `}
+                                                        >
+                                                            {t(
+                                                                "Mod.Status.WarningWithCount",
+                                                                {
+                                                                    count:
+                                                                        mod
+                                                                            .issues
+                                                                            ?.length ??
+                                                                        0,
+                                                                },
+                                                            )}
+                                                        </Badge>
+                                                    </TooltipTrigger>
+
+                                                    <TooltipContent
+                                                        side={`left`}
+                                                        className={`max-w-80`}
                                                     >
-                                                        {t(
-                                                            "Mod.Status.WarningWithCount",
-                                                            {
-                                                                count:
-                                                                    mod.issues
-                                                                        ?.length ??
-                                                                    0,
-                                                            },
-                                                        )}
-                                                    </Badge>
-                                                </TooltipTrigger>
+                                                        <div
+                                                            className={`space-y-2`}
+                                                        >
+                                                            {mod.issues?.map(
+                                                                (
+                                                                    issue,
+                                                                    index,
+                                                                ) => (
+                                                                    <div
+                                                                        key={
+                                                                            index
+                                                                        }
+                                                                        className={`space-y-1`}
+                                                                    >
+                                                                        <div
+                                                                            className={`font-medium`}
+                                                                        >
+                                                                            {
+                                                                                issue.type
+                                                                            }
+                                                                        </div>
 
-                                                <TooltipContent
-                                                    side={`left`}
-                                                    className={`max-w-80`}
-                                                >
-                                                    <div
-                                                        className={`space-y-2`}
+                                                                        <div
+                                                                            className={`text-xs text-muted-foreground`}
+                                                                        >
+                                                                            {
+                                                                                issue.message
+                                                                            }
+                                                                        </div>
+                                                                    </div>
+                                                                ),
+                                                            )}
+                                                        </div>
+                                                    </TooltipContent>
+                                                </Tooltip>
+                                            )}
+
+                                            {mod.status === `Error` && (
+                                                <Tooltip>
+                                                    <TooltipTrigger asChild>
+                                                        <Badge
+                                                            variant={`destructive`}
+                                                        >
+                                                            {t(
+                                                                "Mod.Status.ErrorWithCount",
+                                                                {
+                                                                    count:
+                                                                        mod
+                                                                            .issues
+                                                                            ?.length ??
+                                                                        0,
+                                                                },
+                                                            )}
+                                                        </Badge>
+                                                    </TooltipTrigger>
+
+                                                    <TooltipContent
+                                                        side={`left`}
+                                                        className={`max-w-80`}
                                                     >
-                                                        {mod.issues?.map(
-                                                            (issue, index) => (
-                                                                <div
-                                                                    key={index}
-                                                                    className={`space-y-1`}
-                                                                >
+                                                        <div
+                                                            className={`space-y-2`}
+                                                        >
+                                                            {mod.issues?.map(
+                                                                (
+                                                                    issue,
+                                                                    index,
+                                                                ) => (
                                                                     <div
-                                                                        className={`font-medium`}
-                                                                    >
-                                                                        {
-                                                                            issue.type
+                                                                        key={
+                                                                            index
                                                                         }
-                                                                    </div>
-
-                                                                    <div
-                                                                        className={`text-xs text-muted-foreground`}
+                                                                        className={`space-y-1`}
                                                                     >
-                                                                        {
-                                                                            issue.message
-                                                                        }
+                                                                        <div
+                                                                            className={`font-medium`}
+                                                                        >
+                                                                            {
+                                                                                issue.type
+                                                                            }
+                                                                        </div>
+
+                                                                        <div
+                                                                            className={`text-xs text-muted-foreground`}
+                                                                        >
+                                                                            {
+                                                                                issue.message
+                                                                            }
+                                                                        </div>
                                                                     </div>
-                                                                </div>
-                                                            ),
-                                                        )}
-                                                    </div>
-                                                </TooltipContent>
-                                            </Tooltip>
-                                        )}
+                                                                ),
+                                                            )}
+                                                        </div>
+                                                    </TooltipContent>
+                                                </Tooltip>
+                                            )}
 
-                                        {mod.status === `Error` && (
-                                            <Tooltip>
-                                                <TooltipTrigger asChild>
-                                                    <Badge
-                                                        variant={`destructive`}
-                                                    >
-                                                        {t(
-                                                            "Mod.Status.ErrorWithCount",
-                                                            {
-                                                                count:
-                                                                    mod.issues
-                                                                        ?.length ??
-                                                                    0,
-                                                            },
-                                                        )}
-                                                    </Badge>
-                                                </TooltipTrigger>
+                                            {!mod.isEnabled && (
+                                                <Badge variant={`secondary`}>
+                                                    {t("Mod.Status.Disabled")}
+                                                </Badge>
+                                            )}
+                                        </div>
 
-                                                <TooltipContent
-                                                    side={`left`}
-                                                    className={`max-w-80`}
-                                                >
-                                                    <div
-                                                        className={`space-y-2`}
-                                                    >
-                                                        {mod.issues?.map(
-                                                            (issue, index) => (
-                                                                <div
-                                                                    key={index}
-                                                                    className={`space-y-1`}
-                                                                >
-                                                                    <div
-                                                                        className={`font-medium`}
-                                                                    >
-                                                                        {
-                                                                            issue.type
-                                                                        }
-                                                                    </div>
-
-                                                                    <div
-                                                                        className={`text-xs text-muted-foreground`}
-                                                                    >
-                                                                        {
-                                                                            issue.message
-                                                                        }
-                                                                    </div>
-                                                                </div>
-                                                            ),
-                                                        )}
-                                                    </div>
-                                                </TooltipContent>
-                                            </Tooltip>
-                                        )}
-
-                                        {!mod.isEnabled && (
-                                            <Badge variant={`secondary`}>
-                                                {t("Mod.Status.Disabled")}
-                                            </Badge>
-                                        )}
-                                    </div>
-
-                                    <DropdownMenu>
-                                        <DropdownMenuTrigger asChild>
-                                            <button
-                                                className={`
+                                        <DropdownMenu>
+                                            <DropdownMenuTrigger asChild>
+                                                <button
+                                                    className={`
                                                     ml-auto
                                                     flex size-8 items-center justify-center rounded-[4px]
                                                     opacity-40
@@ -781,25 +888,25 @@ function App() {
                                                     data-[state=open]:bg-muted
                                                     data-[state=open]:opacity-100
                                                 `}
-                                            >
-                                                <Ellipsis
-                                                    className={`size-4 text-muted-foreground`}
-                                                />
-                                            </button>
-                                        </DropdownMenuTrigger>
+                                                >
+                                                    <Ellipsis
+                                                        className={`size-4 text-muted-foreground`}
+                                                    />
+                                                </button>
+                                            </DropdownMenuTrigger>
 
-                                        <DropdownMenuContent
-                                            align={`end`}
-                                            className={`
+                                            <DropdownMenuContent
+                                                align={`end`}
+                                                className={`
                                                 min-w-44
                                                 rounded-[6px]
                                                 bg-card
                                                 p-1
                                                 shadow-lg
                                             `}
-                                        >
-                                            <DropdownMenuItem
-                                                className={`
+                                            >
+                                                <DropdownMenuItem
+                                                    className={`
                                                     cursor-pointer
                                                     rounded-[4px]
                                                     px-2
@@ -807,18 +914,18 @@ function App() {
                                                     text-[14px]
                                                     focus:bg-muted
                                                 `}
-                                                onClick={() => {
-                                                    window.external.sendMessage(
-                                                        `mods.openFolder|${mod.folderPath}`,
-                                                    );
-                                                }}
-                                            >
-                                                {t("Mod.OpenFolder")}
-                                            </DropdownMenuItem>
+                                                    onClick={() => {
+                                                        window.external.sendMessage(
+                                                            `mods.openFolder|${mod.folderPath}`,
+                                                        );
+                                                    }}
+                                                >
+                                                    {t("Mod.OpenFolder")}
+                                                </DropdownMenuItem>
 
-                                            <DropdownMenuItem
-                                                disabled={!mod.nexusUrl}
-                                                className={`
+                                                <DropdownMenuItem
+                                                    disabled={!mod.nexusUrl}
+                                                    className={`
                                                     cursor-pointer
                                                     rounded-[4px]
                                                     px-2
@@ -828,20 +935,22 @@ function App() {
                                                     disabled:cursor-not-allowed
                                                     disabled:opacity-40
                                                 `}
-                                                onClick={() => {
-                                                    if (!mod.nexusUrl) return;
+                                                    onClick={() => {
+                                                        if (!mod.nexusUrl)
+                                                            return;
 
-                                                    window.external.sendMessage(
-                                                        `mods.openNexus|${mod.nexusUrl}`,
-                                                    );
-                                                }}
-                                            >
-                                                {t("Mod.OpenNexus")}
-                                            </DropdownMenuItem>
-                                        </DropdownMenuContent>
-                                    </DropdownMenu>
-                                </div>
-                            ))}
+                                                        window.external.sendMessage(
+                                                            `mods.openNexus|${mod.nexusUrl}`,
+                                                        );
+                                                    }}
+                                                >
+                                                    {t("Mod.OpenNexus")}
+                                                </DropdownMenuItem>
+                                            </DropdownMenuContent>
+                                        </DropdownMenu>
+                                    </div>
+                                );
+                            })}
                         </div>
                     </div>
                 </div>
@@ -1012,7 +1121,8 @@ function App() {
                                                                         flex h-10 w-full items-center justify-between rounded-[4px] px-3 transition-colors
 
                                                                         ${
-                                                                            selectedProfile?.name === profile.name
+                                                                            selectedProfile?.name ===
+                                                                            profile.name
                                                                                 ? "bg-primary/10 border border-primary"
                                                                                 : "bg-card hover:bg-muted"
                                                                         }
@@ -1311,9 +1421,7 @@ function App() {
                         </div>
                     </div>
 
-                    <div
-                        className={`rounded-[4px] bg-muted flex flex-col p-4`}
-                    >
+                    <div className={`rounded-[4px] bg-muted flex flex-col p-4`}>
                         <div className={`flex flex-row justify-between mb-1.5`}>
                             <Label
                                 className={`text-[14px] flex justify-center items-center text-blue-600`}
@@ -1323,8 +1431,59 @@ function App() {
                             </Label>
                         </div>
                         <div
-                            className={`flex flex-col justify-between bg-card p-2`}
+                            className={`flex flex-col justify-between bg-card p-2 space-y-1`}
                         >
+                            <div
+                                className={`flex flex-row justify-between items-center`}
+                            >
+                                <Label className={`text-[14px] font-normal`}>
+                                    {t("App.Smapi")}
+                                </Label>
+                                <Label className={`text-[14px] font-medium`}>
+                                    {!smapiInfo?.isInstalled ? (
+                                        <div
+                                            className={`bg-red-50 text-red-700 dark:bg-red-950 dark:text-red-300 px-1 font-normal`}
+                                        >
+                                            {t("Common.NotInstalled")}
+                                        </div>
+                                    ) : (
+                                        <div
+                                            className={`bg-green-50 text-green-700 dark:bg-green-950 dark:text-green-300 px-1 font-normal`}
+                                        >
+                                            {t("Common.Installed")}
+                                        </div>
+                                    )}
+                                </Label>
+                            </div>
+
+                            {updateCount > 0 && (
+                                <div
+                                    className={`flex flex-row justify-between items-center`}
+                                >
+                                    <Label
+                                        className={`text-[14px] font-normal`}
+                                    >
+                                        {t("Mod.Status.Update")}
+                                    </Label>
+                                    <Label
+                                        className={`text-[14px] font-medium`}
+                                    >
+                                        {updateCount > 0 && (
+                                            <Badge
+                                                className={`
+                                                    bg-blue-100
+                                                    text-blue-700
+                                                    dark:bg-blue-950
+                                                    dark:text-blue-300
+                                                `}
+                                            >
+                                                {updateCount}
+                                            </Badge>
+                                        )}
+                                    </Label>
+                                </div>
+                            )}
+
                             {warningCount > 0 && (
                                 <div
                                     className={`flex flex-row justify-between items-center`}
@@ -1386,7 +1545,11 @@ function App() {
                                 {t("Note.Title")}
                             </Label>
                         </div>
-                        <div className={`bg-background flex-1 flex justify-center items-center`}>Comming Soon</div>
+                        <div
+                            className={`bg-background flex-1 flex justify-center items-center`}
+                        >
+                            Comming Soon
+                        </div>
                     </div>
 
                     <div
@@ -1425,7 +1588,34 @@ function App() {
                     <div
                         className={`flex flex-row text-xs text-muted-foreground justify-end`}
                     >
-                        <Label>{t("App.Version", { version })}</Label>
+                        <Tooltip>
+                            <TooltipTrigger asChild>
+                                <Label
+                                    className={
+                                        appUpdate?.hasUpdate
+                                            ? "cursor-pointer text-blue-600"
+                                            : ""
+                                    }
+                                >
+                                    {t("App.Version", { version })}
+                                </Label>
+                            </TooltipTrigger>
+
+                            {appUpdate?.hasUpdate && (
+                                <TooltipContent side="top" className="max-w-80">
+                                    <div className="space-y-1">
+                                        <div className="font-medium">
+                                            New Update
+                                        </div>
+
+                                        <div className="text-xs text-muted-foreground">
+                                            {version} →{" "}
+                                            {appUpdate.latestVersion}
+                                        </div>
+                                    </div>
+                                </TooltipContent>
+                            )}
+                        </Tooltip>
                     </div>
                 </div>
             </div>

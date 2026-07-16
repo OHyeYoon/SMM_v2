@@ -19,3 +19,12 @@ public sealed class SettingInfo
 
     public string CurrentProfile { get; set; } = "Default";
 }
+
+
+public sealed class AppUpdateInfo
+{
+    public string CurrentVersion { get; set; } = string.Empty;
+    public string LatestVersion { get; set; } = string.Empty;
+    public string ReleaseUrl { get; set; } = string.Empty;
+    public bool HasUpdate { get; set; }
+}

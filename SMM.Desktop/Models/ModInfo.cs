@@ -18,6 +18,7 @@ public sealed record ModInfo
     public bool HasManifest { get; init; }
     public bool IsValidManifest { get; init; }
     public bool IsEnabled { get; init; }
+    public List<string> UpdateKeys { get; set; } = [];
 
     public string Status { get; init; } = "Normal";
     public string ErrorMessage { get; init; } = string.Empty;
@@ -85,7 +86,43 @@ public sealed class ModManifest
     public string Description { get; set; } = string.Empty;
     public string MinimumApiVersion { get; set; } = string.Empty;
     public string EntryDll { get; set; } = string.Empty;
-     public List<JsonElement> UpdateKeys { get; set; } = [];
+     public List<string> UpdateKeys { get; set; } = [];
     public List<ModDependency> Dependencies { get; set; } = [];
     public ModContentPackFor? ContentPackFor { get; set; }
+}
+
+// 업데이트 결과 모델
+public sealed class ModUpdateResult
+{
+    public string Id { get; set; } = string.Empty;
+    public SuggestedUpdate? SuggestedUpdate { get; set; }
+    public List<string> Errors { get; set; } = [];
+}
+
+public sealed class SuggestedUpdate
+{
+    public string Version { get; set; } = string.Empty;
+    public string Url { get; set; } = string.Empty;
+}
+
+// 업데이트 요청 모델
+public sealed class ModUpdateRequest
+{
+    public List<ModUpdateRequestItem> Mods { get; set; } = [];
+
+    public string ApiVersion { get; set; } = "4.0.0";
+
+    public string GameVersion { get; set; } = string.Empty;
+
+    public string Platform { get; set; } = "Windows";
+
+    public bool IncludeExtendedMetadata { get; set; }
+}
+
+public sealed class ModUpdateRequestItem
+{
+    public string Id { get; set; } = string.Empty;
+    public List<string> UpdateKeys { get; set; } = [];
+    public string InstalledVersion { get; set; } = string.Empty;
+    public bool IsBroken { get; set; }
 }

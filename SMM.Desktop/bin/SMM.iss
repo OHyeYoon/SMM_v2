@@ -2,7 +2,7 @@
 ; SEE THE DOCUMENTATION FOR DETAILS ON CREATING INNO SETUP SCRIPT FILES!
 ; Non-commercial use only
 
-#define MyAppName "Stardew Mod Manager"
+#define MyAppName "Stardewvally Mod Manager"
 #define MyAppVersion "2.0.0"
 #define MyAppPublisher "ralotte"
 #define MyAppURL "https://www.nexusmods.com/stardewvalley/mods/47462"

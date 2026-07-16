@@ -17,6 +17,7 @@
     "Mod.Filter.Disabled": "Disabled",
     "Mod.Filter.Warning": "Warning",
     "Mod.Filter.Error": "Error",
+    "Mod.Filter.Update": "Update",
     "Mod.Sort.Name": "Name",
     "Mod.Sort.Status": "Status",
     "Mod.Order.Asc": "Asc",
@@ -25,6 +26,7 @@
     "Mod.Status.Warning": "Warning",
     "Mod.Status.Error": "Error",
     "Mod.Status.Disabled": "Disabled",
+    "Mod.Status.Update": "Update",
     "Mod.Status.WarningWithCount": "Warning ({count})",
     "Mod.Status.ErrorWithCount": "Error ({count})",
     "Mod.OpenFolder": "Open Mod Folder",
@@ -57,5 +59,9 @@
     "Settings.Theme.Dark": "Dark",
 
     "Common.Cancel": "Cancel",
-    "Common.Close": "Close"
+    "Common.Close": "Close",
+
+    "Common.Installed": "Installed",
+    "Common.NotInstalled": "Not Installed"
+    
 }

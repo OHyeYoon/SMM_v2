@@ -17,6 +17,7 @@
     "Mod.Filter.Disabled": "비활성",
     "Mod.Filter.Warning": "경고",
     "Mod.Filter.Error": "오류",
+    "Mod.Filter.Update": "업데이트",
     "Mod.Sort.Name": "이름",
     "Mod.Sort.Status": "상태",
     "Mod.Order.Asc": "오름",
@@ -24,6 +25,7 @@
     "Mod.Status.Normal": "정상",
     "Mod.Status.Warning": "경고",
     "Mod.Status.Error": "오류",
+    "Mod.Status.Update": "업데이트",
     "Mod.Status.Disabled": "비활성",
     "Mod.Status.WarningWithCount": "경고 ({count})",
     "Mod.Status.ErrorWithCount": "오류 ({count})",
@@ -58,5 +60,8 @@
     "Settings.Theme.Dark": "다크",
 
     "Common.Cancel": "취소",
-    "Common.Close": "닫기"
+    "Common.Close": "닫기",
+
+    "Common.Installed": "설치됨",
+    "Common.NotInstalled": "설치되지 않음"
 }

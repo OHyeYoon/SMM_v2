@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("2.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+d522a4a679057cd04b352ed6d3cb70b8de32595a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2.0.0+d03d85822549c52c554fcd7d6d8e8b4eaa72a514")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("2.0.0.0")]

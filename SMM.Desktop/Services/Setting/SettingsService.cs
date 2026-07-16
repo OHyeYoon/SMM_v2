@@ -1,4 +1,6 @@
+using System.Net.Http.Json;
 using System.Reflection;
+using System.Text.Json.Serialization;
 using Microsoft.Extensions.Configuration;
 using SMM.Desktop.Models;
 
@@ -153,5 +155,65 @@ public sealed class SettingsService
             .GetName()
             .Version?
             .ToString(3) ?? "Unknown";
+    }
+
+    public sealed class AppUpdateService
+    {
+        private readonly HttpClient _httpClient;
+
+        public AppUpdateService(HttpClient httpClient)
+        {
+            _httpClient = httpClient;
+        }
+
+        public async Task<AppUpdateInfo> CheckAsync()
+        {
+            var currentVersion =
+                Assembly.GetExecutingAssembly()
+                    .GetName()
+                    .Version?
+                    .ToString(3)
+                ?? "0.0.0";
+
+            using var request = new HttpRequestMessage(
+                HttpMethod.Get,
+                "https://api.github.com/repos/OHyeYoon/SMM_v2/releases/latest"
+            );
+
+            request.Headers.UserAgent.ParseAdd("SMM-Version-Checker");
+
+            using var response = await _httpClient.SendAsync(request);
+            response.EnsureSuccessStatusCode();
+
+            var release = await response.Content
+                .ReadFromJsonAsync<GitHubRelease>();
+
+            var latestVersion = release?.TagName?
+                .Trim()
+                .TrimStart('v', 'V')
+                ?? currentVersion;
+
+            var hasUpdate =
+                Version.TryParse(currentVersion, out var current) &&
+                Version.TryParse(latestVersion, out var latest) &&
+                latest > current;
+
+            return new AppUpdateInfo
+            {
+                CurrentVersion = currentVersion,
+                LatestVersion = latestVersion,
+                ReleaseUrl = release?.HtmlUrl ?? string.Empty,
+                HasUpdate = hasUpdate
+            };
+        }
+
+        private sealed class GitHubRelease
+        {
+            [JsonPropertyName("tag_name")]
+            public string TagName { get; set; } = string.Empty;
+
+            [JsonPropertyName("html_url")]
+            public string HtmlUrl { get; set; } = string.Empty;
+        }
     }
 }

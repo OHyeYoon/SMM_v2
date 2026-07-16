@@ -1,0 +1,3162 @@
+전체 모드 수: 327
+[CP] Upgrade Sprinklers /  /  / UpdateKeys: []
+(AT) DustBeauty's Seasonal Fences / Novaphene.DB-SeasonalFences / 1.0.0 / UpdateKeys: [Nexus:26025]
+(AT) Dustbeauty's Seasonal Path and Flooring / Novaphene.DB-SeasonalFlooring / 1.0 / UpdateKeys: [Nexus:26026]
+(AT) Jona's Potted Strawberry Retex / Jona.PottedStrawberryRetex / 1.0.2 / UpdateKeys: [Nexus:44517]
+(CP) Canvas Buff Icons Retexture / kqnuka.canvasbuffs / 1.2.0 / UpdateKeys: [Nexus:33547]
+(CP) Jona's Potted Strawberry / Jona.PottedStrawberry / 1.0.2 / UpdateKeys: [Nexus:44517]
+(MG) DustBeauty's Wildflower Grass Field / Novaphene.DB-WildGrassField / 1.0.0 / UpdateKeys: [Nexus:26030]
+[AT] Creamy Cozy Decor / ENGloomy.CreamyCozyDecorAT / 1.1.0 / UpdateKeys: [Nexus:43300]
+[AT] Nano's Retro Style Furniture / RetroStyle.Furniture.Nano / 1.1.0 / UpdateKeys: [Nexus:16029@AT]
+[AT] Orangeblossom's Gift Box Chests / ob7.chest.giftEXTRA / 1.0 / UpdateKeys: []
+[AT] Vintage Industrial Decor / ENGloomy.VintageIndustrialDecorAT / 1.0.0 / UpdateKeys: [Nexus:36090]
+[AT]Gintyann's Sunflower Furniture / AT.Gintyann_Sunflowerfurniture / 1.0.0 / UpdateKeys: []
+[C#] Sunberry Village / SunberryTeam.SBVSMAPI / 1.1.2 / UpdateKeys: [Nexus:-1]
+[CC] Weather Wonders - Stable / Kana.WeatherWonders.CC / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+[CP] 1.6 Victy Villager portrait re-texture / Victy.VillagerRetexture / 1.6.41 / UpdateKeys: [Nexus:16238]
+[CP] 갈무리9 / Pinya_GalmuriFont / 1.0.0 / UpdateKeys: []
+[CP] 달빛해파리 리텍 / HBlue.Jellyfish.CP / 1.0.0 / UpdateKeys: []
+[CP] 조직원 엘리엇 대사확장모드 / Number7102.ElliottDialogue / 2.2.0 / UpdateKeys: []
+[CP] 지름길 모드 / Wally32.ShortcutMOD.CP / 2.0.7 / UpdateKeys: []
+[CP] Archaeology Skill / moonslime.ArchaeologySkill.CP / 2.18.0 / UpdateKeys: [Nexus:-1]
+[CP] Buildable Winery / delloti.Winery / 1.3.1 / UpdateKeys: []
+[CP] Button's Extra Books / Spiderbuttons.ButtonsExtraBooks / 3.2.1 / UpdateKeys: [Nexus:21526]
+[CP] Cozy Provincial Craftables / Latteholn.CozyProvincial / 1.0.0 / UpdateKeys: [Nexus:47992@CP]
+[CP] Daily Clothes Pack / delloti.CP.DCP / 0.1 / UpdateKeys: []
+[CP] DAILY HATS SET / delloti.CP.DAILYHATSSET / 0.0.1 / UpdateKeys: []
+[CP] DAILY PANTS SET / delloti.CP.DAILYPANTSSET / 1.0.0 / UpdateKeys: []
+[CP] DAILY PANTS SET ver.2 / delloti.CP.DAILYPANTSSET.ver2 / 1.0.0 / UpdateKeys: []
+[CP] DAILY SHIRTS SET ver.2 / delloti.CP.DAILYSHIRTSSET.ver2 / 1.0.0 / UpdateKeys: []
+[CP] Delloti's Flower Retexture / delloti.FlowerRetex / 1.0 / UpdateKeys: []
+[CP] DL HATS SET / delloti.CP.DLHATSSET / 1.0.0 / UpdateKeys: []
+[CP] Enemies from Kirby / CandyConstellation.KirbyEnemies / 1.0.0 / UpdateKeys: [Nexus:48464]
+[CP] GH's Peach Body type (female) / GH.Pitch.female / 5.0.0 / UpdateKeys: []
+[CP] GoodJobSuzette's Home Cooking / GoodJobSuzette.HomeCooking / 1.6.4 / UpdateKeys: [Nexus:30838]
+[CP] Hardmode Alphamale Harvey / WBM_Harveydialogue / 1.1.3 / UpdateKeys: []
+[CP] Italian Countryside Farmhouse / Latteholn.ItalianCountrysideFarmhouseCP / 1.0.1 / UpdateKeys: [Nexus:27005]
+[CP] LatteHoln's Idyllic Country Fences / Latteholn.IdyllicCountryFences / 1.0.0 / UpdateKeys: [Nexus:47991@CP]
+[CP] Molamole's Artisan and Refining Craftables Retextures / Molamole.ArtisanRefiningCraftablesRetextures.CP / 1.0.4 / UpdateKeys: [Nexus: 24116]
+[CP] POTION / delloti.POTION / 1.1.0 / UpdateKeys: []
+[CP] Retro Floors & Walls / Novaphene.RetroWallsAndFloors / 3.0 / UpdateKeys: [Nexus:17127]
+[CP] Socializing Skill / drbirbdev.SocializingSkill.CP / 2.1.1 / UpdateKeys: []
+[CP] Vintage Industrial Decor / ENGloomy.VintageIndustrialDecor / 1.0.0 / UpdateKeys: [Nexus:36090]
+[CP] Walk to the Desert Redux / Tarniyar.CP.WalkToDesert / 1.3.3 / UpdateKeys: [Nexus:8630, ModDrop:980591, CurseForge:499736, GitHub:Aeywoo/WTDR]
+[CP] XNB 리텍 모드 / wally32.XNB.Mod / 2.0.4 / UpdateKeys: []
+[CP] Yet Another Cooking Skill / moonslime.CookingSkill.CP / 1.12.0 / UpdateKeys: [Nexus:-1]
+[CP] yuyu Mary Jane / yuyu8_8.MaryJane / 1.0.0 / UpdateKeys: []
+[CP]Gintyann's Sunflower Crib / Gintyann.sunflower.Crib / 2.2.0 / UpdateKeys: [Nexus:]
+[CP]Gintyann's Sunflower Kitchen / Gintyannsunflower.kitchen / 1.0.0 / UpdateKeys: [Nexus:]
+[CP]Hardmode Alpahmale Sam_unmarried / WBM_sam / 1.0.0 / UpdateKeys: []
+[CP]Peach yogurt's Sprites / CP.Peachyogurt.Sprites / 1.1 / UpdateKeys: [Nexus:30139]
+[CP]Sebastian's dialogue / Sebastiansdialogue / 1.0.0 / UpdateKeys: []
+[CP]Tanga forest Gold Clock / Tanga.forestGoldClock / 1.1.0 / UpdateKeys: [Nexus:16853]
+[CP]Yandere Leah / WBM_Leah / 1.0.0 / UpdateKeys: []
+[DLL] Weather Wonders - Stable / Kana.WeatherWonders.DLL / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+[FF] Retro Furniture / Novaphene.RetroFurnitures / 3.0 / UpdateKeys: [Nexus:17127]
+[FTM] Rose and the Alchemist / Wildflour.SASS.FTM / 2.0.3 / UpdateKeys: []
+[FTM] Walk to the Desert Redux / Tarniyar.FTM.WalkToDesert / 1.3.3 / UpdateKeys: [Nexus:???]
+[FTM] Weather Wonders - Stable / Kana.WeatherWonders.FTM / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+[PFM] POTION / delloti.POTION.PFM / 1.1.0 / UpdateKeys: []
+[SVE] Wizard Dialogue - 아라아이AraI / AraI.SVE_D_Wizard / 1.0.0 / UpdateKeys: []
+*SorryLabCore* / YunHikari.SorryLabCore / 1.0.14 / UpdateKeys: [Nexus:29793]
+6480's Giant Crops / 6480.giantcrops / 2.1.2 / UpdateKeys: [Nexus: 5221]
+더욱 까칠한 셰인 대사 / Ryueun.ShaneDialogue / 1.0.0 / UpdateKeys: []
+猫露谷物语Cat Valley UI / RimeNovi.CatValley / 1.0.3 / UpdateKeys: [Nexus:39379]
+输入法修复（Input Method Fix） / Cyrilly.InputMethodFix / 1.0.4 / UpdateKeys: [Nexus:35313, GitHub:Cyrillya/InputMethodFix]
+AchtuurCore / Achtuur.AchtuurCore / 1.3.3 / UpdateKeys: [Nexus:16827]
+Activate Sprinklers / f4iTh.ActivateSprinklers / 1.3.2 / UpdateKeys: [Nexus:2088]
+Active and Useful Pets / recht.UsefulPets / 1.2.12-beta / UpdateKeys: [Nexus:40711]
+Aimon's Fancy Farmhouse / Aimon111.RedesignedFarmHouseLayoutAlt / 2.1.2 / UpdateKeys: [Nexus:14411]
+Aimon's More Lively Farm Cave / Aimon.MoreLivelyFarmCave / 1.0.3 / UpdateKeys: [Nexus:23190]
+Alex Vanilla Expansion / WBM.Alexdialogue / 1.0.1 / UpdateKeys: []
+All Chests Menu / aedenthorn.AllChestsMenu / 0.4.1 / UpdateKeys: [Nexus:14494]
+Alternative Textures / PeacefulEnd.AlternativeTextures / 8.1.1 / UpdateKeys: [Nexus:9246]
+Always Raining in the Valley / Himetarts.ARV.CP / 1.5.1 / UpdateKeys: [Nexus:9999]
+Animal Husbandry Mod / DIGUS.ANIMALHUSBANDRYMOD / 2.8.1 / UpdateKeys: [Nexus:1538]
+AnimalsNeedWater / GZhynko.AnimalsNeedWater / 1.7.4 / UpdateKeys: [Nexus:6196]
+Apex Mastery / JavCombita.ApexMastery / 3.5.6 / UpdateKeys: [Nexus:39685]
+ArchaeologySkill / moonslime.ArchaeologySkill / 2.18.2 / UpdateKeys: [Nexus:22199]
+ARV- Maximum / Himetarts.ARVCC / 1.5.1 / UpdateKeys: []
+AT.LBXLW.AnimatiedBBQStand / AT_LBXLW_Animatied_Barbecue_Stand_CP / 1.0.0 / UpdateKeys: [Nexus:35140]
+AutoGrabTruffles / qixing.AutoGrabTruffles / 1.1.0 / UpdateKeys: [Nexus:20874, GitHub:qixing-jk/QiXingAutoGrabTruffles]
+AutomaticGates / Rakiin.AutomaticGates / 2.5.5 / UpdateKeys: [Nexus:3109]
+BackgroundTickThrottler / ZeroXPatch.BackgroundTickThrottler / 1.1.0 / UpdateKeys: [Nexus:41920]
+Bank of Ferngill / mizzion.bankofferngill / 1.1.1 / UpdateKeys: [Nexus:13043]
+Bees Plus / bb.beesPlus / 1.3 / UpdateKeys: [Nexus: 30597]
+Better Crafting / leclair.bettercrafting / 2.18.0 / UpdateKeys: [Nexus:11115@Main, ModDrop:1115749@Main]
+Better Critters / Better.Critters / 1.0.2 / UpdateKeys: []
+Better Rings / BBR.BetterRings / 1.0 / UpdateKeys: [Nexus:8642]
+Better Shipping Bin / MindMeltMax.BetterShipping / 1.4.8 / UpdateKeys: [nexus:10487]
+Better Water / Neopffe.BetterWater / 1.9.2 / UpdateKeys: [Nexus:15079]
+Better Winter Star Gifts / bennoloth.BWSG / 1.0.3 / UpdateKeys: [Nexus:14994]
+Bigger Backpack / spacechase0.BiggerBackpack / 7.3 / UpdateKeys: [Nexus:1845, Chucklefish:5191]
+Bigger Fridges / Entoarox.BiggerFridges / 1.1.1 / UpdateKeys: [nexus:21678]
+BirbCore / drbirbdev.BirbCore / 1.1.0 / UpdateKeys: [Nexus:19140]
+Book Subscription / BerryBea.BookSubscription / 1.2.4 / UpdateKeys: [Nexus:21353]
+BubbleTea / Gegamja.BubbleTea / 2.0.0 / UpdateKeys: []
+Build On Any Tile / Esca.BuildOnAnyTile / 1.1.3 / UpdateKeys: [GitHub:Esca-MMC/BuildOnAnyTile, Nexus:6854, ModDrop:827525]
+Button's Extra Books / Spiderbuttons.ButtonsExtraBooksCore / 3.2.1 / UpdateKeys: [Nexus:21526]
+Button's Extra Trigger Action Stuff / Spiderbuttons.BETAS / 3.4.0 / UpdateKeys: [Nexus:27100]
+Calcifer / sophie.Calcifer / 0.1.0 / UpdateKeys: []
+CharacterCustomizationAnywhere / jeanne.CharacterCustomizationAnywhere / 1.0.2 / UpdateKeys: [Nexus:7415]
+Chests Anywhere / Pathoschild.ChestsAnywhere / 1.30.1 / UpdateKeys: [Nexus:518]
+CJB Cheats Menu / CJBok.CheatsMenu / 1.42.0 / UpdateKeys: [Nexus:4]
+CJB Item Spawner / CJBok.ItemSpawner / 2.5.6 / UpdateKeys: [Nexus:93]
+Classical Garden Statue Obelisks / AirynYri.GardenStatueObelisks / 1.1.0 / UpdateKeys: [Nexus:16374]
+ClintDialouge / Pyobeom.ClintDialouge / 1.0.0 / UpdateKeys: []
+Cloudy Skies / leclair.cloudyskies / 1.9.1 / UpdateKeys: [Nexus:23135@main]
+Compact Searchable Shop Menu / mushymato.CompactSearchableShopMenu / 1.2.1 / UpdateKeys: [Nexus:33271, GitHub:Mushymato/CompactSearchableShopMenu]
+Console Commands / SMAPI.ConsoleCommands / 4.5.2 / UpdateKeys: []
+Content Patcher / Pathoschild.ContentPatcher / 2.9.1 / UpdateKeys: [Nexus:1915]
+Convenient Inventory / gaussfire.ConvenientInventory / 1.6.1 / UpdateKeys: [Nexus:10384]
+Cooking Daily / CuriousLotor.CookingDaily / 1.1 / UpdateKeys: [Nexus:32686]
+Cornucopia - Artisan Machines / Cornucopia.ArtisanMachines / 1.0.16 / UpdateKeys: [Nexus: 24842]
+Cornucopia - Cooking Recipes / Cornucopia.CookingRecipes / 1.0.8 / UpdateKeys: [Nexus:39057]
+Cornucopia - More Crops / Cornucopia.MoreCrops / 1.6.3 / UpdateKeys: [Nexus: 19508]
+Cornucopia - More Flowers / Cornucopia.MoreFlowers / 1.5.7 / UpdateKeys: [Nexus: 20290]
+CP.LBXLW' Barbecue Stand / LBXLW_Barbecue_Stand_CP / 1.0.0 / UpdateKeys: [Nexus:35140]
+Crop Harvest Bubbles / aedenthorn.CropHarvestBubbles / 0.6.2 / UpdateKeys: [Nexus:17761]
+Crop Watering Bubbles Continued / tem696969696969.CropWateringBubbles / 0.2.9 / UpdateKeys: [Nexus:21428]
+Cross-Mod Compatibility Tokens / Spiderbuttons.CMCT / 1.1.2 / UpdateKeys: [Nexus:28284]
+Custom Bush / furyx639.CustomBush / 1.5.2 / UpdateKeys: [Nexus:20619, CurseForge:998265, ModDrop:1547214, GitHub:LeFauxMatt/CustomBush]
+Custom Companions / PeacefulEnd.CustomCompanions / 5.1.0 / UpdateKeys: [Nexus:8626]
+Custom Companions for Nooks and Crannies / Wildflour.NooksCranniesCC / 2.2 / UpdateKeys: []
+Custom Fixed Dialogue / datamancer.CustomFixedDialogue / 2.4.4 / UpdateKeys: [Nexus:20938, ModDrop:1533308]
+Customize Anywhere / Cherry.CustomizeAnywhere / 1.4.2 / UpdateKeys: [Nexus:4734]
+Customize Dresser / Dragoon23.CustomizeDresser / 1.5.1 / UpdateKeys: [Nexus:23359]
+Daily Orders / Wlyra.DailyOrders / 1.0.0 / UpdateKeys: []
+DaisyNiko's Tilesheets / DaisyNiko.Tilesheets / 1.12 / UpdateKeys: [Nexus:4736]
+DaLionheart / DaLion.Core / 2.2.3 / UpdateKeys: [Nexus:24332]
+Delloti's Hairstyles_80type / delloti.Hair.80 / 0.1.2 / UpdateKeys: []
+Destroyable Bushes / Esca.DestroyableBushes / 1.5.2 / UpdateKeys: [Nexus:6304, GitHub:Esca-MMC/DestroyableBushes, ModDrop:798245]
+DoNotEatMyCrops / u_u__w.DoNotEatMyCrops / 1.0.0 / UpdateKeys: []
+Drink Water and Eat Frozen / boringvlln.kettlemicrowaveAT / 1.1 / UpdateKeys: []
+Drink Water and Eat Frozen / boringvlln.kettlemicrowave / 1.5.1 / UpdateKeys: [Nexus:25681]
+DSHi Adventure Kit Retexture / DSHi.AdventureKitRetexture / 1.0.1 / UpdateKeys: [Nexus:34058]
+DSHi Artifacts Retexture / DSHi.ArtifactsRetexture / 1.2.0 / UpdateKeys: [Nexus:24240]
+DSHi Fish Retexture / DSHi.FishRetexture / 1.2.0 / UpdateKeys: [Nexus:21465]
+DSHi Food Retexture / DSHi.FoodRetexture / 1.4.0 / UpdateKeys: [Nexus:18726]
+DSHi Minerals Retexture / DSHi.MineralsRetexture / 1.3.0 / UpdateKeys: [Nexus:18725]
+DSHi Seed Retexture / DSHi.SeedRetexture / 1.1.0 / UpdateKeys: [Nexus:33153]
+DSHi Shipping Items Retexture / DSHi.ShippingItemsRetexture / 1.4.2 / UpdateKeys: [Nexus:18769]
+DSHi Special Items Retexture / DSHi.SpecialItemsRetexture / 1.0.2 / UpdateKeys: [Nexus:32206]
+Dynamic Reflections / PeacefulEnd.DynamicReflections / 4.0.1 / UpdateKeys: [Nexus:12831]
+DynamicNightTime / knakamura.dynamicnighttime / 1.3.16-beta / UpdateKeys: [Nexus:2072]
+DynamicShader / Nook.DynamicShader / 1.0.15 / UpdateKeys: [Nexus: 40775]
+Earthy Interiors / DaisyNiko.EarthyInteriors / 1.2.2 / UpdateKeys: [Nexus:14790]
+Earthy Recolour / DaisyNiko.EarthyRecolour / 1.4.4 / UpdateKeys: [Nexus:5255]
+Earthy Ridgeside CP Conversion / VinillaBean.EarthyRSV / 1.1.3 / UpdateKeys: [Nexus:17980]
+Elegant Town Interior / colling.towninterior / 1.0.3 / UpdateKeys: [Nexus:15049]
+Elle's Cuter Cats / Elle.CuterCats / 1.0.1 / UpdateKeys: [Nexus:20041]
+Elle's Cuter Dogs / Elle.CuterDogs / 1.0.2 / UpdateKeys: [Nexus:20040]
+Elle's New Horses / Elle.NewHorses / 1.1.5 / UpdateKeys: [Nexus:3169]
+Em's Cats / RivalRabbit.EmsCatsCP / 1.0 / UpdateKeys: [Nexus:37201]
+Em's Dogs / RivalRabbit.EmsDogsCP / 1.2 / UpdateKeys: [Nexus:38357]
+Em's Farm Animals / RivalRabbit.EmsFarmAnimalsCP / 1.3 / UpdateKeys: [Nexus:39782]
+Em's Horses / RivalRabbit.EmsHorsesCP / 1.1 / UpdateKeys: [Nexus:41169]
+Em's Items / RivalRabbit.EmsItemsCP / 1.3 / UpdateKeys: [Nexus:39019]
+Em's Large Critters / Ems.LargeCritters / 1.5 / UpdateKeys: [Nexus:39616]
+Em's River Wildlife / Ems.River.Wildlife / 1.3 / UpdateKeys: [Nexus:43463]
+Em's Seasonal Sprinklers / Ems.SeasonalSprinklers / 1.2 / UpdateKeys: [Nexus:36790]
+Em's SVE Animals / RivalRabbit.EmsCamelsCP / 1.1 / UpdateKeys: [Nexus:39719]
+Em's Turtles CP / RivalRabbit.EmsTurtlesCP / 1.0 / UpdateKeys: [Nexus:38651]
+EmilyDialouge / Pyobeom.EmilyDialouge / 1.0.0 / UpdateKeys: []
+Empty Jar Bubbles / tem696969696969.EmptyJarBubbles / 1.0.4-fix / UpdateKeys: [Nexus:22598]
+Esca's Modding Plugins (EMP) / Esca.EMP / 1.7.2 / UpdateKeys: [Nexus:9296, GitHub:Esca-MMC/EscasModdingPlugins, ModDrop:1005443]
+Event Lookup / shekurika.EventLookup / 0.2.9 / UpdateKeys: [Nexus:8505]
+Expanded Preconditions Utility / Cherry.ExpandedPreconditionsUtility / 1.1.2 / UpdateKeys: [Nexus:6529]
+ExtraAnimalConfig / selph.ExtraAnimalConfig / 1.9.10 / UpdateKeys: [Nexus:25328]
+ExtraMachineConfig / selph.ExtraMachineConfig / 1.17.12 / UpdateKeys: [Nexus:22256]
+Farm Type Manager (FTM) / Esca.FarmTypeManager / 1.26.1 / UpdateKeys: [Nexus:3231, GitHub:Esca-MMC/FarmTypeManager, ModDrop:598755]
+Farmhouse Fixes / CF.FarmhouseFixes / 1.8.3 / UpdateKeys: [Nexus:16507]
+Faster Menu Load / ZeroXPatch.FasterMenuLoad / 1.5.0 / UpdateKeys: [Nexus: 41564 ]
+Ferngill Simple Economy / paulsteele.fse / 2.1.0 / UpdateKeys: [ferngill.simple.economy, Nexus:21414]
+Ferngill Simple Economy Default Pack / paulsteele.fse.vanilla / 2.1.0 / UpdateKeys: [ferngill.simple.economy, Nexus:21414]
+Ferngill Simple Economy Mail / paulsteele.fse.mail / 2.1.0 / UpdateKeys: [ferngill.simple.economy, Nexus:21414]
+Fishing Assistant 2 / ChibiKyu.FishingAssistant2 / 2.5.2 / UpdateKeys: [Nexus:5815]
+Float Chest Labels / Nook.ChestLabels / 1.0.1 / UpdateKeys: [Nexus:39045]
+Forager's Nooks and Crannies - New Maps for Stardew Valley / Wildflour.NooksCrannies / 2.2.1 / UpdateKeys: [Nexus:23468]
+Forest Amber / miru.forestamber / 3.0 / UpdateKeys: [nexus:16127]
+Friends Forever / Kriana.FriendsForever / 1.2.10 / UpdateKeys: [Nexus:20702]
+Furniture Adjustment / aedenthorn.FurnitureAdjustment / 0.4.1 / UpdateKeys: [Nexus:10213]
+Furniture Framework / leroymilo.FurnitureFramework / 3.3.0 / UpdateKeys: [Nexus:23458]
+Generic Mod Config Menu / spacechase0.GenericModConfigMenu / 1.16.0 / UpdateKeys: [Nexus:5098]
+GMCM Options / jltaylor-us.GMCMOptions / 2.1.0 / UpdateKeys: [Nexus:10505, GitHub:jltaylor-us/StardewGMCMOptions]
+HaleyDialouge / Pyobeom.HaleyDialouge / 1.1.0 / UpdateKeys: []
+Happy Home Designer / tlitookilakin.HappyHomeDesigner / 2.5.4 / UpdateKeys: [Nexus:19675, GitHub:tlitookilakin/HappyHomeDesigner]
+HappyCamper (FF) / Lamya.Camper.FF / 1.0.2 / UpdateKeys: [nexus:37437]
+Help Wanted Redux For 1.6 / weizinai.HelpWanted / 2.0.4 / UpdateKeys: [Nexus: 21766]
+Huge Chest / bozeupasi.HugeChestMod / 1.0.3 / UpdateKeys: [Nexus:47117]
+HxW Tilesheets / hxw.tilesheets / 2.0.0 / UpdateKeys: [Nexus:20139]
+Immersive Scarecrows / aedenthorn.ImmersiveScarecrows / 1.4.3 / UpdateKeys: [Nexus:15290]
+InfiniteZoom / berkayylmao.InfiniteZoom / 1.1.0 / UpdateKeys: [Nexus:8808]
+Integrated Minecarts (CP Component) / jibb.minecarts / 4.6.0 / UpdateKeys: [Nexus:11881, CurseForge:988762]
+Integrated Minecarts (SMAPI Component) / jibb.minecarts.C / 4.6.0 / UpdateKeys: [Nexus:11881]
+Internationalization / bcmpinc.Internationalization / 0.6 / UpdateKeys: [Nexus:0]
+Italian Countryside Buildings / Latteholn.ItalianCountrysideBuildings / 1.0.4 / UpdateKeys: [Nexus:27579]
+Item extensions / mistyspring.ItemExtensions / 1.16.0 / UpdateKeys: [nexus:20357]
+Joja Lottery / Airyn.JojaLotteryCP / 2.0.0 / UpdateKeys: []
+LadderLocator / ChaosEnergy.LadderLocator / 1.5.2 / UpdateKeys: [Nexus:3094]
+Lani CC - Sammy / atelier99.LaniCC / 1.1.7 / UpdateKeys: [Nexus:32689]
+Let's Move It / Exblosis.LetsMoveIt / 0.6.20 / UpdateKeys: [Nexus:20943]
+Livestock Bazaar / mushymato.LivestockBazaar / 1.6.1 / UpdateKeys: [Nexus:29997, GitHub:Mushymato/LivestockBazaar]
+Living Valley Characters - CP / LivingValley.Characters.CP / 1.0.0 / UpdateKeys: []
+Living Valley Characters (TLV Content Pack) / LivingValley.Characters / 1.0.0 / UpdateKeys: []
+Looking for Love Korean 2.2.0 / foggy.LfL / 2.2.8 / UpdateKeys: []
+Lookup Anything / Pathoschild.LookupAnything / 1.55.0 / UpdateKeys: [Nexus:541]
+Love of Cooking / blueberry.LoveOfCooking / 2.0.8 / UpdateKeys: [Nexus:6830]
+Love of Cooking [CP] / blueberry.LoveOfCooking.CP / 2.0.8 / UpdateKeys: []
+Love of Cooking [EN] / blueberry.LoveOfCooking.EN / 2.0.8 / UpdateKeys: []
+Lumisteria Tilesheets - Indoor / Lumisteria.LumiTilesheetsIndoor / 1.4.0 / UpdateKeys: [Nexus:9599]
+Lumisteria Tilesheets - Outdoor / Lumisteria.TtilesheetsOutdoor / 1.4.0 / UpdateKeys: [Nexus:10448]
+Machine Terrain Framework / selph.CustomTapperFramework / 1.11.6 / UpdateKeys: [Nexus:22975]
+Mail Framework Mod / DIGUS.MailFrameworkMod / 1.20.0 / UpdateKeys: [Nexus:1536]
+Mail Services Mod / Digus.MailServicesMod / 1.6.2 / UpdateKeys: [Nexus:7842]
+Mapping Extensions and Extra Properties (MEEP) / DecidedlyHuman.MappingExtensionsAndExtraProperties / 2.5.3 / UpdateKeys: [Nexus:14493]
+Mild Winter Snow / ennRiccia.mildWinterSnow / 1.0.0 / UpdateKeys: []
+Mini Bars / Coldopa.MiniBars / 1.0.5 / UpdateKeys: [Nexus:8329]
+Misc Map Actions & Properties / mushymato.MMAP / 1.14.0 / UpdateKeys: [Nexus:28423, GitHub:Mushymato/MiscMapActionsProperties]
+Moon Cycle / Airyn.MoonCycle / 1.1.0 / UpdateKeys: [Nexus:19428]
+More Grass / EpicBellyFlop45.MoreGrass / 1.2.2 / UpdateKeys: [Nexus:5398]
+More Nightly Events / leclair.morenightlyevents / 0.4.0 / UpdateKeys: [Nexus:22612@Main]
+More Quest / KangTaeGong / 2.0.6 / UpdateKeys: [Nexus:7155]
+More Quest Mail / KangTaeGong.AQM / 2.0.6 / UpdateKeys: []
+MoreSecretNotes / NotAGardener.MoreSecretNotes / 1.0.0 / UpdateKeys: [Nexus:41211]
+No Fence Decay Redux / EnderTedi.NoFenceDecayRedux / 1.2.0 / UpdateKeys: [Nexus:20802]
+Noclip Mode / Pathoschild.NoclipMode / 1.3.20 / UpdateKeys: [Nexus:3900]
+NPC Map Locations / Bouhm.NPCMapLocations / 3.5.2 / UpdateKeys: [Nexus:239]
+Passable Crops / NCarigon.PassableCrops / 1.2.3 / UpdateKeys: [nexus:15223]
+PEEM (Not MEEP) / DecidedlyHuman.PEEM / 1.0.1 / UpdateKeys: []
+Pen Pals / focustense.PenPals / 0.4.0 / UpdateKeys: [Nexus:27489, GitHub:focustense/StardewPenPals]
+Performance Patch - NPC Map Locations / ZeroXPatch.NPCMapLocationsPerformancePatch / 1.1.0 / UpdateKeys: [Nexus:42199]
+Peskit Hogwart's Express / Peskit.Hogwarts_Express / 1.0 / UpdateKeys: [Nexus:7338]
+Pi Core / weizinai.PiCore / 0.4.0 / UpdateKeys: [Nexus: 33525]
+pinkstarfruit's YWB cat trees and dog houses / pinkstarfruit.ywbcattreesanddoghouses / 1.0.0 / UpdateKeys: []
+Place Furniture Outside (Furniture Anywhere Redux) by glymr / glymr.FurnitureOutside / 1.0.5 / UpdateKeys: [Nexus:21147@New]
+PLY's Stone Fences For Provence Style Farm / PLY.provence.fence / 1.0.0 / UpdateKeys: [Nexus:34606]
+Pony Weight Loss Program / BadNetCode.PonyWeightLossProgram / 1.0.0 / UpdateKeys: [Nexus:1232, Moddrop:130159]
+Portraiture / Platonymous.Portraiture / 1.12.1-alpha.20240304 / UpdateKeys: [Nexus:999]
+Precise Furniture / Espy.PreciseFurniture / 1.1.1 / UpdateKeys: [Nexus:23488]
+Prismatic Tools Continued / iargue.PrismaticToolsContinued / 1.2.4 / UpdateKeys: [Nexus:21450]
+Producer Framework Mod / Digus.ProducerFrameworkMod / 1.9.8 / UpdateKeys: [Nexus:4970]
+Project Danger Weather for Cloudy Skies / kath.weathering / 1.4.17 / UpdateKeys: [Nexus:23734@Main]
+PyTK Lite / Platonymous.Toolkit / 1.24.0 / UpdateKeys: [Nexus:1726]
+QuickSave / DLX.QuickSave / 1.5.0 / UpdateKeys: [Nexus:26194]
+Realistic Wind Effects / ahomiepassingby.realisticwindeffects / 1.0.1 / UpdateKeys: [Nexus:38268]
+Recatch Legendary Fish / cantorsdust.RecatchLegendaryFish / 1.9.3 / UpdateKeys: [Nexus:172]
+Regional Banking & Taxes System / Louis.RegionalBanking / 2.0.1 / UpdateKeys: [Nexus:41480]
+Regional Banking System - Content / Louis.RegionalBanking.Content / 1.0.0 / UpdateKeys: []
+Remote Fridge Storage / EternalSoap.RemoteFridgeStorage / 1.10.2 / UpdateKeys: [Nexus:2545]
+Ridgeside Village [Content Patcher component] / Rafseazz.RSVCP / 2.5.17 / UpdateKeys: [Nexus:7286]
+Ridgeside Village [Custom Companions component] / Rafseazz.RSVCC / 2.5.17 / UpdateKeys: [Nexus:-1]
+Ridgeside Village [Farm Type Manager component] / Rafseazz.RSVFTM / 2.5.17 / UpdateKeys: [Nexus:-1]
+Ridgeside Village [SMAPI component] / Rafseazz.RidgesideVillage / 2.5.17 / UpdateKeys: [Nexus:-1]
+Ripley / Clara.Ripley / 1.0.9 / UpdateKeys: [Nexus:32660]
+Ripley's Farm Animals / Clara.RipleyCC / 1.0.9 / UpdateKeys: []
+Rose and the Alchemist - NPCs for Sunberry Village / Wildflour.SASS / 2.0.4 / UpdateKeys: [nexus:32385]
+Running Late / Coll1234567.RunningLate / 2.0.2 / UpdateKeys: [Nexus:3518]
+Rurals of Italy / Latteholn.RuralsOfItaly / 1.0.1 / UpdateKeys: [Nexus:45720]
+Rustic Country Town Interior / Hesper.RusticCountrysideTownInterior / 1.7 / UpdateKeys: [Nexus:6098]
+Rustic Country Walls and Floors / RusticCountry.wallsandfloors / 1.1 / UpdateKeys: [Nexus:5857]
+Safe Lightning Updated / rokugin.safelightningupdated / 1.1.1 / UpdateKeys: [Nexus:22783]
+Save Backup / SMAPI.SaveBackup / 4.5.2 / UpdateKeys: []
+Seasonal Clover Dig Spot / Aimon111.SeasonalCloverDigSpot / 1.0.3 / UpdateKeys: [Nexus:16626]
+Seasonal Cozy Bus / kiwisprinkle.SeasonalCozyBus / 1.0 / UpdateKeys: [Nexus:24873]
+Secret Note Framework / ichortower.SecretNoteFramework / 1.2.1 / UpdateKeys: [Nexus:25055, GitHub:ichortower/SecretNoteFramework]
+Simple Foliage / Az.Foliage / 2.1.2 / UpdateKeys: [Nexus:20972]
+Simple Resources / Az.Resources / 1.0.1 / UpdateKeys: [Nexus:15026]
+Sit For Stamina / Entoarox.SitForStamina / 1.0.1 / UpdateKeys: [nexus:7334]
+SkipFishingMinigame / DewMods.StardewValleyMods.SkipFishingMinigame / 0.7.4 / UpdateKeys: [Nexus:2697]
+SkullCavernElevator / SkullCavernElevator / 1.6.2 / UpdateKeys: [Nexus:963]
+Smallcopper's Icons / smallcopper.stardewicons / 1.0.0 / UpdateKeys: []
+Social Page Order Redux / FlyingTNT.SocialPageOrderRedux / 1.3.1 / UpdateKeys: [Nexus:23374]
+SocializingSkill / drbirbdev.SocializingSkill / 2.1.1 / UpdateKeys: [Nexus:14142]
+SpaceCore / spacechase0.SpaceCore / 1.28.4 / UpdateKeys: [Nexus:1348]
+Spam Mail / MakoKZ.SpamMail / 1.0.4 / UpdateKeys: [Nexus:22765]
+Special Order Notifications / mushymato.SpecialOrderNotifications / 1.1.1 / UpdateKeys: [Nexus:25999]
+Special Power Utilities / Spiderbuttons.SpecialPowerUtilities / 2.3.3 / UpdateKeys: [Nexus:22300]
+Stack Everything Redux / thimadera.StackEverythingRedux / 1.2.1 / UpdateKeys: [Nexus:22381]
+Stardew High Priority / ZeroXPatch.StardewHighPriority / 1.2.0 / UpdateKeys: [Nexus:40359]
+Stardew Stabilizer For Android / ZeroXPatch.StardewStabilizer / 1.0.0 / UpdateKeys: []
+Stardew Travel Skill / Achtuur.StardewTravelSkill / 1.4.0 / UpdateKeys: [Nexus:16820, GitHub:Achtuur/StardewTravelSkill]
+Stardew Valley Expanded / FlashShifter.SVECode / 1.15.11 / UpdateKeys: [Nexus:???]
+Stardew Valley Expanded / FlashShifter.StardewValleyExpandedCP / 1.15.11 / UpdateKeys: [Nexus:???]
+Stardew Valley Expanded Farm Type Manager / FlashShifter.SVE-FTM / 1.15.11 / UpdateKeys: [Nexus:???]
+StardewHack / bcmpinc.StardewHack / 7.4 / UpdateKeys: [Nexus:3213]
+StardewUI / focustense.StardewUI / 0.6.3-unofficial-mushymato.1 / UpdateKeys: [Nexus:43861, GitHub:Mushymato/StardewUI]
+StardustCore / Omegasis.StardustCore / 3.1.1 / UpdateKeys: [Nexus:2341]
+Store Entrance Doorbells / dylanjames.storebells / 0.0.4 / UpdateKeys: [Nexus:34540]
+StrawberryFood / Gegamja.StrawberryFood / 2.0.0 / UpdateKeys: []
+Sunberry NPC - Dao / Airyn.Dao.CP / 1.0.3 / UpdateKeys: [Nexus:33615]
+Sunberry NPC - Jonghyuk & Spanner / Arknir.Jonghyuk / 1.2.3 / UpdateKeys: [Nexus:12000]
+Sunberry NPC - Lani / atelier99.SBV.NPCLani / 1.1.7 / UpdateKeys: [Nexus:32689]
+Sunberry Village - Content Patcher / skellady.SBVCP / 1.1.2 / UpdateKeys: [Nexus:11111]
+Sunberry Village - Custom Companions / skellady.SBVCC / 1.1.2 / UpdateKeys: [Nexus:-1]
+Sunberry Village - Farm Type Manager / skellady.SBVFTM / 1.1.2 / UpdateKeys: [Nexus:-1]
+Survivalistic (Rebooted) / Ophaneom.Survivalistic / 1.1.0-Unofficial.4-Locked15 / UpdateKeys: [Nexus:12179, Nexus:23617, GitHub:Locked15/SDV_Survivalistic-Rebooted]
+SVE Trees Recolored / Morghoula.SVETreesRecolored / 1.0.1 / UpdateKeys: [Nexus:28798]
+Symbolic Health and Energy Icons / Aimon111.HPE_Icons / 1.0.4 / UpdateKeys: [Nexus:39068]
+Tanghulu / Gegamja.Tanghulu / 2.0.0 / UpdateKeys: []
+The Living Valley / mx146323.StardewLivingRPG / 1.0.5 / UpdateKeys: [Nexus:42597]
+The Living Valley Expanded Compatibility (TLV Content Pack) / mx.TheLivingValleyExpanded / 2.0.1 / UpdateKeys: [Nexus:42699]
+To-Dew / jltaylor-us.ToDew / 2.5.0 / UpdateKeys: [Nexus:7409, GitHub:jltaylor-us/StardewToDew]
+Tractor Mod / Pathoschild.TractorMod / 4.24.4 / UpdateKeys: [Nexus:1401]
+UI Info Suite 2 / Annosz.UiInfoSuite2 / 2.3.7 / UpdateKeys: [GitHub:Annosz/UIInfoSuite2, Nexus:7098]
+Ultimate Fertilizer / fox_white25.ultimate_fertilizer / 1.2.5 / UpdateKeys: [nexus:21318]
+Unique Response Core / misscoriel.UCRFix / 2.1.5 / UpdateKeys: [Nexus: 8284]
+Unlockable Bundles / DLX.Bundles / 4.3.1 / UpdateKeys: [Nexus:17265@MAIN]
+Various Coal nodes in the mines / 6135.VariousCoalOresExtras / 1.2.5 / UpdateKeys: []
+Wafflemania 2.0 / Lavliette.Wafflemania / 1.0.1 / UpdateKeys: []
+Walk Of Life - Rebirth / DaLion.Professions / 1.4.2 / UpdateKeys: [Nexus:24355]
+Warm Stalls and Cozy Boxes / lindest.stallsboxes / 1.3.2 / UpdateKeys: [Nexus:43227]
+Wear More Rings / bcmpinc.WearMoreRings / 7.9 / UpdateKeys: [Nexus:3214]
+Weather Wonders - Stable / Kana.WeatherWonders / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+Willy Dialogue / Pyobeom.WillyDialogue / 1.1.0 / UpdateKeys: []
+Wizard Dialogue-AraI / AraI_D_Wizard / 3.0.0 / UpdateKeys: []
+WorldMap for Ginger Island / N3cro_92.WorldMapGingerIsland / 1.0.1 / UpdateKeys: [Nexus:21969]
+WorldMap for Ridgeside Village / N3cro_92.WorldMapRSV / 1.0.6 / UpdateKeys: [Nexus:21792]
+WorldMap for Stardew Valley Expanded / N3cro_92.WorldMapSVE / 1.1.2 / UpdateKeys: [Nexus:21788@SVE]
+Wren the Plumber - Custom NPC / tiakall.wren / 1.0.4 / UpdateKeys: [Nexus:14286]
+Yet Another Cooking Skill / moonslime.CookingSkill / 1.13.0 / UpdateKeys: [Nexus:22681]
+Yet Another Jump Mod / aedenthorn.YAJM / 0.7.2 / UpdateKeys: [Nexus:6546]
+Young Writer Linus / Hoijjyat.LinusDialogue / 1.1.0 / UpdateKeys: []
+Zenith Farm / DaisyNiko.ZenithFarm / 1.5 / UpdateKeys: [Nexus:15618]
+Zenith Farm FTM / DaisyNiko.ZenithFarm.FTM / 1.5 / UpdateKeys: [Nexus:15618]
+[CP] Immersive Barns and Coops / nuupon.immersivebarnscoops / 1.0.7 / UpdateKeys: [Nexus:28462]
+[CP]SSUL's Monster Set / SSULs.Monster.Set / 1.0.0 / UpdateKeys: [Nexus:6776]
+Animals Die - Old Age, Hunger, Illness / Goldenrevolver.AnimalsDie / 1.7.3 / UpdateKeys: [Nexus:7769]
+Carry Chests / furyx639.CarryChest / 1.3.0 / UpdateKeys: [Nexus:30321, CurseForge:1169557, GitHub:LeFauxMatt/CarryChests]
+업데이트 요청 모드 수: 278
+요청 JSON: {"mods":[{"id":"Novaphene.DB-SeasonalFences","updateKeys":["Nexus:26025"],"installedVersion":"1.0.0","isBroken":false},{"id":"Novaphene.DB-SeasonalFlooring","updateKeys":["Nexus:26026"],"installedVersion":"1.0","isBroken":false},{"id":"Jona.PottedStrawberryRetex","updateKeys":["Nexus:44517"],"installedVersion":"1.0.2","isBroken":false},{"id":"kqnuka.canvasbuffs","updateKeys":["Nexus:33547"],"installedVersion":"1.2.0","isBroken":false},{"id":"Jona.PottedStrawberry","updateKeys":["Nexus:44517"],"installedVersion":"1.0.2","isBroken":false},{"id":"Novaphene.DB-WildGrassField","updateKeys":["Nexus:26030"],"installedVersion":"1.0.0","isBroken":false},{"id":"ENGloomy.CreamyCozyDecorAT","updateKeys":["Nexus:43300"],"installedVersion":"1.1.0","isBroken":false},{"id":"RetroStyle.Furniture.Nano","updateKeys":["Nexus:16029@AT"],"installedVersion":"1.1.0","isBroken":false},{"id":"ENGloomy.VintageIndustrialDecorAT","updateKeys":["Nexus:36090"],"installedVersion":"1.0.0","isBroken":false},{"id":"SunberryTeam.SBVSMAPI","updateKeys":["Nexus:-1"],"installedVersion":"1.1.2","isBroken":false},{"id":"Kana.WeatherWonders.CC","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"Victy.VillagerRetexture","updateKeys":["Nexus:16238"],"installedVersion":"1.6.41","isBroken":false},{"id":"Pinya_GalmuriFont","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"Number7102.ElliottDialogue","updateKeys":[""],"installedVersion":"2.2.0","isBroken":false},{"id":"moonslime.ArchaeologySkill.CP","updateKeys":["Nexus:-1"],"installedVersion":"2.18.0","isBroken":false},{"id":"Spiderbuttons.ButtonsExtraBooks","updateKeys":["Nexus:21526"],"installedVersion":"3.2.1","isBroken":false},{"id":"Latteholn.CozyProvincial","updateKeys":["Nexus:47992@CP"],"installedVersion":"1.0.0","isBroken":false},{"id":"CandyConstellation.KirbyEnemies","updateKeys":["Nexus:48464"],"installedVersion":"1.0.0","isBroken":false},{"id":"GoodJobSuzette.HomeCooking","updateKeys":["Nexus:30838"],"installedVersion":"1.6.4","isBroken":false},{"id":"WBM_Harveydialogue","updateKeys":[""],"installedVersion":"1.1.3","isBroken":false},{"id":"Latteholn.ItalianCountrysideFarmhouseCP","updateKeys":["Nexus:27005"],"installedVersion":"1.0.1","isBroken":false},{"id":"Latteholn.IdyllicCountryFences","updateKeys":["Nexus:47991@CP"],"installedVersion":"1.0.0","isBroken":false},{"id":"Molamole.ArtisanRefiningCraftablesRetextures.CP","updateKeys":["Nexus: 24116"],"installedVersion":"1.0.4","isBroken":false},{"id":"Novaphene.RetroWallsAndFloors","updateKeys":["Nexus:17127"],"installedVersion":"3.0","isBroken":false},{"id":"ENGloomy.VintageIndustrialDecor","updateKeys":["Nexus:36090"],"installedVersion":"1.0.0","isBroken":false},{"id":"Tarniyar.CP.WalkToDesert","updateKeys":["Nexus:8630","ModDrop:980591","CurseForge:499736","GitHub:Aeywoo/WTDR"],"installedVersion":"1.3.3","isBroken":false},{"id":"moonslime.CookingSkill.CP","updateKeys":["Nexus:-1"],"installedVersion":"1.12.0","isBroken":false},{"id":"Gintyann.sunflower.Crib","updateKeys":["Nexus:"],"installedVersion":"2.2.0","isBroken":false},{"id":"Gintyannsunflower.kitchen","updateKeys":["Nexus:"],"installedVersion":"1.0.0","isBroken":false},{"id":"WBM_sam","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"CP.Peachyogurt.Sprites","updateKeys":["Nexus:30139"],"installedVersion":"1.1","isBroken":false},{"id":"Tanga.forestGoldClock","updateKeys":["Nexus:16853"],"installedVersion":"1.1.0","isBroken":false},{"id":"WBM_Leah","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"Kana.WeatherWonders.DLL","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"Novaphene.RetroFurnitures","updateKeys":["Nexus:17127"],"installedVersion":"3.0","isBroken":false},{"id":"Tarniyar.FTM.WalkToDesert","updateKeys":["Nexus:???"],"installedVersion":"1.3.3","isBroken":false},{"id":"Kana.WeatherWonders.FTM","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"AraI.SVE_D_Wizard","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"YunHikari.SorryLabCore","updateKeys":["Nexus:29793"],"installedVersion":"1.0.14","isBroken":false},{"id":"6480.giantcrops","updateKeys":["Nexus: 5221"],"installedVersion":"2.1.2","isBroken":false},{"id":"Ryueun.ShaneDialogue","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"RimeNovi.CatValley","updateKeys":["Nexus:39379"],"installedVersion":"1.0.3","isBroken":false},{"id":"Cyrilly.InputMethodFix","updateKeys":["Nexus:35313","GitHub:Cyrillya/InputMethodFix"],"installedVersion":"1.0.4","isBroken":false},{"id":"Achtuur.AchtuurCore","updateKeys":["Nexus:16827"],"installedVersion":"1.3.3","isBroken":false},{"id":"f4iTh.ActivateSprinklers","updateKeys":["Nexus:2088"],"installedVersion":"1.3.2","isBroken":false},{"id":"recht.UsefulPets","updateKeys":["Nexus:40711"],"installedVersion":"1.2.12-beta","isBroken":false},{"id":"Aimon111.RedesignedFarmHouseLayoutAlt","updateKeys":["Nexus:14411"],"installedVersion":"2.1.2","isBroken":false},{"id":"Aimon.MoreLivelyFarmCave","updateKeys":["Nexus:23190"],"installedVersion":"1.0.3","isBroken":false},{"id":"WBM.Alexdialogue","updateKeys":[""],"installedVersion":"1.0.1","isBroken":false},{"id":"aedenthorn.AllChestsMenu","updateKeys":["Nexus:14494"],"installedVersion":"0.4.1","isBroken":false},{"id":"PeacefulEnd.AlternativeTextures","updateKeys":["Nexus:9246"],"installedVersion":"8.1.1","isBroken":false},{"id":"Himetarts.ARV.CP","updateKeys":["Nexus:9999"],"installedVersion":"1.5.1","isBroken":false},{"id":"DIGUS.ANIMALHUSBANDRYMOD","updateKeys":["Nexus:1538"],"installedVersion":"2.8.1","isBroken":false},{"id":"GZhynko.AnimalsNeedWater","updateKeys":["Nexus:6196"],"installedVersion":"1.7.4","isBroken":false},{"id":"JavCombita.ApexMastery","updateKeys":["Nexus:39685"],"installedVersion":"3.5.6","isBroken":false},{"id":"moonslime.ArchaeologySkill","updateKeys":["Nexus:22199"],"installedVersion":"2.18.2","isBroken":false},{"id":"AT_LBXLW_Animatied_Barbecue_Stand_CP","updateKeys":["Nexus:35140"],"installedVersion":"1.0.0","isBroken":false},{"id":"qixing.AutoGrabTruffles","updateKeys":["Nexus:20874","GitHub:qixing-jk/QiXingAutoGrabTruffles"],"installedVersion":"1.1.0","isBroken":false},{"id":"Rakiin.AutomaticGates","updateKeys":["Nexus:3109"],"installedVersion":"2.5.5","isBroken":false},{"id":"ZeroXPatch.BackgroundTickThrottler","updateKeys":["Nexus:41920"],"installedVersion":"1.1.0","isBroken":false},{"id":"mizzion.bankofferngill","updateKeys":["Nexus:13043"],"installedVersion":"1.1.1","isBroken":false},{"id":"bb.beesPlus","updateKeys":["Nexus: 30597"],"installedVersion":"1.3","isBroken":false},{"id":"leclair.bettercrafting","updateKeys":["Nexus:11115@Main","ModDrop:1115749@Main"],"installedVersion":"2.18.0","isBroken":false},{"id":"BBR.BetterRings","updateKeys":["Nexus:8642"],"installedVersion":"1.0","isBroken":false},{"id":"MindMeltMax.BetterShipping","updateKeys":["nexus:10487"],"installedVersion":"1.4.8","isBroken":false},{"id":"Neopffe.BetterWater","updateKeys":["Nexus:15079"],"installedVersion":"1.9.2","isBroken":false},{"id":"bennoloth.BWSG","updateKeys":["Nexus:14994"],"installedVersion":"1.0.3","isBroken":false},{"id":"spacechase0.BiggerBackpack","updateKeys":["Nexus:1845","Chucklefish:5191"],"installedVersion":"7.3","isBroken":false},{"id":"Entoarox.BiggerFridges","updateKeys":["nexus:21678"],"installedVersion":"1.1.1","isBroken":false},{"id":"drbirbdev.BirbCore","updateKeys":["Nexus:19140"],"installedVersion":"1.1.0","isBroken":false},{"id":"BerryBea.BookSubscription","updateKeys":["Nexus:21353"],"installedVersion":"1.2.4","isBroken":false},{"id":"Esca.BuildOnAnyTile","updateKeys":["GitHub:Esca-MMC/BuildOnAnyTile","Nexus:6854","ModDrop:827525"],"installedVersion":"1.1.3","isBroken":false},{"id":"Spiderbuttons.ButtonsExtraBooksCore","updateKeys":["Nexus:21526"],"installedVersion":"3.2.1","isBroken":false},{"id":"Spiderbuttons.BETAS","updateKeys":["Nexus:27100"],"installedVersion":"3.4.0","isBroken":false},{"id":"jeanne.CharacterCustomizationAnywhere","updateKeys":["Nexus:7415"],"installedVersion":"1.0.2","isBroken":false},{"id":"Pathoschild.ChestsAnywhere","updateKeys":["Nexus:518"],"installedVersion":"1.30.1","isBroken":false},{"id":"CJBok.CheatsMenu","updateKeys":["Nexus:4"],"installedVersion":"1.42.0","isBroken":false},{"id":"CJBok.ItemSpawner","updateKeys":["Nexus:93"],"installedVersion":"2.5.6","isBroken":false},{"id":"AirynYri.GardenStatueObelisks","updateKeys":["Nexus:16374"],"installedVersion":"1.1.0","isBroken":false},{"id":"Pyobeom.ClintDialouge","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"leclair.cloudyskies","updateKeys":["Nexus:23135@main"],"installedVersion":"1.9.1","isBroken":false},{"id":"mushymato.CompactSearchableShopMenu","updateKeys":["Nexus:33271","GitHub:Mushymato/CompactSearchableShopMenu"],"installedVersion":"1.2.1","isBroken":false},{"id":"Pathoschild.ContentPatcher","updateKeys":["Nexus:1915"],"installedVersion":"2.9.1","isBroken":false},{"id":"gaussfire.ConvenientInventory","updateKeys":["Nexus:10384"],"installedVersion":"1.6.1","isBroken":false},{"id":"CuriousLotor.CookingDaily","updateKeys":["Nexus:32686"],"installedVersion":"1.1","isBroken":false},{"id":"Cornucopia.ArtisanMachines","updateKeys":["Nexus: 24842"],"installedVersion":"1.0.16","isBroken":false},{"id":"Cornucopia.CookingRecipes","updateKeys":["Nexus:39057"],"installedVersion":"1.0.8","isBroken":false},{"id":"Cornucopia.MoreCrops","updateKeys":["Nexus: 19508"],"installedVersion":"1.6.3","isBroken":false},{"id":"Cornucopia.MoreFlowers","updateKeys":["Nexus: 20290"],"installedVersion":"1.5.7","isBroken":false},{"id":"LBXLW_Barbecue_Stand_CP","updateKeys":["Nexus:35140"],"installedVersion":"1.0.0","isBroken":false},{"id":"aedenthorn.CropHarvestBubbles","updateKeys":["Nexus:17761"],"installedVersion":"0.6.2","isBroken":false},{"id":"tem696969696969.CropWateringBubbles","updateKeys":["Nexus:21428"],"installedVersion":"0.2.9","isBroken":false},{"id":"Spiderbuttons.CMCT","updateKeys":["Nexus:28284"],"installedVersion":"1.1.2","isBroken":false},{"id":"furyx639.CustomBush","updateKeys":["Nexus:20619","CurseForge:998265","ModDrop:1547214","GitHub:LeFauxMatt/CustomBush"],"installedVersion":"1.5.2","isBroken":false},{"id":"PeacefulEnd.CustomCompanions","updateKeys":["Nexus:8626"],"installedVersion":"5.1.0","isBroken":false},{"id":"datamancer.CustomFixedDialogue","updateKeys":["Nexus:20938","ModDrop:1533308"],"installedVersion":"2.4.4","isBroken":false},{"id":"Cherry.CustomizeAnywhere","updateKeys":["Nexus:4734"],"installedVersion":"1.4.2","isBroken":false},{"id":"Dragoon23.CustomizeDresser","updateKeys":["Nexus:23359"],"installedVersion":"1.5.1","isBroken":false},{"id":"DaisyNiko.Tilesheets","updateKeys":["Nexus:4736"],"installedVersion":"1.12","isBroken":false},{"id":"DaLion.Core","updateKeys":["Nexus:24332"],"installedVersion":"2.2.3","isBroken":false},{"id":"Esca.DestroyableBushes","updateKeys":["Nexus:6304","GitHub:Esca-MMC/DestroyableBushes","ModDrop:798245"],"installedVersion":"1.5.2","isBroken":false},{"id":"boringvlln.kettlemicrowave","updateKeys":["Nexus:25681"],"installedVersion":"1.5.1","isBroken":false},{"id":"DSHi.AdventureKitRetexture","updateKeys":["Nexus:34058"],"installedVersion":"1.0.1","isBroken":false},{"id":"DSHi.ArtifactsRetexture","updateKeys":["Nexus:24240"],"installedVersion":"1.2.0","isBroken":false},{"id":"DSHi.FishRetexture","updateKeys":["Nexus:21465"],"installedVersion":"1.2.0","isBroken":false},{"id":"DSHi.FoodRetexture","updateKeys":["Nexus:18726"],"installedVersion":"1.4.0","isBroken":false},{"id":"DSHi.MineralsRetexture","updateKeys":["Nexus:18725"],"installedVersion":"1.3.0","isBroken":false},{"id":"DSHi.SeedRetexture","updateKeys":["Nexus:33153"],"installedVersion":"1.1.0","isBroken":false},{"id":"DSHi.ShippingItemsRetexture","updateKeys":["Nexus:18769"],"installedVersion":"1.4.2","isBroken":false},{"id":"DSHi.SpecialItemsRetexture","updateKeys":["Nexus:32206"],"installedVersion":"1.0.2","isBroken":false},{"id":"PeacefulEnd.DynamicReflections","updateKeys":["Nexus:12831"],"installedVersion":"4.0.1","isBroken":false},{"id":"knakamura.dynamicnighttime","updateKeys":["Nexus:2072"],"installedVersion":"1.3.16-beta","isBroken":false},{"id":"Nook.DynamicShader","updateKeys":["Nexus: 40775"],"installedVersion":"1.0.15","isBroken":false},{"id":"DaisyNiko.EarthyInteriors","updateKeys":["Nexus:14790"],"installedVersion":"1.2.2","isBroken":false},{"id":"DaisyNiko.EarthyRecolour","updateKeys":["Nexus:5255"],"installedVersion":"1.4.4","isBroken":false},{"id":"VinillaBean.EarthyRSV","updateKeys":["Nexus:17980"],"installedVersion":"1.1.3","isBroken":false},{"id":"colling.towninterior","updateKeys":["Nexus:15049"],"installedVersion":"1.0.3","isBroken":false},{"id":"Elle.CuterCats","updateKeys":["Nexus:20041"],"installedVersion":"1.0.1","isBroken":false},{"id":"Elle.CuterDogs","updateKeys":["Nexus:20040"],"installedVersion":"1.0.2","isBroken":false},{"id":"Elle.NewHorses","updateKeys":["Nexus:3169"],"installedVersion":"1.1.5","isBroken":false},{"id":"RivalRabbit.EmsCatsCP","updateKeys":["Nexus:37201"],"installedVersion":"1.0","isBroken":false},{"id":"RivalRabbit.EmsDogsCP","updateKeys":["Nexus:38357"],"installedVersion":"1.2","isBroken":false},{"id":"RivalRabbit.EmsFarmAnimalsCP","updateKeys":["Nexus:39782"],"installedVersion":"1.3","isBroken":false},{"id":"RivalRabbit.EmsHorsesCP","updateKeys":["Nexus:41169"],"installedVersion":"1.1","isBroken":false},{"id":"RivalRabbit.EmsItemsCP","updateKeys":["Nexus:39019"],"installedVersion":"1.3","isBroken":false},{"id":"Ems.LargeCritters","updateKeys":["Nexus:39616"],"installedVersion":"1.5","isBroken":false},{"id":"Ems.River.Wildlife","updateKeys":["Nexus:43463"],"installedVersion":"1.3","isBroken":false},{"id":"Ems.SeasonalSprinklers","updateKeys":["Nexus:36790"],"installedVersion":"1.2","isBroken":false},{"id":"RivalRabbit.EmsCamelsCP","updateKeys":["Nexus:39719"],"installedVersion":"1.1","isBroken":false},{"id":"RivalRabbit.EmsTurtlesCP","updateKeys":["Nexus:38651"],"installedVersion":"1.0","isBroken":false},{"id":"Pyobeom.EmilyDialouge","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"tem696969696969.EmptyJarBubbles","updateKeys":["Nexus:22598"],"installedVersion":"1.0.4-fix","isBroken":false},{"id":"Esca.EMP","updateKeys":["Nexus:9296","GitHub:Esca-MMC/EscasModdingPlugins","ModDrop:1005443"],"installedVersion":"1.7.2","isBroken":false},{"id":"shekurika.EventLookup","updateKeys":["Nexus:8505"],"installedVersion":"0.2.9","isBroken":false},{"id":"Cherry.ExpandedPreconditionsUtility","updateKeys":["Nexus:6529"],"installedVersion":"1.1.2","isBroken":false},{"id":"selph.ExtraAnimalConfig","updateKeys":["Nexus:25328"],"installedVersion":"1.9.10","isBroken":false},{"id":"selph.ExtraMachineConfig","updateKeys":["Nexus:22256"],"installedVersion":"1.17.12","isBroken":false},{"id":"Esca.FarmTypeManager","updateKeys":["Nexus:3231","GitHub:Esca-MMC/FarmTypeManager","ModDrop:598755"],"installedVersion":"1.26.1","isBroken":false},{"id":"CF.FarmhouseFixes","updateKeys":["Nexus:16507"],"installedVersion":"1.8.3","isBroken":false},{"id":"ZeroXPatch.FasterMenuLoad","updateKeys":["Nexus: 41564 "],"installedVersion":"1.5.0","isBroken":false},{"id":"paulsteele.fse","updateKeys":["ferngill.simple.economy","Nexus:21414"],"installedVersion":"2.1.0","isBroken":false},{"id":"paulsteele.fse.vanilla","updateKeys":["ferngill.simple.economy","Nexus:21414"],"installedVersion":"2.1.0","isBroken":false},{"id":"paulsteele.fse.mail","updateKeys":["ferngill.simple.economy","Nexus:21414"],"installedVersion":"2.1.0","isBroken":false},{"id":"ChibiKyu.FishingAssistant2","updateKeys":["Nexus:5815"],"installedVersion":"2.5.2","isBroken":false},{"id":"Nook.ChestLabels","updateKeys":["Nexus:39045"],"installedVersion":"1.0.1","isBroken":false},{"id":"Wildflour.NooksCrannies","updateKeys":["Nexus:23468"],"installedVersion":"2.2.1","isBroken":false},{"id":"miru.forestamber","updateKeys":["nexus:16127"],"installedVersion":"3.0","isBroken":false},{"id":"Kriana.FriendsForever","updateKeys":["Nexus:20702"],"installedVersion":"1.2.10","isBroken":false},{"id":"aedenthorn.FurnitureAdjustment","updateKeys":["Nexus:10213"],"installedVersion":"0.4.1","isBroken":false},{"id":"leroymilo.FurnitureFramework","updateKeys":["Nexus:23458"],"installedVersion":"3.3.0","isBroken":false},{"id":"spacechase0.GenericModConfigMenu","updateKeys":["Nexus:5098"],"installedVersion":"1.16.0","isBroken":false},{"id":"jltaylor-us.GMCMOptions","updateKeys":["Nexus:10505","GitHub:jltaylor-us/StardewGMCMOptions"],"installedVersion":"2.1.0","isBroken":false},{"id":"Pyobeom.HaleyDialouge","updateKeys":[""],"installedVersion":"1.1.0","isBroken":false},{"id":"tlitookilakin.HappyHomeDesigner","updateKeys":["Nexus:19675","GitHub:tlitookilakin/HappyHomeDesigner"],"installedVersion":"2.5.4","isBroken":false},{"id":"Lamya.Camper.FF","updateKeys":["nexus:37437"],"installedVersion":"1.0.2","isBroken":false},{"id":"weizinai.HelpWanted","updateKeys":["Nexus: 21766"],"installedVersion":"2.0.4","isBroken":false},{"id":"bozeupasi.HugeChestMod","updateKeys":["Nexus:47117"],"installedVersion":"1.0.3","isBroken":false},{"id":"hxw.tilesheets","updateKeys":["Nexus:20139"],"installedVersion":"2.0.0","isBroken":false},{"id":"aedenthorn.ImmersiveScarecrows","updateKeys":["Nexus:15290"],"installedVersion":"1.4.3","isBroken":false},{"id":"berkayylmao.InfiniteZoom","updateKeys":["Nexus:8808"],"installedVersion":"1.1.0","isBroken":false},{"id":"jibb.minecarts","updateKeys":["Nexus:11881","CurseForge:988762"],"installedVersion":"4.6.0","isBroken":false},{"id":"jibb.minecarts.C","updateKeys":["Nexus:11881"],"installedVersion":"4.6.0","isBroken":false},{"id":"bcmpinc.Internationalization","updateKeys":["Nexus:0"],"installedVersion":"0.6","isBroken":false},{"id":"Latteholn.ItalianCountrysideBuildings","updateKeys":["Nexus:27579"],"installedVersion":"1.0.4","isBroken":false},{"id":"mistyspring.ItemExtensions","updateKeys":["nexus:20357"],"installedVersion":"1.16.0","isBroken":false},{"id":"ChaosEnergy.LadderLocator","updateKeys":["Nexus:3094"],"installedVersion":"1.5.2","isBroken":false},{"id":"atelier99.LaniCC","updateKeys":["Nexus:32689"],"installedVersion":"1.1.7","isBroken":false},{"id":"Exblosis.LetsMoveIt","updateKeys":["Nexus:20943"],"installedVersion":"0.6.20","isBroken":false},{"id":"mushymato.LivestockBazaar","updateKeys":["Nexus:29997","GitHub:Mushymato/LivestockBazaar"],"installedVersion":"1.6.1","isBroken":false},{"id":"foggy.LfL","updateKeys":[""],"installedVersion":"2.2.8","isBroken":false},{"id":"Pathoschild.LookupAnything","updateKeys":["Nexus:541"],"installedVersion":"1.55.0","isBroken":false},{"id":"blueberry.LoveOfCooking","updateKeys":["Nexus:6830"],"installedVersion":"2.0.8","isBroken":false},{"id":"Lumisteria.LumiTilesheetsIndoor","updateKeys":["Nexus:9599"],"installedVersion":"1.4.0","isBroken":false},{"id":"Lumisteria.TtilesheetsOutdoor","updateKeys":["Nexus:10448"],"installedVersion":"1.4.0","isBroken":false},{"id":"selph.CustomTapperFramework","updateKeys":["Nexus:22975"],"installedVersion":"1.11.6","isBroken":false},{"id":"DIGUS.MailFrameworkMod","updateKeys":["Nexus:1536"],"installedVersion":"1.20.0","isBroken":false},{"id":"Digus.MailServicesMod","updateKeys":["Nexus:7842"],"installedVersion":"1.6.2","isBroken":false},{"id":"DecidedlyHuman.MappingExtensionsAndExtraProperties","updateKeys":["Nexus:14493"],"installedVersion":"2.5.3","isBroken":false},{"id":"Coldopa.MiniBars","updateKeys":["Nexus:8329"],"installedVersion":"1.0.5","isBroken":false},{"id":"mushymato.MMAP","updateKeys":["Nexus:28423","GitHub:Mushymato/MiscMapActionsProperties"],"installedVersion":"1.14.0","isBroken":false},{"id":"Airyn.MoonCycle","updateKeys":["Nexus:19428"],"installedVersion":"1.1.0","isBroken":false},{"id":"EpicBellyFlop45.MoreGrass","updateKeys":["Nexus:5398"],"installedVersion":"1.2.2","isBroken":false},{"id":"leclair.morenightlyevents","updateKeys":["Nexus:22612@Main"],"installedVersion":"0.4.0","isBroken":false},{"id":"KangTaeGong","updateKeys":["Nexus:7155"],"installedVersion":"2.0.6","isBroken":false},{"id":"NotAGardener.MoreSecretNotes","updateKeys":["Nexus:41211"],"installedVersion":"1.0.0","isBroken":false},{"id":"EnderTedi.NoFenceDecayRedux","updateKeys":["Nexus:20802"],"installedVersion":"1.2.0","isBroken":false},{"id":"Pathoschild.NoclipMode","updateKeys":["Nexus:3900"],"installedVersion":"1.3.20","isBroken":false},{"id":"Bouhm.NPCMapLocations","updateKeys":["Nexus:239"],"installedVersion":"3.5.2","isBroken":false},{"id":"NCarigon.PassableCrops","updateKeys":["nexus:15223"],"installedVersion":"1.2.3","isBroken":false},{"id":"focustense.PenPals","updateKeys":["Nexus:27489","GitHub:focustense/StardewPenPals"],"installedVersion":"0.4.0","isBroken":false},{"id":"ZeroXPatch.NPCMapLocationsPerformancePatch","updateKeys":["Nexus:42199"],"installedVersion":"1.1.0","isBroken":false},{"id":"Peskit.Hogwarts_Express","updateKeys":["Nexus:7338"],"installedVersion":"1.0","isBroken":false},{"id":"weizinai.PiCore","updateKeys":["Nexus: 33525"],"installedVersion":"0.4.0","isBroken":false},{"id":"glymr.FurnitureOutside","updateKeys":["Nexus:21147@New"],"installedVersion":"1.0.5","isBroken":false},{"id":"PLY.provence.fence","updateKeys":["Nexus:34606"],"installedVersion":"1.0.0","isBroken":false},{"id":"BadNetCode.PonyWeightLossProgram","updateKeys":["Nexus:1232","Moddrop:130159"],"installedVersion":"1.0.0","isBroken":false},{"id":"Platonymous.Portraiture","updateKeys":["Nexus:999"],"installedVersion":"1.12.1-alpha.20240304","isBroken":false},{"id":"Espy.PreciseFurniture","updateKeys":["Nexus:23488"],"installedVersion":"1.1.1","isBroken":false},{"id":"iargue.PrismaticToolsContinued","updateKeys":["Nexus:21450"],"installedVersion":"1.2.4","isBroken":false},{"id":"Digus.ProducerFrameworkMod","updateKeys":["Nexus:4970"],"installedVersion":"1.9.8","isBroken":false},{"id":"kath.weathering","updateKeys":["Nexus:23734@Main"],"installedVersion":"1.4.17","isBroken":false},{"id":"Platonymous.Toolkit","updateKeys":["Nexus:1726"],"installedVersion":"1.24.0","isBroken":false},{"id":"DLX.QuickSave","updateKeys":["Nexus:26194"],"installedVersion":"1.5.0","isBroken":false},{"id":"ahomiepassingby.realisticwindeffects","updateKeys":["Nexus:38268"],"installedVersion":"1.0.1","isBroken":false},{"id":"cantorsdust.RecatchLegendaryFish","updateKeys":["Nexus:172"],"installedVersion":"1.9.3","isBroken":false},{"id":"Louis.RegionalBanking","updateKeys":["Nexus:41480"],"installedVersion":"2.0.1","isBroken":false},{"id":"EternalSoap.RemoteFridgeStorage","updateKeys":["Nexus:2545"],"installedVersion":"1.10.2","isBroken":false},{"id":"Rafseazz.RSVCP","updateKeys":["Nexus:7286"],"installedVersion":"2.5.17","isBroken":false},{"id":"Rafseazz.RSVCC","updateKeys":["Nexus:-1"],"installedVersion":"2.5.17","isBroken":false},{"id":"Rafseazz.RSVFTM","updateKeys":["Nexus:-1"],"installedVersion":"2.5.17","isBroken":false},{"id":"Rafseazz.RidgesideVillage","updateKeys":["Nexus:-1"],"installedVersion":"2.5.17","isBroken":false},{"id":"Clara.Ripley","updateKeys":["Nexus:32660"],"installedVersion":"1.0.9","isBroken":false},{"id":"Wildflour.SASS","updateKeys":["nexus:32385"],"installedVersion":"2.0.4","isBroken":false},{"id":"Coll1234567.RunningLate","updateKeys":["Nexus:3518"],"installedVersion":"2.0.2","isBroken":false},{"id":"Latteholn.RuralsOfItaly","updateKeys":["Nexus:45720"],"installedVersion":"1.0.1","isBroken":false},{"id":"Hesper.RusticCountrysideTownInterior","updateKeys":["Nexus:6098"],"installedVersion":"1.7","isBroken":false},{"id":"RusticCountry.wallsandfloors","updateKeys":["Nexus:5857"],"installedVersion":"1.1","isBroken":false},{"id":"rokugin.safelightningupdated","updateKeys":["Nexus:22783"],"installedVersion":"1.1.1","isBroken":false},{"id":"Aimon111.SeasonalCloverDigSpot","updateKeys":["Nexus:16626"],"installedVersion":"1.0.3","isBroken":false},{"id":"kiwisprinkle.SeasonalCozyBus","updateKeys":["Nexus:24873"],"installedVersion":"1.0","isBroken":false},{"id":"ichortower.SecretNoteFramework","updateKeys":["Nexus:25055","GitHub:ichortower/SecretNoteFramework"],"installedVersion":"1.2.1","isBroken":false},{"id":"Az.Foliage","updateKeys":["Nexus:20972"],"installedVersion":"2.1.2","isBroken":false},{"id":"Az.Resources","updateKeys":["Nexus:15026"],"installedVersion":"1.0.1","isBroken":false},{"id":"Entoarox.SitForStamina","updateKeys":["nexus:7334"],"installedVersion":"1.0.1","isBroken":false},{"id":"DewMods.StardewValleyMods.SkipFishingMinigame","updateKeys":["Nexus:2697"],"installedVersion":"0.7.4","isBroken":false},{"id":"SkullCavernElevator","updateKeys":["Nexus:963"],"installedVersion":"1.6.2","isBroken":false},{"id":"FlyingTNT.SocialPageOrderRedux","updateKeys":["Nexus:23374"],"installedVersion":"1.3.1","isBroken":false},{"id":"drbirbdev.SocializingSkill","updateKeys":["Nexus:14142"],"installedVersion":"2.1.1","isBroken":false},{"id":"spacechase0.SpaceCore","updateKeys":["Nexus:1348"],"installedVersion":"1.28.4","isBroken":false},{"id":"MakoKZ.SpamMail","updateKeys":["Nexus:22765"],"installedVersion":"1.0.4","isBroken":false},{"id":"mushymato.SpecialOrderNotifications","updateKeys":["Nexus:25999"],"installedVersion":"1.1.1","isBroken":false},{"id":"Spiderbuttons.SpecialPowerUtilities","updateKeys":["Nexus:22300"],"installedVersion":"2.3.3","isBroken":false},{"id":"thimadera.StackEverythingRedux","updateKeys":["Nexus:22381"],"installedVersion":"1.2.1","isBroken":false},{"id":"ZeroXPatch.StardewHighPriority","updateKeys":["Nexus:40359"],"installedVersion":"1.2.0","isBroken":false},{"id":"Achtuur.StardewTravelSkill","updateKeys":["Nexus:16820","GitHub:Achtuur/StardewTravelSkill"],"installedVersion":"1.4.0","isBroken":false},{"id":"FlashShifter.SVECode","updateKeys":["Nexus:???"],"installedVersion":"1.15.11","isBroken":false},{"id":"FlashShifter.StardewValleyExpandedCP","updateKeys":["Nexus:???"],"installedVersion":"1.15.11","isBroken":false},{"id":"FlashShifter.SVE-FTM","updateKeys":["Nexus:???"],"installedVersion":"1.15.11","isBroken":false},{"id":"bcmpinc.StardewHack","updateKeys":["Nexus:3213"],"installedVersion":"7.4","isBroken":false},{"id":"focustense.StardewUI","updateKeys":["Nexus:43861","GitHub:Mushymato/StardewUI"],"installedVersion":"0.6.3-unofficial-mushymato.1","isBroken":false},{"id":"Omegasis.StardustCore","updateKeys":["Nexus:2341"],"installedVersion":"3.1.1","isBroken":false},{"id":"dylanjames.storebells","updateKeys":["Nexus:34540"],"installedVersion":"0.0.4","isBroken":false},{"id":"Airyn.Dao.CP","updateKeys":["Nexus:33615"],"installedVersion":"1.0.3","isBroken":false},{"id":"Arknir.Jonghyuk","updateKeys":["Nexus:12000"],"installedVersion":"1.2.3","isBroken":false},{"id":"atelier99.SBV.NPCLani","updateKeys":["Nexus:32689"],"installedVersion":"1.1.7","isBroken":false},{"id":"skellady.SBVCP","updateKeys":["Nexus:11111"],"installedVersion":"1.1.2","isBroken":false},{"id":"skellady.SBVCC","updateKeys":["Nexus:-1"],"installedVersion":"1.1.2","isBroken":false},{"id":"skellady.SBVFTM","updateKeys":["Nexus:-1"],"installedVersion":"1.1.2","isBroken":false},{"id":"Ophaneom.Survivalistic","updateKeys":["Nexus:12179","Nexus:23617","GitHub:Locked15/SDV_Survivalistic-Rebooted"],"installedVersion":"1.1.0-Unofficial.4-Locked15","isBroken":false},{"id":"Morghoula.SVETreesRecolored","updateKeys":["Nexus:28798"],"installedVersion":"1.0.1","isBroken":false},{"id":"Aimon111.HPE_Icons","updateKeys":["Nexus:39068"],"installedVersion":"1.0.4","isBroken":false},{"id":"mx146323.StardewLivingRPG","updateKeys":["Nexus:42597"],"installedVersion":"1.0.5","isBroken":false},{"id":"mx.TheLivingValleyExpanded","updateKeys":["Nexus:42699"],"installedVersion":"2.0.1","isBroken":false},{"id":"jltaylor-us.ToDew","updateKeys":["Nexus:7409","GitHub:jltaylor-us/StardewToDew"],"installedVersion":"2.5.0","isBroken":false},{"id":"Pathoschild.TractorMod","updateKeys":["Nexus:1401"],"installedVersion":"4.24.4","isBroken":false},{"id":"Annosz.UiInfoSuite2","updateKeys":["GitHub:Annosz/UIInfoSuite2","Nexus:7098"],"installedVersion":"2.3.7","isBroken":false},{"id":"fox_white25.ultimate_fertilizer","updateKeys":["nexus:21318"],"installedVersion":"1.2.5","isBroken":false},{"id":"misscoriel.UCRFix","updateKeys":["Nexus: 8284"],"installedVersion":"2.1.5","isBroken":false},{"id":"DLX.Bundles","updateKeys":["Nexus:17265@MAIN"],"installedVersion":"4.3.1","isBroken":false},{"id":"DaLion.Professions","updateKeys":["Nexus:24355"],"installedVersion":"1.4.2","isBroken":false},{"id":"lindest.stallsboxes","updateKeys":["Nexus:43227"],"installedVersion":"1.3.2","isBroken":false},{"id":"bcmpinc.WearMoreRings","updateKeys":["Nexus:3214"],"installedVersion":"7.9","isBroken":false},{"id":"Kana.WeatherWonders","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"Pyobeom.WillyDialogue","updateKeys":[""],"installedVersion":"1.1.0","isBroken":false},{"id":"AraI_D_Wizard","updateKeys":[""],"installedVersion":"3.0.0","isBroken":false},{"id":"N3cro_92.WorldMapGingerIsland","updateKeys":["Nexus:21969"],"installedVersion":"1.0.1","isBroken":false},{"id":"N3cro_92.WorldMapRSV","updateKeys":["Nexus:21792"],"installedVersion":"1.0.6","isBroken":false},{"id":"N3cro_92.WorldMapSVE","updateKeys":["Nexus:21788@SVE"],"installedVersion":"1.1.2","isBroken":false},{"id":"tiakall.wren","updateKeys":["Nexus:14286"],"installedVersion":"1.0.4","isBroken":false},{"id":"moonslime.CookingSkill","updateKeys":["Nexus:22681"],"installedVersion":"1.13.0","isBroken":false},{"id":"aedenthorn.YAJM","updateKeys":["Nexus:6546"],"installedVersion":"0.7.2","isBroken":false},{"id":"Hoijjyat.LinusDialogue","updateKeys":[""],"installedVersion":"1.1.0","isBroken":false},{"id":"DaisyNiko.ZenithFarm","updateKeys":["Nexus:15618"],"installedVersion":"1.5","isBroken":false},{"id":"DaisyNiko.ZenithFarm.FTM","updateKeys":["Nexus:15618"],"installedVersion":"1.5","isBroken":false},{"id":"nuupon.immersivebarnscoops","updateKeys":["Nexus:28462"],"installedVersion":"1.0.7","isBroken":false},{"id":"SSULs.Monster.Set","updateKeys":["Nexus:6776"],"installedVersion":"1.0.0","isBroken":false},{"id":"Goldenrevolver.AnimalsDie","updateKeys":["Nexus:7769"],"installedVersion":"1.7.3","isBroken":false},{"id":"furyx639.CarryChest","updateKeys":["Nexus:30321","CurseForge:1169557","GitHub:LeFauxMatt/CarryChests"],"installedVersion":"1.3.0","isBroken":false}],"apiVersion":"4.0.0","gameVersion":"1.6.15","platform":"Windows","includeExtendedMetadata":false}
+HTTP: 200
+응답: [
+  {
+    "id": "Novaphene.DB-SeasonalFences",
+    "errors": []
+  },
+  {
+    "id": "Novaphene.DB-SeasonalFlooring",
+    "errors": []
+  },
+  {
+    "id": "Jona.PottedStrawberryRetex",
+    "errors": []
+  },
+  {
+    "id": "kqnuka.canvasbuffs",
+    "errors": []
+  },
+  {
+    "id": "Jona.PottedStrawberry",
+    "errors": []
+  },
+  {
+    "id": "Novaphene.DB-WildGrassField",
+    "errors": []
+  },
+  {
+    "id": "ENGloomy.CreamyCozyDecorAT",
+    "errors": []
+  },
+  {
+    "id": "RetroStyle.Furniture.Nano",
+    "errors": []
+  },
+  {
+    "id": "ENGloomy.VintageIndustrialDecorAT",
+    "errors": []
+  },
+  {
+    "id": "SunberryTeam.SBVSMAPI",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Kana.WeatherWonders.CC",
+    "errors": []
+  },
+  {
+    "id": "Victy.VillagerRetexture",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Pinya_GalmuriFont",
+    "errors": []
+  },
+  {
+    "id": "Number7102.ElliottDialogue",
+    "errors": []
+  },
+  {
+    "id": "moonslime.ArchaeologySkill.CP",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Spiderbuttons.ButtonsExtraBooks",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.CozyProvincial",
+    "errors": []
+  },
+  {
+    "id": "CandyConstellation.KirbyEnemies",
+    "errors": [
+      "The Nexus mod with ID '48464' has no valid versions."
+    ]
+  },
+  {
+    "id": "GoodJobSuzette.HomeCooking",
+    "errors": []
+  },
+  {
+    "id": "WBM_Harveydialogue",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.ItalianCountrysideFarmhouseCP",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.IdyllicCountryFences",
+    "errors": []
+  },
+  {
+    "id": "Molamole.ArtisanRefiningCraftablesRetextures.CP",
+    "errors": []
+  },
+  {
+    "id": "Novaphene.RetroWallsAndFloors",
+    "errors": []
+  },
+  {
+    "id": "ENGloomy.VintageIndustrialDecor",
+    "errors": []
+  },
+  {
+    "id": "Tarniyar.CP.WalkToDesert",
+    "errors": []
+  },
+  {
+    "id": "moonslime.CookingSkill.CP",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Gintyann.sunflower.Crib",
+    "errors": [
+      "The update key 'Nexus:' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "Gintyannsunflower.kitchen",
+    "errors": [
+      "The update key 'Nexus:' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "WBM_sam",
+    "errors": []
+  },
+  {
+    "id": "CP.Peachyogurt.Sprites",
+    "errors": []
+  },
+  {
+    "id": "Tanga.forestGoldClock",
+    "errors": []
+  },
+  {
+    "id": "WBM_Leah",
+    "errors": []
+  },
+  {
+    "id": "Kana.WeatherWonders.DLL",
+    "suggestedUpdate": {
+      "version": "1.5.3-beta",
+      "url": "https://www.curseforge.com/stardewvalley/mods/weather-wonders"
+    },
+    "errors": []
+  },
+  {
+    "id": "Novaphene.RetroFurnitures",
+    "errors": []
+  },
+  {
+    "id": "Tarniyar.FTM.WalkToDesert",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "Kana.WeatherWonders.FTM",
+    "errors": []
+  },
+  {
+    "id": "AraI.SVE_D_Wizard",
+    "errors": []
+  },
+  {
+    "id": "YunHikari.SorryLabCore",
+    "errors": []
+  },
+  {
+    "id": "6480.giantcrops",
+    "errors": []
+  },
+  {
+    "id": "Ryueun.ShaneDialogue",
+    "errors": []
+  },
+  {
+    "id": "RimeNovi.CatValley",
+    "errors": []
+  },
+  {
+    "id": "Cyrilly.InputMethodFix",
+    "suggestedUpdate": {
+      "version": "1.0.6",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/35313"
+    },
+    "errors": []
+  },
+  {
+    "id": "Achtuur.AchtuurCore",
+    "errors": []
+  },
+  {
+    "id": "f4iTh.ActivateSprinklers",
+    "errors": []
+  },
+  {
+    "id": "recht.UsefulPets",
+    "suggestedUpdate": {
+      "version": "1.2.16",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/40711"
+    },
+    "errors": []
+  },
+  {
+    "id": "Aimon111.RedesignedFarmHouseLayoutAlt",
+    "errors": []
+  },
+  {
+    "id": "Aimon.MoreLivelyFarmCave",
+    "errors": []
+  },
+  {
+    "id": "WBM.Alexdialogue",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.AllChestsMenu",
+    "suggestedUpdate": {
+      "version": "0.4.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/14494"
+    },
+    "errors": [
+      "The CurseForge mod with ID '868705' has no valid versions."
+    ]
+  },
+  {
+    "id": "PeacefulEnd.AlternativeTextures",
+    "errors": []
+  },
+  {
+    "id": "Himetarts.ARV.CP",
+    "errors": []
+  },
+  {
+    "id": "DIGUS.ANIMALHUSBANDRYMOD",
+    "errors": []
+  },
+  {
+    "id": "GZhynko.AnimalsNeedWater",
+    "errors": []
+  },
+  {
+    "id": "JavCombita.ApexMastery",
+    "suggestedUpdate": {
+      "version": "3.6.6",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/39685"
+    },
+    "errors": []
+  },
+  {
+    "id": "moonslime.ArchaeologySkill",
+    "errors": [
+      "The CurseForge mod with ID '1003404' has no valid versions."
+    ]
+  },
+  {
+    "id": "AT_LBXLW_Animatied_Barbecue_Stand_CP",
+    "errors": []
+  },
+  {
+    "id": "qixing.AutoGrabTruffles",
+    "errors": [
+      "Found no GitHub release for this ID."
+    ]
+  },
+  {
+    "id": "Rakiin.AutomaticGates",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.BackgroundTickThrottler",
+    "errors": []
+  },
+  {
+    "id": "mizzion.bankofferngill",
+    "errors": []
+  },
+  {
+    "id": "bb.beesPlus",
+    "errors": []
+  },
+  {
+    "id": "leclair.bettercrafting",
+    "errors": []
+  },
+  {
+    "id": "BBR.BetterRings",
+    "errors": []
+  },
+  {
+    "id": "MindMeltMax.BetterShipping",
+    "errors": []
+  },
+  {
+    "id": "Neopffe.BetterWater",
+    "errors": []
+  },
+  {
+    "id": "bennoloth.BWSG",
+    "errors": []
+  },
+  {
+    "id": "spacechase0.BiggerBackpack",
+    "errors": []
+  },
+  {
+    "id": "Entoarox.BiggerFridges",
+    "errors": []
+  },
+  {
+    "id": "drbirbdev.BirbCore",
+    "errors": []
+  },
+  {
+    "id": "BerryBea.BookSubscription",
+    "errors": []
+  },
+  {
+    "id": "Esca.BuildOnAnyTile",
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.ButtonsExtraBooksCore",
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.BETAS",
+    "errors": []
+  },
+  {
+    "id": "jeanne.CharacterCustomizationAnywhere",
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.ChestsAnywhere",
+    "errors": []
+  },
+  {
+    "id": "CJBok.CheatsMenu",
+    "errors": []
+  },
+  {
+    "id": "CJBok.ItemSpawner",
+    "errors": []
+  },
+  {
+    "id": "AirynYri.GardenStatueObelisks",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.ClintDialouge",
+    "errors": []
+  },
+  {
+    "id": "leclair.cloudyskies",
+    "errors": []
+  },
+  {
+    "id": "mushymato.CompactSearchableShopMenu",
+    "suggestedUpdate": {
+      "version": "1.3.0",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/33271"
+    },
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.ContentPatcher",
+    "errors": []
+  },
+  {
+    "id": "gaussfire.ConvenientInventory",
+    "errors": []
+  },
+  {
+    "id": "CuriousLotor.CookingDaily",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.ArtisanMachines",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.CookingRecipes",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.MoreCrops",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.MoreFlowers",
+    "errors": []
+  },
+  {
+    "id": "LBXLW_Barbecue_Stand_CP",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.CropHarvestBubbles",
+    "errors": []
+  },
+  {
+    "id": "tem696969696969.CropWateringBubbles",
+    "suggestedUpdate": {
+      "version": "0.2.12",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/21428"
+    },
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.CMCT",
+    "errors": []
+  },
+  {
+    "id": "furyx639.CustomBush",
+    "errors": []
+  },
+  {
+    "id": "PeacefulEnd.CustomCompanions",
+    "errors": []
+  },
+  {
+    "id": "datamancer.CustomFixedDialogue",
+    "errors": []
+  },
+  {
+    "id": "Cherry.CustomizeAnywhere",
+    "errors": []
+  },
+  {
+    "id": "Dragoon23.CustomizeDresser",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.Tilesheets",
+    "errors": []
+  },
+  {
+    "id": "DaLion.Core",
+    "errors": []
+  },
+  {
+    "id": "Esca.DestroyableBushes",
+    "errors": []
+  },
+  {
+    "id": "boringvlln.kettlemicrowave",
+    "errors": []
+  },
+  {
+    "id": "DSHi.AdventureKitRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.ArtifactsRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.FishRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.FoodRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.MineralsRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.SeedRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.ShippingItemsRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.SpecialItemsRetexture",
+    "errors": []
+  },
+  {
+    "id": "PeacefulEnd.DynamicReflections",
+    "errors": []
+  },
+  {
+    "id": "knakamura.dynamicnighttime",
+    "errors": []
+  },
+  {
+    "id": "Nook.DynamicShader",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.EarthyInteriors",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.EarthyRecolour",
+    "errors": []
+  },
+  {
+    "id": "VinillaBean.EarthyRSV",
+    "errors": []
+  },
+  {
+    "id": "colling.towninterior",
+    "errors": []
+  },
+  {
+    "id": "Elle.CuterCats",
+    "errors": []
+  },
+  {
+    "id": "Elle.CuterDogs",
+    "errors": []
+  },
+  {
+    "id": "Elle.NewHorses",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsCatsCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsDogsCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsFarmAnimalsCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsHorsesCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsItemsCP",
+    "errors": []
+  },
+  {
+    "id": "Ems.LargeCritters",
+    "errors": []
+  },
+  {
+    "id": "Ems.River.Wildlife",
+    "errors": []
+  },
+  {
+    "id": "Ems.SeasonalSprinklers",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsCamelsCP",
+    "suggestedUpdate": {
+      "version": "1.2.0",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/39719"
+    },
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsTurtlesCP",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.EmilyDialouge",
+    "errors": []
+  },
+  {
+    "id": "tem696969696969.EmptyJarBubbles",
+    "errors": []
+  },
+  {
+    "id": "Esca.EMP",
+    "errors": []
+  },
+  {
+    "id": "shekurika.EventLookup",
+    "errors": []
+  },
+  {
+    "id": "Cherry.ExpandedPreconditionsUtility",
+    "errors": []
+  },
+  {
+    "id": "selph.ExtraAnimalConfig",
+    "errors": []
+  },
+  {
+    "id": "selph.ExtraMachineConfig",
+    "errors": []
+  },
+  {
+    "id": "Esca.FarmTypeManager",
+    "errors": []
+  },
+  {
+    "id": "CF.FarmhouseFixes",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.FasterMenuLoad",
+    "errors": []
+  },
+  {
+    "id": "paulsteele.fse",
+    "errors": [
+      "The update key 'ferngill.simple.economy' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "paulsteele.fse.vanilla",
+    "errors": [
+      "The update key 'ferngill.simple.economy' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "paulsteele.fse.mail",
+    "errors": [
+      "The update key 'ferngill.simple.economy' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "ChibiKyu.FishingAssistant2",
+    "errors": []
+  },
+  {
+    "id": "Nook.ChestLabels",
+    "errors": []
+  },
+  {
+    "id": "Wildflour.NooksCrannies",
+    "errors": []
+  },
+  {
+    "id": "miru.forestamber",
+    "errors": []
+  },
+  {
+    "id": "Kriana.FriendsForever",
+    "suggestedUpdate": {
+      "version": "1.2.11",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/20702"
+    },
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.FurnitureAdjustment",
+    "errors": []
+  },
+  {
+    "id": "leroymilo.FurnitureFramework",
+    "errors": []
+  },
+  {
+    "id": "spacechase0.GenericModConfigMenu",
+    "errors": []
+  },
+  {
+    "id": "jltaylor-us.GMCMOptions",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.HaleyDialouge",
+    "errors": []
+  },
+  {
+    "id": "tlitookilakin.HappyHomeDesigner",
+    "errors": []
+  },
+  {
+    "id": "Lamya.Camper.FF",
+    "errors": []
+  },
+  {
+    "id": "weizinai.HelpWanted",
+    "errors": []
+  },
+  {
+    "id": "bozeupasi.HugeChestMod",
+    "suggestedUpdate": {
+      "version": "1.0.5",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/47117"
+    },
+    "errors": []
+  },
+  {
+    "id": "hxw.tilesheets",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.ImmersiveScarecrows",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "berkayylmao.InfiniteZoom",
+    "errors": []
+  },
+  {
+    "id": "jibb.minecarts",
+    "errors": []
+  },
+  {
+    "id": "jibb.minecarts.C",
+    "errors": []
+  },
+  {
+    "id": "bcmpinc.Internationalization",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Latteholn.ItalianCountrysideBuildings",
+    "errors": []
+  },
+  {
+    "id": "mistyspring.ItemExtensions",
+    "errors": []
+  },
+  {
+    "id": "ChaosEnergy.LadderLocator",
+    "errors": []
+  },
+  {
+    "id": "atelier99.LaniCC",
+    "errors": []
+  },
+  {
+    "id": "Exblosis.LetsMoveIt",
+    "errors": []
+  },
+  {
+    "id": "mushymato.LivestockBazaar",
+    "suggestedUpdate": {
+      "version": "1.6.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/29997"
+    },
+    "errors": []
+  },
+  {
+    "id": "foggy.LfL",
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.LookupAnything",
+    "errors": []
+  },
+  {
+    "id": "blueberry.LoveOfCooking",
+    "errors": []
+  },
+  {
+    "id": "Lumisteria.LumiTilesheetsIndoor",
+    "errors": []
+  },
+  {
+    "id": "Lumisteria.TtilesheetsOutdoor",
+    "errors": []
+  },
+  {
+    "id": "selph.CustomTapperFramework",
+    "suggestedUpdate": {
+      "version": "1.11.7",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/22975"
+    },
+    "errors": []
+  },
+  {
+    "id": "DIGUS.MailFrameworkMod",
+    "errors": []
+  },
+  {
+    "id": "Digus.MailServicesMod",
+    "errors": []
+  },
+  {
+    "id": "DecidedlyHuman.MappingExtensionsAndExtraProperties",
+    "errors": []
+  },
+  {
+    "id": "Coldopa.MiniBars",
+    "errors": []
+  },
+  {
+    "id": "mushymato.MMAP",
+    "suggestedUpdate": {
+      "version": "1.14.1",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/28423"
+    },
+    "errors": []
+  },
+  {
+    "id": "Airyn.MoonCycle",
+    "errors": []
+  },
+  {
+    "id": "EpicBellyFlop45.MoreGrass",
+    "errors": []
+  },
+  {
+    "id": "leclair.morenightlyevents",
+    "errors": []
+  },
+  {
+    "id": "KangTaeGong",
+    "errors": []
+  },
+  {
+    "id": "NotAGardener.MoreSecretNotes",
+    "errors": []
+  },
+  {
+    "id": "EnderTedi.NoFenceDecayRedux",
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.NoclipMode",
+    "errors": []
+  },
+  {
+    "id": "Bouhm.NPCMapLocations",
+    "errors": []
+  },
+  {
+    "id": "NCarigon.PassableCrops",
+    "errors": []
+  },
+  {
+    "id": "focustense.PenPals",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.NPCMapLocationsPerformancePatch",
+    "errors": []
+  },
+  {
+    "id": "Peskit.Hogwarts_Express",
+    "errors": []
+  },
+  {
+    "id": "weizinai.PiCore",
+    "errors": []
+  },
+  {
+    "id": "glymr.FurnitureOutside",
+    "errors": []
+  },
+  {
+    "id": "PLY.provence.fence",
+    "errors": []
+  },
+  {
+    "id": "BadNetCode.PonyWeightLossProgram",
+    "errors": []
+  },
+  {
+    "id": "Platonymous.Portraiture",
+    "errors": []
+  },
+  {
+    "id": "Espy.PreciseFurniture",
+    "errors": []
+  },
+  {
+    "id": "iargue.PrismaticToolsContinued",
+    "errors": []
+  },
+  {
+    "id": "Digus.ProducerFrameworkMod",
+    "errors": []
+  },
+  {
+    "id": "kath.weathering",
+    "errors": []
+  },
+  {
+    "id": "Platonymous.Toolkit",
+    "errors": []
+  },
+  {
+    "id": "DLX.QuickSave",
+    "errors": []
+  },
+  {
+    "id": "ahomiepassingby.realisticwindeffects",
+    "errors": [
+      "The CurseForge mod with ID '1379464' has no valid versions."
+    ]
+  },
+  {
+    "id": "cantorsdust.RecatchLegendaryFish",
+    "errors": []
+  },
+  {
+    "id": "Louis.RegionalBanking",
+    "errors": []
+  },
+  {
+    "id": "EternalSoap.RemoteFridgeStorage",
+    "errors": []
+  },
+  {
+    "id": "Rafseazz.RSVCP",
+    "errors": []
+  },
+  {
+    "id": "Rafseazz.RSVCC",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Rafseazz.RSVFTM",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Rafseazz.RidgesideVillage",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Clara.Ripley",
+    "errors": []
+  },
+  {
+    "id": "Wildflour.SASS",
+    "errors": []
+  },
+  {
+    "id": "Coll1234567.RunningLate",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.RuralsOfItaly",
+    "suggestedUpdate": {
+      "version": "1.0.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/45720"
+    },
+    "errors": []
+  },
+  {
+    "id": "Hesper.RusticCountrysideTownInterior",
+    "errors": []
+  },
+  {
+    "id": "RusticCountry.wallsandfloors",
+    "errors": []
+  },
+  {
+    "id": "rokugin.safelightningupdated",
+    "errors": []
+  },
+  {
+    "id": "Aimon111.SeasonalCloverDigSpot",
+    "errors": []
+  },
+  {
+    "id": "kiwisprinkle.SeasonalCozyBus",
+    "errors": []
+  },
+  {
+    "id": "ichortower.SecretNoteFramework",
+    "errors": []
+  },
+  {
+    "id": "Az.Foliage",
+    "errors": []
+  },
+  {
+    "id": "Az.Resources",
+    "errors": []
+  },
+  {
+    "id": "Entoarox.SitForStamina",
+    "errors": []
+  },
+  {
+    "id": "DewMods.StardewValleyMods.SkipFishingMinigame",
+    "errors": []
+  },
+  {
+    "id": "SkullCavernElevator",
+    "errors": []
+  },
+  {
+    "id": "FlyingTNT.SocialPageOrderRedux",
+    "errors": []
+  },
+  {
+    "id": "drbirbdev.SocializingSkill",
+    "errors": []
+  },
+  {
+    "id": "spacechase0.SpaceCore",
+    "errors": []
+  },
+  {
+    "id": "MakoKZ.SpamMail",
+    "errors": []
+  },
+  {
+    "id": "mushymato.SpecialOrderNotifications",
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.SpecialPowerUtilities",
+    "errors": []
+  },
+  {
+    "id": "thimadera.StackEverythingRedux",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.StardewHighPriority",
+    "errors": [
+      "The CurseForge mod with ID '1430989' has no valid versions."
+    ]
+  },
+  {
+    "id": "Achtuur.StardewTravelSkill",
+    "errors": [
+      "Found no GitHub release for this ID."
+    ]
+  },
+  {
+    "id": "FlashShifter.SVECode",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "FlashShifter.StardewValleyExpandedCP",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "FlashShifter.SVE-FTM",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "bcmpinc.StardewHack",
+    "errors": []
+  },
+  {
+    "id": "focustense.StardewUI",
+    "errors": []
+  },
+  {
+    "id": "Omegasis.StardustCore",
+    "errors": []
+  },
+  {
+    "id": "dylanjames.storebells",
+    "errors": []
+  },
+  {
+    "id": "Airyn.Dao.CP",
+    "suggestedUpdate": {
+      "version": "1.0.4",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/33615"
+    },
+    "errors": []
+  },
+  {
+    "id": "Arknir.Jonghyuk",
+    "errors": []
+  },
+  {
+    "id": "atelier99.SBV.NPCLani",
+    "errors": []
+  },
+  {
+    "id": "skellady.SBVCP",
+    "errors": []
+  },
+  {
+    "id": "skellady.SBVCC",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "skellady.SBVFTM",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Ophaneom.Survivalistic",
+    "errors": []
+  },
+  {
+    "id": "Morghoula.SVETreesRecolored",
+    "errors": []
+  },
+  {
+    "id": "Aimon111.HPE_Icons",
+    "errors": []
+  },
+  {
+    "id": "mx146323.StardewLivingRPG",
+    "errors": []
+  },
+  {
+    "id": "mx.TheLivingValleyExpanded",
+    "errors": []
+  },
+  {
+    "id": "jltaylor-us.ToDew",
+    "suggestedUpdate": {
+      "version": "2.6.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/7409"
+    },
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.TractorMod",
+    "errors": []
+  },
+  {
+    "id": "Annosz.UiInfoSuite2",
+    "errors": []
+  },
+  {
+    "id": "fox_white25.ultimate_fertilizer",
+    "suggestedUpdate": {
+      "version": "1.3.0",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/21318"
+    },
+    "errors": []
+  },
+  {
+    "id": "misscoriel.UCRFix",
+    "suggestedUpdate": {
+      "version": "2.1.7",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/8284"
+    },
+    "errors": [
+      "The CurseForge mod with ID '885075' has no valid versions."
+    ]
+  },
+  {
+    "id": "DLX.Bundles",
+    "errors": []
+  },
+  {
+    "id": "DaLion.Professions",
+    "errors": []
+  },
+  {
+    "id": "lindest.stallsboxes",
+    "errors": []
+  },
+  {
+    "id": "bcmpinc.WearMoreRings",
+    "errors": []
+  },
+  {
+    "id": "Kana.WeatherWonders",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.WillyDialogue",
+    "errors": []
+  },
+  {
+    "id": "AraI_D_Wizard",
+    "errors": []
+  },
+  {
+    "id": "N3cro_92.WorldMapGingerIsland",
+    "errors": []
+  },
+  {
+    "id": "N3cro_92.WorldMapRSV",
+    "errors": []
+  },
+  {
+    "id": "N3cro_92.WorldMapSVE",
+    "suggestedUpdate": {
+      "version": "1.1.5",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/21788"
+    },
+    "errors": []
+  },
+  {
+    "id": "tiakall.wren",
+    "errors": []
+  },
+  {
+    "id": "moonslime.CookingSkill",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.YAJM",
+    "errors": []
+  },
+  {
+    "id": "Hoijjyat.LinusDialogue",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.ZenithFarm",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.ZenithFarm.FTM",
+    "errors": []
+  },
+  {
+    "id": "nuupon.immersivebarnscoops",
+    "errors": []
+  },
+  {
+    "id": "SSULs.Monster.Set",
+    "suggestedUpdate": {
+      "version": "1.4.5",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/6776"
+    },
+    "errors": []
+  },
+  {
+    "id": "Goldenrevolver.AnimalsDie",
+    "errors": []
+  },
+  {
+    "id": "furyx639.CarryChest",
+    "errors": []
+  }
+]
+전체 모드 수: 327
+[CP] Upgrade Sprinklers /  /  / UpdateKeys: []
+(AT) DustBeauty's Seasonal Fences / Novaphene.DB-SeasonalFences / 1.0.0 / UpdateKeys: [Nexus:26025]
+(AT) Dustbeauty's Seasonal Path and Flooring / Novaphene.DB-SeasonalFlooring / 1.0 / UpdateKeys: [Nexus:26026]
+(AT) Jona's Potted Strawberry Retex / Jona.PottedStrawberryRetex / 1.0.2 / UpdateKeys: [Nexus:44517]
+(CP) Canvas Buff Icons Retexture / kqnuka.canvasbuffs / 1.2.0 / UpdateKeys: [Nexus:33547]
+(CP) Jona's Potted Strawberry / Jona.PottedStrawberry / 1.0.2 / UpdateKeys: [Nexus:44517]
+(MG) DustBeauty's Wildflower Grass Field / Novaphene.DB-WildGrassField / 1.0.0 / UpdateKeys: [Nexus:26030]
+[AT] Creamy Cozy Decor / ENGloomy.CreamyCozyDecorAT / 1.1.0 / UpdateKeys: [Nexus:43300]
+[AT] Nano's Retro Style Furniture / RetroStyle.Furniture.Nano / 1.1.0 / UpdateKeys: [Nexus:16029@AT]
+[AT] Orangeblossom's Gift Box Chests / ob7.chest.giftEXTRA / 1.0 / UpdateKeys: []
+[AT] Vintage Industrial Decor / ENGloomy.VintageIndustrialDecorAT / 1.0.0 / UpdateKeys: [Nexus:36090]
+[AT]Gintyann's Sunflower Furniture / AT.Gintyann_Sunflowerfurniture / 1.0.0 / UpdateKeys: []
+[C#] Sunberry Village / SunberryTeam.SBVSMAPI / 1.1.2 / UpdateKeys: [Nexus:-1]
+[CC] Weather Wonders - Stable / Kana.WeatherWonders.CC / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+[CP] 1.6 Victy Villager portrait re-texture / Victy.VillagerRetexture / 1.6.41 / UpdateKeys: [Nexus:16238]
+[CP] 갈무리9 / Pinya_GalmuriFont / 1.0.0 / UpdateKeys: []
+[CP] 달빛해파리 리텍 / HBlue.Jellyfish.CP / 1.0.0 / UpdateKeys: []
+[CP] 조직원 엘리엇 대사확장모드 / Number7102.ElliottDialogue / 2.2.0 / UpdateKeys: []
+[CP] 지름길 모드 / Wally32.ShortcutMOD.CP / 2.0.7 / UpdateKeys: []
+[CP] Archaeology Skill / moonslime.ArchaeologySkill.CP / 2.18.0 / UpdateKeys: [Nexus:-1]
+[CP] Buildable Winery / delloti.Winery / 1.3.1 / UpdateKeys: []
+[CP] Button's Extra Books / Spiderbuttons.ButtonsExtraBooks / 3.2.1 / UpdateKeys: [Nexus:21526]
+[CP] Cozy Provincial Craftables / Latteholn.CozyProvincial / 1.0.0 / UpdateKeys: [Nexus:47992@CP]
+[CP] Daily Clothes Pack / delloti.CP.DCP / 0.1 / UpdateKeys: []
+[CP] DAILY HATS SET / delloti.CP.DAILYHATSSET / 0.0.1 / UpdateKeys: []
+[CP] DAILY PANTS SET / delloti.CP.DAILYPANTSSET / 1.0.0 / UpdateKeys: []
+[CP] DAILY PANTS SET ver.2 / delloti.CP.DAILYPANTSSET.ver2 / 1.0.0 / UpdateKeys: []
+[CP] DAILY SHIRTS SET ver.2 / delloti.CP.DAILYSHIRTSSET.ver2 / 1.0.0 / UpdateKeys: []
+[CP] Delloti's Flower Retexture / delloti.FlowerRetex / 1.0 / UpdateKeys: []
+[CP] DL HATS SET / delloti.CP.DLHATSSET / 1.0.0 / UpdateKeys: []
+[CP] Enemies from Kirby / CandyConstellation.KirbyEnemies / 1.0.0 / UpdateKeys: [Nexus:48464]
+[CP] GH's Peach Body type (female) / GH.Pitch.female / 5.0.0 / UpdateKeys: []
+[CP] GoodJobSuzette's Home Cooking / GoodJobSuzette.HomeCooking / 1.6.4 / UpdateKeys: [Nexus:30838]
+[CP] Hardmode Alphamale Harvey / WBM_Harveydialogue / 1.1.3 / UpdateKeys: []
+[CP] Italian Countryside Farmhouse / Latteholn.ItalianCountrysideFarmhouseCP / 1.0.1 / UpdateKeys: [Nexus:27005]
+[CP] LatteHoln's Idyllic Country Fences / Latteholn.IdyllicCountryFences / 1.0.0 / UpdateKeys: [Nexus:47991@CP]
+[CP] Molamole's Artisan and Refining Craftables Retextures / Molamole.ArtisanRefiningCraftablesRetextures.CP / 1.0.4 / UpdateKeys: [Nexus: 24116]
+[CP] POTION / delloti.POTION / 1.1.0 / UpdateKeys: []
+[CP] Retro Floors & Walls / Novaphene.RetroWallsAndFloors / 3.0 / UpdateKeys: [Nexus:17127]
+[CP] Socializing Skill / drbirbdev.SocializingSkill.CP / 2.1.1 / UpdateKeys: []
+[CP] Vintage Industrial Decor / ENGloomy.VintageIndustrialDecor / 1.0.0 / UpdateKeys: [Nexus:36090]
+[CP] Walk to the Desert Redux / Tarniyar.CP.WalkToDesert / 1.3.3 / UpdateKeys: [Nexus:8630, ModDrop:980591, CurseForge:499736, GitHub:Aeywoo/WTDR]
+[CP] XNB 리텍 모드 / wally32.XNB.Mod / 2.0.4 / UpdateKeys: []
+[CP] Yet Another Cooking Skill / moonslime.CookingSkill.CP / 1.12.0 / UpdateKeys: [Nexus:-1]
+[CP] yuyu Mary Jane / yuyu8_8.MaryJane / 1.0.0 / UpdateKeys: []
+[CP]Gintyann's Sunflower Crib / Gintyann.sunflower.Crib / 2.2.0 / UpdateKeys: [Nexus:]
+[CP]Gintyann's Sunflower Kitchen / Gintyannsunflower.kitchen / 1.0.0 / UpdateKeys: [Nexus:]
+[CP]Hardmode Alpahmale Sam_unmarried / WBM_sam / 1.0.0 / UpdateKeys: []
+[CP]Peach yogurt's Sprites / CP.Peachyogurt.Sprites / 1.1 / UpdateKeys: [Nexus:30139]
+[CP]Sebastian's dialogue / Sebastiansdialogue / 1.0.0 / UpdateKeys: []
+[CP]Tanga forest Gold Clock / Tanga.forestGoldClock / 1.1.0 / UpdateKeys: [Nexus:16853]
+[CP]Yandere Leah / WBM_Leah / 1.0.0 / UpdateKeys: []
+[DLL] Weather Wonders - Stable / Kana.WeatherWonders.DLL / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+[FF] Retro Furniture / Novaphene.RetroFurnitures / 3.0 / UpdateKeys: [Nexus:17127]
+[FTM] Rose and the Alchemist / Wildflour.SASS.FTM / 2.0.3 / UpdateKeys: []
+[FTM] Walk to the Desert Redux / Tarniyar.FTM.WalkToDesert / 1.3.3 / UpdateKeys: [Nexus:???]
+[FTM] Weather Wonders - Stable / Kana.WeatherWonders.FTM / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+[PFM] POTION / delloti.POTION.PFM / 1.1.0 / UpdateKeys: []
+[SVE] Wizard Dialogue - 아라아이AraI / AraI.SVE_D_Wizard / 1.0.0 / UpdateKeys: []
+*SorryLabCore* / YunHikari.SorryLabCore / 1.0.14 / UpdateKeys: [Nexus:29793]
+6480's Giant Crops / 6480.giantcrops / 2.1.2 / UpdateKeys: [Nexus: 5221]
+더욱 까칠한 셰인 대사 / Ryueun.ShaneDialogue / 1.0.0 / UpdateKeys: []
+猫露谷物语Cat Valley UI / RimeNovi.CatValley / 1.0.3 / UpdateKeys: [Nexus:39379]
+输入法修复（Input Method Fix） / Cyrilly.InputMethodFix / 1.0.4 / UpdateKeys: [Nexus:35313, GitHub:Cyrillya/InputMethodFix]
+AchtuurCore / Achtuur.AchtuurCore / 1.3.3 / UpdateKeys: [Nexus:16827]
+Activate Sprinklers / f4iTh.ActivateSprinklers / 1.3.2 / UpdateKeys: [Nexus:2088]
+Active and Useful Pets / recht.UsefulPets / 1.2.12-beta / UpdateKeys: [Nexus:40711]
+Aimon's Fancy Farmhouse / Aimon111.RedesignedFarmHouseLayoutAlt / 2.1.2 / UpdateKeys: [Nexus:14411]
+Aimon's More Lively Farm Cave / Aimon.MoreLivelyFarmCave / 1.0.3 / UpdateKeys: [Nexus:23190]
+Alex Vanilla Expansion / WBM.Alexdialogue / 1.0.1 / UpdateKeys: []
+All Chests Menu / aedenthorn.AllChestsMenu / 0.4.1 / UpdateKeys: [Nexus:14494]
+Alternative Textures / PeacefulEnd.AlternativeTextures / 8.1.1 / UpdateKeys: [Nexus:9246]
+Always Raining in the Valley / Himetarts.ARV.CP / 1.5.1 / UpdateKeys: [Nexus:9999]
+Animal Husbandry Mod / DIGUS.ANIMALHUSBANDRYMOD / 2.8.1 / UpdateKeys: [Nexus:1538]
+AnimalsNeedWater / GZhynko.AnimalsNeedWater / 1.7.4 / UpdateKeys: [Nexus:6196]
+Apex Mastery / JavCombita.ApexMastery / 3.5.6 / UpdateKeys: [Nexus:39685]
+ArchaeologySkill / moonslime.ArchaeologySkill / 2.18.2 / UpdateKeys: [Nexus:22199]
+ARV- Maximum / Himetarts.ARVCC / 1.5.1 / UpdateKeys: []
+AT.LBXLW.AnimatiedBBQStand / AT_LBXLW_Animatied_Barbecue_Stand_CP / 1.0.0 / UpdateKeys: [Nexus:35140]
+AutoGrabTruffles / qixing.AutoGrabTruffles / 1.1.0 / UpdateKeys: [Nexus:20874, GitHub:qixing-jk/QiXingAutoGrabTruffles]
+AutomaticGates / Rakiin.AutomaticGates / 2.5.5 / UpdateKeys: [Nexus:3109]
+BackgroundTickThrottler / ZeroXPatch.BackgroundTickThrottler / 1.1.0 / UpdateKeys: [Nexus:41920]
+Bank of Ferngill / mizzion.bankofferngill / 1.1.1 / UpdateKeys: [Nexus:13043]
+Bees Plus / bb.beesPlus / 1.3 / UpdateKeys: [Nexus: 30597]
+Better Crafting / leclair.bettercrafting / 2.18.0 / UpdateKeys: [Nexus:11115@Main, ModDrop:1115749@Main]
+Better Critters / Better.Critters / 1.0.2 / UpdateKeys: []
+Better Rings / BBR.BetterRings / 1.0 / UpdateKeys: [Nexus:8642]
+Better Shipping Bin / MindMeltMax.BetterShipping / 1.4.8 / UpdateKeys: [nexus:10487]
+Better Water / Neopffe.BetterWater / 1.9.2 / UpdateKeys: [Nexus:15079]
+Better Winter Star Gifts / bennoloth.BWSG / 1.0.3 / UpdateKeys: [Nexus:14994]
+Bigger Backpack / spacechase0.BiggerBackpack / 7.3 / UpdateKeys: [Nexus:1845, Chucklefish:5191]
+Bigger Fridges / Entoarox.BiggerFridges / 1.1.1 / UpdateKeys: [nexus:21678]
+BirbCore / drbirbdev.BirbCore / 1.1.0 / UpdateKeys: [Nexus:19140]
+Book Subscription / BerryBea.BookSubscription / 1.2.4 / UpdateKeys: [Nexus:21353]
+BubbleTea / Gegamja.BubbleTea / 2.0.0 / UpdateKeys: []
+Build On Any Tile / Esca.BuildOnAnyTile / 1.1.3 / UpdateKeys: [GitHub:Esca-MMC/BuildOnAnyTile, Nexus:6854, ModDrop:827525]
+Button's Extra Books / Spiderbuttons.ButtonsExtraBooksCore / 3.2.1 / UpdateKeys: [Nexus:21526]
+Button's Extra Trigger Action Stuff / Spiderbuttons.BETAS / 3.4.0 / UpdateKeys: [Nexus:27100]
+Calcifer / sophie.Calcifer / 0.1.0 / UpdateKeys: []
+CharacterCustomizationAnywhere / jeanne.CharacterCustomizationAnywhere / 1.0.2 / UpdateKeys: [Nexus:7415]
+Chests Anywhere / Pathoschild.ChestsAnywhere / 1.30.1 / UpdateKeys: [Nexus:518]
+CJB Cheats Menu / CJBok.CheatsMenu / 1.42.0 / UpdateKeys: [Nexus:4]
+CJB Item Spawner / CJBok.ItemSpawner / 2.5.6 / UpdateKeys: [Nexus:93]
+Classical Garden Statue Obelisks / AirynYri.GardenStatueObelisks / 1.1.0 / UpdateKeys: [Nexus:16374]
+ClintDialouge / Pyobeom.ClintDialouge / 1.0.0 / UpdateKeys: []
+Cloudy Skies / leclair.cloudyskies / 1.9.1 / UpdateKeys: [Nexus:23135@main]
+Compact Searchable Shop Menu / mushymato.CompactSearchableShopMenu / 1.2.1 / UpdateKeys: [Nexus:33271, GitHub:Mushymato/CompactSearchableShopMenu]
+Console Commands / SMAPI.ConsoleCommands / 4.5.2 / UpdateKeys: []
+Content Patcher / Pathoschild.ContentPatcher / 2.9.1 / UpdateKeys: [Nexus:1915]
+Convenient Inventory / gaussfire.ConvenientInventory / 1.6.1 / UpdateKeys: [Nexus:10384]
+Cooking Daily / CuriousLotor.CookingDaily / 1.1 / UpdateKeys: [Nexus:32686]
+Cornucopia - Artisan Machines / Cornucopia.ArtisanMachines / 1.0.16 / UpdateKeys: [Nexus: 24842]
+Cornucopia - Cooking Recipes / Cornucopia.CookingRecipes / 1.0.8 / UpdateKeys: [Nexus:39057]
+Cornucopia - More Crops / Cornucopia.MoreCrops / 1.6.3 / UpdateKeys: [Nexus: 19508]
+Cornucopia - More Flowers / Cornucopia.MoreFlowers / 1.5.7 / UpdateKeys: [Nexus: 20290]
+CP.LBXLW' Barbecue Stand / LBXLW_Barbecue_Stand_CP / 1.0.0 / UpdateKeys: [Nexus:35140]
+Crop Harvest Bubbles / aedenthorn.CropHarvestBubbles / 0.6.2 / UpdateKeys: [Nexus:17761]
+Crop Watering Bubbles Continued / tem696969696969.CropWateringBubbles / 0.2.9 / UpdateKeys: [Nexus:21428]
+Cross-Mod Compatibility Tokens / Spiderbuttons.CMCT / 1.1.2 / UpdateKeys: [Nexus:28284]
+Custom Bush / furyx639.CustomBush / 1.5.2 / UpdateKeys: [Nexus:20619, CurseForge:998265, ModDrop:1547214, GitHub:LeFauxMatt/CustomBush]
+Custom Companions / PeacefulEnd.CustomCompanions / 5.1.0 / UpdateKeys: [Nexus:8626]
+Custom Companions for Nooks and Crannies / Wildflour.NooksCranniesCC / 2.2 / UpdateKeys: []
+Custom Fixed Dialogue / datamancer.CustomFixedDialogue / 2.4.4 / UpdateKeys: [Nexus:20938, ModDrop:1533308]
+Customize Anywhere / Cherry.CustomizeAnywhere / 1.4.2 / UpdateKeys: [Nexus:4734]
+Customize Dresser / Dragoon23.CustomizeDresser / 1.5.1 / UpdateKeys: [Nexus:23359]
+Daily Orders / Wlyra.DailyOrders / 1.0.0 / UpdateKeys: []
+DaisyNiko's Tilesheets / DaisyNiko.Tilesheets / 1.12 / UpdateKeys: [Nexus:4736]
+DaLionheart / DaLion.Core / 2.2.3 / UpdateKeys: [Nexus:24332]
+Delloti's Hairstyles_80type / delloti.Hair.80 / 0.1.2 / UpdateKeys: []
+Destroyable Bushes / Esca.DestroyableBushes / 1.5.2 / UpdateKeys: [Nexus:6304, GitHub:Esca-MMC/DestroyableBushes, ModDrop:798245]
+DoNotEatMyCrops / u_u__w.DoNotEatMyCrops / 1.0.0 / UpdateKeys: []
+Drink Water and Eat Frozen / boringvlln.kettlemicrowaveAT / 1.1 / UpdateKeys: []
+Drink Water and Eat Frozen / boringvlln.kettlemicrowave / 1.5.1 / UpdateKeys: [Nexus:25681]
+DSHi Adventure Kit Retexture / DSHi.AdventureKitRetexture / 1.0.1 / UpdateKeys: [Nexus:34058]
+DSHi Artifacts Retexture / DSHi.ArtifactsRetexture / 1.2.0 / UpdateKeys: [Nexus:24240]
+DSHi Fish Retexture / DSHi.FishRetexture / 1.2.0 / UpdateKeys: [Nexus:21465]
+DSHi Food Retexture / DSHi.FoodRetexture / 1.4.0 / UpdateKeys: [Nexus:18726]
+DSHi Minerals Retexture / DSHi.MineralsRetexture / 1.3.0 / UpdateKeys: [Nexus:18725]
+DSHi Seed Retexture / DSHi.SeedRetexture / 1.1.0 / UpdateKeys: [Nexus:33153]
+DSHi Shipping Items Retexture / DSHi.ShippingItemsRetexture / 1.4.2 / UpdateKeys: [Nexus:18769]
+DSHi Special Items Retexture / DSHi.SpecialItemsRetexture / 1.0.2 / UpdateKeys: [Nexus:32206]
+Dynamic Reflections / PeacefulEnd.DynamicReflections / 4.0.1 / UpdateKeys: [Nexus:12831]
+DynamicNightTime / knakamura.dynamicnighttime / 1.3.16-beta / UpdateKeys: [Nexus:2072]
+DynamicShader / Nook.DynamicShader / 1.0.15 / UpdateKeys: [Nexus: 40775]
+Earthy Interiors / DaisyNiko.EarthyInteriors / 1.2.2 / UpdateKeys: [Nexus:14790]
+Earthy Recolour / DaisyNiko.EarthyRecolour / 1.4.4 / UpdateKeys: [Nexus:5255]
+Earthy Ridgeside CP Conversion / VinillaBean.EarthyRSV / 1.1.3 / UpdateKeys: [Nexus:17980]
+Elegant Town Interior / colling.towninterior / 1.0.3 / UpdateKeys: [Nexus:15049]
+Elle's Cuter Cats / Elle.CuterCats / 1.0.1 / UpdateKeys: [Nexus:20041]
+Elle's Cuter Dogs / Elle.CuterDogs / 1.0.2 / UpdateKeys: [Nexus:20040]
+Elle's New Horses / Elle.NewHorses / 1.1.5 / UpdateKeys: [Nexus:3169]
+Em's Cats / RivalRabbit.EmsCatsCP / 1.0 / UpdateKeys: [Nexus:37201]
+Em's Dogs / RivalRabbit.EmsDogsCP / 1.2 / UpdateKeys: [Nexus:38357]
+Em's Farm Animals / RivalRabbit.EmsFarmAnimalsCP / 1.3 / UpdateKeys: [Nexus:39782]
+Em's Horses / RivalRabbit.EmsHorsesCP / 1.1 / UpdateKeys: [Nexus:41169]
+Em's Items / RivalRabbit.EmsItemsCP / 1.3 / UpdateKeys: [Nexus:39019]
+Em's Large Critters / Ems.LargeCritters / 1.5 / UpdateKeys: [Nexus:39616]
+Em's River Wildlife / Ems.River.Wildlife / 1.3 / UpdateKeys: [Nexus:43463]
+Em's Seasonal Sprinklers / Ems.SeasonalSprinklers / 1.2 / UpdateKeys: [Nexus:36790]
+Em's SVE Animals / RivalRabbit.EmsCamelsCP / 1.1 / UpdateKeys: [Nexus:39719]
+Em's Turtles CP / RivalRabbit.EmsTurtlesCP / 1.0 / UpdateKeys: [Nexus:38651]
+EmilyDialouge / Pyobeom.EmilyDialouge / 1.0.0 / UpdateKeys: []
+Empty Jar Bubbles / tem696969696969.EmptyJarBubbles / 1.0.4-fix / UpdateKeys: [Nexus:22598]
+Esca's Modding Plugins (EMP) / Esca.EMP / 1.7.2 / UpdateKeys: [Nexus:9296, GitHub:Esca-MMC/EscasModdingPlugins, ModDrop:1005443]
+Event Lookup / shekurika.EventLookup / 0.2.9 / UpdateKeys: [Nexus:8505]
+Expanded Preconditions Utility / Cherry.ExpandedPreconditionsUtility / 1.1.2 / UpdateKeys: [Nexus:6529]
+ExtraAnimalConfig / selph.ExtraAnimalConfig / 1.9.10 / UpdateKeys: [Nexus:25328]
+ExtraMachineConfig / selph.ExtraMachineConfig / 1.17.12 / UpdateKeys: [Nexus:22256]
+Farm Type Manager (FTM) / Esca.FarmTypeManager / 1.26.1 / UpdateKeys: [Nexus:3231, GitHub:Esca-MMC/FarmTypeManager, ModDrop:598755]
+Farmhouse Fixes / CF.FarmhouseFixes / 1.8.3 / UpdateKeys: [Nexus:16507]
+Faster Menu Load / ZeroXPatch.FasterMenuLoad / 1.5.0 / UpdateKeys: [Nexus: 41564 ]
+Ferngill Simple Economy / paulsteele.fse / 2.1.0 / UpdateKeys: [ferngill.simple.economy, Nexus:21414]
+Ferngill Simple Economy Default Pack / paulsteele.fse.vanilla / 2.1.0 / UpdateKeys: [ferngill.simple.economy, Nexus:21414]
+Ferngill Simple Economy Mail / paulsteele.fse.mail / 2.1.0 / UpdateKeys: [ferngill.simple.economy, Nexus:21414]
+Fishing Assistant 2 / ChibiKyu.FishingAssistant2 / 2.5.2 / UpdateKeys: [Nexus:5815]
+Float Chest Labels / Nook.ChestLabels / 1.0.1 / UpdateKeys: [Nexus:39045]
+Forager's Nooks and Crannies - New Maps for Stardew Valley / Wildflour.NooksCrannies / 2.2.1 / UpdateKeys: [Nexus:23468]
+Forest Amber / miru.forestamber / 3.0 / UpdateKeys: [nexus:16127]
+Friends Forever / Kriana.FriendsForever / 1.2.10 / UpdateKeys: [Nexus:20702]
+Furniture Adjustment / aedenthorn.FurnitureAdjustment / 0.4.1 / UpdateKeys: [Nexus:10213]
+Furniture Framework / leroymilo.FurnitureFramework / 3.3.0 / UpdateKeys: [Nexus:23458]
+Generic Mod Config Menu / spacechase0.GenericModConfigMenu / 1.16.0 / UpdateKeys: [Nexus:5098]
+GMCM Options / jltaylor-us.GMCMOptions / 2.1.0 / UpdateKeys: [Nexus:10505, GitHub:jltaylor-us/StardewGMCMOptions]
+HaleyDialouge / Pyobeom.HaleyDialouge / 1.1.0 / UpdateKeys: []
+Happy Home Designer / tlitookilakin.HappyHomeDesigner / 2.5.4 / UpdateKeys: [Nexus:19675, GitHub:tlitookilakin/HappyHomeDesigner]
+HappyCamper (FF) / Lamya.Camper.FF / 1.0.2 / UpdateKeys: [nexus:37437]
+Help Wanted Redux For 1.6 / weizinai.HelpWanted / 2.0.4 / UpdateKeys: [Nexus: 21766]
+Huge Chest / bozeupasi.HugeChestMod / 1.0.3 / UpdateKeys: [Nexus:47117]
+HxW Tilesheets / hxw.tilesheets / 2.0.0 / UpdateKeys: [Nexus:20139]
+Immersive Scarecrows / aedenthorn.ImmersiveScarecrows / 1.4.3 / UpdateKeys: [Nexus:15290]
+InfiniteZoom / berkayylmao.InfiniteZoom / 1.1.0 / UpdateKeys: [Nexus:8808]
+Integrated Minecarts (CP Component) / jibb.minecarts / 4.6.0 / UpdateKeys: [Nexus:11881, CurseForge:988762]
+Integrated Minecarts (SMAPI Component) / jibb.minecarts.C / 4.6.0 / UpdateKeys: [Nexus:11881]
+Internationalization / bcmpinc.Internationalization / 0.6 / UpdateKeys: [Nexus:0]
+Italian Countryside Buildings / Latteholn.ItalianCountrysideBuildings / 1.0.4 / UpdateKeys: [Nexus:27579]
+Item extensions / mistyspring.ItemExtensions / 1.16.0 / UpdateKeys: [nexus:20357]
+Joja Lottery / Airyn.JojaLotteryCP / 2.0.0 / UpdateKeys: []
+LadderLocator / ChaosEnergy.LadderLocator / 1.5.2 / UpdateKeys: [Nexus:3094]
+Lani CC - Sammy / atelier99.LaniCC / 1.1.7 / UpdateKeys: [Nexus:32689]
+Let's Move It / Exblosis.LetsMoveIt / 0.6.20 / UpdateKeys: [Nexus:20943]
+Livestock Bazaar / mushymato.LivestockBazaar / 1.6.1 / UpdateKeys: [Nexus:29997, GitHub:Mushymato/LivestockBazaar]
+Living Valley Characters - CP / LivingValley.Characters.CP / 1.0.0 / UpdateKeys: []
+Living Valley Characters (TLV Content Pack) / LivingValley.Characters / 1.0.0 / UpdateKeys: []
+Looking for Love Korean 2.2.0 / foggy.LfL / 2.2.8 / UpdateKeys: []
+Lookup Anything / Pathoschild.LookupAnything / 1.55.0 / UpdateKeys: [Nexus:541]
+Love of Cooking / blueberry.LoveOfCooking / 2.0.8 / UpdateKeys: [Nexus:6830]
+Love of Cooking [CP] / blueberry.LoveOfCooking.CP / 2.0.8 / UpdateKeys: []
+Love of Cooking [EN] / blueberry.LoveOfCooking.EN / 2.0.8 / UpdateKeys: []
+Lumisteria Tilesheets - Indoor / Lumisteria.LumiTilesheetsIndoor / 1.4.0 / UpdateKeys: [Nexus:9599]
+Lumisteria Tilesheets - Outdoor / Lumisteria.TtilesheetsOutdoor / 1.4.0 / UpdateKeys: [Nexus:10448]
+Machine Terrain Framework / selph.CustomTapperFramework / 1.11.6 / UpdateKeys: [Nexus:22975]
+Mail Framework Mod / DIGUS.MailFrameworkMod / 1.20.0 / UpdateKeys: [Nexus:1536]
+Mail Services Mod / Digus.MailServicesMod / 1.6.2 / UpdateKeys: [Nexus:7842]
+Mapping Extensions and Extra Properties (MEEP) / DecidedlyHuman.MappingExtensionsAndExtraProperties / 2.5.3 / UpdateKeys: [Nexus:14493]
+Mild Winter Snow / ennRiccia.mildWinterSnow / 1.0.0 / UpdateKeys: []
+Mini Bars / Coldopa.MiniBars / 1.0.5 / UpdateKeys: [Nexus:8329]
+Misc Map Actions & Properties / mushymato.MMAP / 1.14.0 / UpdateKeys: [Nexus:28423, GitHub:Mushymato/MiscMapActionsProperties]
+Moon Cycle / Airyn.MoonCycle / 1.1.0 / UpdateKeys: [Nexus:19428]
+More Grass / EpicBellyFlop45.MoreGrass / 1.2.2 / UpdateKeys: [Nexus:5398]
+More Nightly Events / leclair.morenightlyevents / 0.4.0 / UpdateKeys: [Nexus:22612@Main]
+More Quest / KangTaeGong / 2.0.6 / UpdateKeys: [Nexus:7155]
+More Quest Mail / KangTaeGong.AQM / 2.0.6 / UpdateKeys: []
+MoreSecretNotes / NotAGardener.MoreSecretNotes / 1.0.0 / UpdateKeys: [Nexus:41211]
+No Fence Decay Redux / EnderTedi.NoFenceDecayRedux / 1.2.0 / UpdateKeys: [Nexus:20802]
+Noclip Mode / Pathoschild.NoclipMode / 1.3.20 / UpdateKeys: [Nexus:3900]
+NPC Map Locations / Bouhm.NPCMapLocations / 3.5.2 / UpdateKeys: [Nexus:239]
+Passable Crops / NCarigon.PassableCrops / 1.2.3 / UpdateKeys: [nexus:15223]
+PEEM (Not MEEP) / DecidedlyHuman.PEEM / 1.0.1 / UpdateKeys: []
+Pen Pals / focustense.PenPals / 0.4.0 / UpdateKeys: [Nexus:27489, GitHub:focustense/StardewPenPals]
+Performance Patch - NPC Map Locations / ZeroXPatch.NPCMapLocationsPerformancePatch / 1.1.0 / UpdateKeys: [Nexus:42199]
+Peskit Hogwart's Express / Peskit.Hogwarts_Express / 1.0 / UpdateKeys: [Nexus:7338]
+Pi Core / weizinai.PiCore / 0.4.0 / UpdateKeys: [Nexus: 33525]
+pinkstarfruit's YWB cat trees and dog houses / pinkstarfruit.ywbcattreesanddoghouses / 1.0.0 / UpdateKeys: []
+Place Furniture Outside (Furniture Anywhere Redux) by glymr / glymr.FurnitureOutside / 1.0.5 / UpdateKeys: [Nexus:21147@New]
+PLY's Stone Fences For Provence Style Farm / PLY.provence.fence / 1.0.0 / UpdateKeys: [Nexus:34606]
+Pony Weight Loss Program / BadNetCode.PonyWeightLossProgram / 1.0.0 / UpdateKeys: [Nexus:1232, Moddrop:130159]
+Portraiture / Platonymous.Portraiture / 1.12.1-alpha.20240304 / UpdateKeys: [Nexus:999]
+Precise Furniture / Espy.PreciseFurniture / 1.1.1 / UpdateKeys: [Nexus:23488]
+Prismatic Tools Continued / iargue.PrismaticToolsContinued / 1.2.4 / UpdateKeys: [Nexus:21450]
+Producer Framework Mod / Digus.ProducerFrameworkMod / 1.9.8 / UpdateKeys: [Nexus:4970]
+Project Danger Weather for Cloudy Skies / kath.weathering / 1.4.17 / UpdateKeys: [Nexus:23734@Main]
+PyTK Lite / Platonymous.Toolkit / 1.24.0 / UpdateKeys: [Nexus:1726]
+QuickSave / DLX.QuickSave / 1.5.0 / UpdateKeys: [Nexus:26194]
+Realistic Wind Effects / ahomiepassingby.realisticwindeffects / 1.0.1 / UpdateKeys: [Nexus:38268]
+Recatch Legendary Fish / cantorsdust.RecatchLegendaryFish / 1.9.3 / UpdateKeys: [Nexus:172]
+Regional Banking & Taxes System / Louis.RegionalBanking / 2.0.1 / UpdateKeys: [Nexus:41480]
+Regional Banking System - Content / Louis.RegionalBanking.Content / 1.0.0 / UpdateKeys: []
+Remote Fridge Storage / EternalSoap.RemoteFridgeStorage / 1.10.2 / UpdateKeys: [Nexus:2545]
+Ridgeside Village [Content Patcher component] / Rafseazz.RSVCP / 2.5.17 / UpdateKeys: [Nexus:7286]
+Ridgeside Village [Custom Companions component] / Rafseazz.RSVCC / 2.5.17 / UpdateKeys: [Nexus:-1]
+Ridgeside Village [Farm Type Manager component] / Rafseazz.RSVFTM / 2.5.17 / UpdateKeys: [Nexus:-1]
+Ridgeside Village [SMAPI component] / Rafseazz.RidgesideVillage / 2.5.17 / UpdateKeys: [Nexus:-1]
+Ripley / Clara.Ripley / 1.0.9 / UpdateKeys: [Nexus:32660]
+Ripley's Farm Animals / Clara.RipleyCC / 1.0.9 / UpdateKeys: []
+Rose and the Alchemist - NPCs for Sunberry Village / Wildflour.SASS / 2.0.4 / UpdateKeys: [nexus:32385]
+Running Late / Coll1234567.RunningLate / 2.0.2 / UpdateKeys: [Nexus:3518]
+Rurals of Italy / Latteholn.RuralsOfItaly / 1.0.1 / UpdateKeys: [Nexus:45720]
+Rustic Country Town Interior / Hesper.RusticCountrysideTownInterior / 1.7 / UpdateKeys: [Nexus:6098]
+Rustic Country Walls and Floors / RusticCountry.wallsandfloors / 1.1 / UpdateKeys: [Nexus:5857]
+Safe Lightning Updated / rokugin.safelightningupdated / 1.1.1 / UpdateKeys: [Nexus:22783]
+Save Backup / SMAPI.SaveBackup / 4.5.2 / UpdateKeys: []
+Seasonal Clover Dig Spot / Aimon111.SeasonalCloverDigSpot / 1.0.3 / UpdateKeys: [Nexus:16626]
+Seasonal Cozy Bus / kiwisprinkle.SeasonalCozyBus / 1.0 / UpdateKeys: [Nexus:24873]
+Secret Note Framework / ichortower.SecretNoteFramework / 1.2.1 / UpdateKeys: [Nexus:25055, GitHub:ichortower/SecretNoteFramework]
+Simple Foliage / Az.Foliage / 2.1.2 / UpdateKeys: [Nexus:20972]
+Simple Resources / Az.Resources / 1.0.1 / UpdateKeys: [Nexus:15026]
+Sit For Stamina / Entoarox.SitForStamina / 1.0.1 / UpdateKeys: [nexus:7334]
+SkipFishingMinigame / DewMods.StardewValleyMods.SkipFishingMinigame / 0.7.4 / UpdateKeys: [Nexus:2697]
+SkullCavernElevator / SkullCavernElevator / 1.6.2 / UpdateKeys: [Nexus:963]
+Smallcopper's Icons / smallcopper.stardewicons / 1.0.0 / UpdateKeys: []
+Social Page Order Redux / FlyingTNT.SocialPageOrderRedux / 1.3.1 / UpdateKeys: [Nexus:23374]
+SocializingSkill / drbirbdev.SocializingSkill / 2.1.1 / UpdateKeys: [Nexus:14142]
+SpaceCore / spacechase0.SpaceCore / 1.28.4 / UpdateKeys: [Nexus:1348]
+Spam Mail / MakoKZ.SpamMail / 1.0.4 / UpdateKeys: [Nexus:22765]
+Special Order Notifications / mushymato.SpecialOrderNotifications / 1.1.1 / UpdateKeys: [Nexus:25999]
+Special Power Utilities / Spiderbuttons.SpecialPowerUtilities / 2.3.3 / UpdateKeys: [Nexus:22300]
+Stack Everything Redux / thimadera.StackEverythingRedux / 1.2.1 / UpdateKeys: [Nexus:22381]
+Stardew High Priority / ZeroXPatch.StardewHighPriority / 1.2.0 / UpdateKeys: [Nexus:40359]
+Stardew Stabilizer For Android / ZeroXPatch.StardewStabilizer / 1.0.0 / UpdateKeys: []
+Stardew Travel Skill / Achtuur.StardewTravelSkill / 1.4.0 / UpdateKeys: [Nexus:16820, GitHub:Achtuur/StardewTravelSkill]
+Stardew Valley Expanded / FlashShifter.SVECode / 1.15.11 / UpdateKeys: [Nexus:???]
+Stardew Valley Expanded / FlashShifter.StardewValleyExpandedCP / 1.15.11 / UpdateKeys: [Nexus:???]
+Stardew Valley Expanded Farm Type Manager / FlashShifter.SVE-FTM / 1.15.11 / UpdateKeys: [Nexus:???]
+StardewHack / bcmpinc.StardewHack / 7.4 / UpdateKeys: [Nexus:3213]
+StardewUI / focustense.StardewUI / 0.6.3-unofficial-mushymato.1 / UpdateKeys: [Nexus:43861, GitHub:Mushymato/StardewUI]
+StardustCore / Omegasis.StardustCore / 3.1.1 / UpdateKeys: [Nexus:2341]
+Store Entrance Doorbells / dylanjames.storebells / 0.0.4 / UpdateKeys: [Nexus:34540]
+StrawberryFood / Gegamja.StrawberryFood / 2.0.0 / UpdateKeys: []
+Sunberry NPC - Dao / Airyn.Dao.CP / 1.0.3 / UpdateKeys: [Nexus:33615]
+Sunberry NPC - Jonghyuk & Spanner / Arknir.Jonghyuk / 1.2.3 / UpdateKeys: [Nexus:12000]
+Sunberry NPC - Lani / atelier99.SBV.NPCLani / 1.1.7 / UpdateKeys: [Nexus:32689]
+Sunberry Village - Content Patcher / skellady.SBVCP / 1.1.2 / UpdateKeys: [Nexus:11111]
+Sunberry Village - Custom Companions / skellady.SBVCC / 1.1.2 / UpdateKeys: [Nexus:-1]
+Sunberry Village - Farm Type Manager / skellady.SBVFTM / 1.1.2 / UpdateKeys: [Nexus:-1]
+Survivalistic (Rebooted) / Ophaneom.Survivalistic / 1.1.0-Unofficial.4-Locked15 / UpdateKeys: [Nexus:12179, Nexus:23617, GitHub:Locked15/SDV_Survivalistic-Rebooted]
+SVE Trees Recolored / Morghoula.SVETreesRecolored / 1.0.1 / UpdateKeys: [Nexus:28798]
+Symbolic Health and Energy Icons / Aimon111.HPE_Icons / 1.0.4 / UpdateKeys: [Nexus:39068]
+Tanghulu / Gegamja.Tanghulu / 2.0.0 / UpdateKeys: []
+The Living Valley / mx146323.StardewLivingRPG / 1.0.5 / UpdateKeys: [Nexus:42597]
+The Living Valley Expanded Compatibility (TLV Content Pack) / mx.TheLivingValleyExpanded / 2.0.1 / UpdateKeys: [Nexus:42699]
+To-Dew / jltaylor-us.ToDew / 2.5.0 / UpdateKeys: [Nexus:7409, GitHub:jltaylor-us/StardewToDew]
+Tractor Mod / Pathoschild.TractorMod / 4.24.4 / UpdateKeys: [Nexus:1401]
+UI Info Suite 2 / Annosz.UiInfoSuite2 / 2.3.7 / UpdateKeys: [GitHub:Annosz/UIInfoSuite2, Nexus:7098]
+Ultimate Fertilizer / fox_white25.ultimate_fertilizer / 1.2.5 / UpdateKeys: [nexus:21318]
+Unique Response Core / misscoriel.UCRFix / 2.1.5 / UpdateKeys: [Nexus: 8284]
+Unlockable Bundles / DLX.Bundles / 4.3.1 / UpdateKeys: [Nexus:17265@MAIN]
+Various Coal nodes in the mines / 6135.VariousCoalOresExtras / 1.2.5 / UpdateKeys: []
+Wafflemania 2.0 / Lavliette.Wafflemania / 1.0.1 / UpdateKeys: []
+Walk Of Life - Rebirth / DaLion.Professions / 1.4.2 / UpdateKeys: [Nexus:24355]
+Warm Stalls and Cozy Boxes / lindest.stallsboxes / 1.3.2 / UpdateKeys: [Nexus:43227]
+Wear More Rings / bcmpinc.WearMoreRings / 7.9 / UpdateKeys: [Nexus:3214]
+Weather Wonders - Stable / Kana.WeatherWonders / 1.4.10-stable / UpdateKeys: [Nexus:23868]
+Willy Dialogue / Pyobeom.WillyDialogue / 1.1.0 / UpdateKeys: []
+Wizard Dialogue-AraI / AraI_D_Wizard / 3.0.0 / UpdateKeys: []
+WorldMap for Ginger Island / N3cro_92.WorldMapGingerIsland / 1.0.1 / UpdateKeys: [Nexus:21969]
+WorldMap for Ridgeside Village / N3cro_92.WorldMapRSV / 1.0.6 / UpdateKeys: [Nexus:21792]
+WorldMap for Stardew Valley Expanded / N3cro_92.WorldMapSVE / 1.1.2 / UpdateKeys: [Nexus:21788@SVE]
+Wren the Plumber - Custom NPC / tiakall.wren / 1.0.4 / UpdateKeys: [Nexus:14286]
+Yet Another Cooking Skill / moonslime.CookingSkill / 1.13.0 / UpdateKeys: [Nexus:22681]
+Yet Another Jump Mod / aedenthorn.YAJM / 0.7.2 / UpdateKeys: [Nexus:6546]
+Young Writer Linus / Hoijjyat.LinusDialogue / 1.1.0 / UpdateKeys: []
+Zenith Farm / DaisyNiko.ZenithFarm / 1.5 / UpdateKeys: [Nexus:15618]
+Zenith Farm FTM / DaisyNiko.ZenithFarm.FTM / 1.5 / UpdateKeys: [Nexus:15618]
+[CP] Immersive Barns and Coops / nuupon.immersivebarnscoops / 1.0.7 / UpdateKeys: [Nexus:28462]
+[CP]SSUL's Monster Set / SSULs.Monster.Set / 1.0.0 / UpdateKeys: [Nexus:6776]
+Animals Die - Old Age, Hunger, Illness / Goldenrevolver.AnimalsDie / 1.7.3 / UpdateKeys: [Nexus:7769]
+Carry Chests / furyx639.CarryChest / 1.3.0 / UpdateKeys: [Nexus:30321, CurseForge:1169557, GitHub:LeFauxMatt/CarryChests]
+업데이트 요청 모드 수: 278
+요청 JSON: {"mods":[{"id":"Novaphene.DB-SeasonalFences","updateKeys":["Nexus:26025"],"installedVersion":"1.0.0","isBroken":false},{"id":"Novaphene.DB-SeasonalFlooring","updateKeys":["Nexus:26026"],"installedVersion":"1.0","isBroken":false},{"id":"Jona.PottedStrawberryRetex","updateKeys":["Nexus:44517"],"installedVersion":"1.0.2","isBroken":false},{"id":"kqnuka.canvasbuffs","updateKeys":["Nexus:33547"],"installedVersion":"1.2.0","isBroken":false},{"id":"Jona.PottedStrawberry","updateKeys":["Nexus:44517"],"installedVersion":"1.0.2","isBroken":false},{"id":"Novaphene.DB-WildGrassField","updateKeys":["Nexus:26030"],"installedVersion":"1.0.0","isBroken":false},{"id":"ENGloomy.CreamyCozyDecorAT","updateKeys":["Nexus:43300"],"installedVersion":"1.1.0","isBroken":false},{"id":"RetroStyle.Furniture.Nano","updateKeys":["Nexus:16029@AT"],"installedVersion":"1.1.0","isBroken":false},{"id":"ENGloomy.VintageIndustrialDecorAT","updateKeys":["Nexus:36090"],"installedVersion":"1.0.0","isBroken":false},{"id":"SunberryTeam.SBVSMAPI","updateKeys":["Nexus:-1"],"installedVersion":"1.1.2","isBroken":false},{"id":"Kana.WeatherWonders.CC","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"Victy.VillagerRetexture","updateKeys":["Nexus:16238"],"installedVersion":"1.6.41","isBroken":false},{"id":"Pinya_GalmuriFont","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"Number7102.ElliottDialogue","updateKeys":[""],"installedVersion":"2.2.0","isBroken":false},{"id":"moonslime.ArchaeologySkill.CP","updateKeys":["Nexus:-1"],"installedVersion":"2.18.0","isBroken":false},{"id":"Spiderbuttons.ButtonsExtraBooks","updateKeys":["Nexus:21526"],"installedVersion":"3.2.1","isBroken":false},{"id":"Latteholn.CozyProvincial","updateKeys":["Nexus:47992@CP"],"installedVersion":"1.0.0","isBroken":false},{"id":"CandyConstellation.KirbyEnemies","updateKeys":["Nexus:48464"],"installedVersion":"1.0.0","isBroken":false},{"id":"GoodJobSuzette.HomeCooking","updateKeys":["Nexus:30838"],"installedVersion":"1.6.4","isBroken":false},{"id":"WBM_Harveydialogue","updateKeys":[""],"installedVersion":"1.1.3","isBroken":false},{"id":"Latteholn.ItalianCountrysideFarmhouseCP","updateKeys":["Nexus:27005"],"installedVersion":"1.0.1","isBroken":false},{"id":"Latteholn.IdyllicCountryFences","updateKeys":["Nexus:47991@CP"],"installedVersion":"1.0.0","isBroken":false},{"id":"Molamole.ArtisanRefiningCraftablesRetextures.CP","updateKeys":["Nexus: 24116"],"installedVersion":"1.0.4","isBroken":false},{"id":"Novaphene.RetroWallsAndFloors","updateKeys":["Nexus:17127"],"installedVersion":"3.0","isBroken":false},{"id":"ENGloomy.VintageIndustrialDecor","updateKeys":["Nexus:36090"],"installedVersion":"1.0.0","isBroken":false},{"id":"Tarniyar.CP.WalkToDesert","updateKeys":["Nexus:8630","ModDrop:980591","CurseForge:499736","GitHub:Aeywoo/WTDR"],"installedVersion":"1.3.3","isBroken":false},{"id":"moonslime.CookingSkill.CP","updateKeys":["Nexus:-1"],"installedVersion":"1.12.0","isBroken":false},{"id":"Gintyann.sunflower.Crib","updateKeys":["Nexus:"],"installedVersion":"2.2.0","isBroken":false},{"id":"Gintyannsunflower.kitchen","updateKeys":["Nexus:"],"installedVersion":"1.0.0","isBroken":false},{"id":"WBM_sam","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"CP.Peachyogurt.Sprites","updateKeys":["Nexus:30139"],"installedVersion":"1.1","isBroken":false},{"id":"Tanga.forestGoldClock","updateKeys":["Nexus:16853"],"installedVersion":"1.1.0","isBroken":false},{"id":"WBM_Leah","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"Kana.WeatherWonders.DLL","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"Novaphene.RetroFurnitures","updateKeys":["Nexus:17127"],"installedVersion":"3.0","isBroken":false},{"id":"Tarniyar.FTM.WalkToDesert","updateKeys":["Nexus:???"],"installedVersion":"1.3.3","isBroken":false},{"id":"Kana.WeatherWonders.FTM","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"AraI.SVE_D_Wizard","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"YunHikari.SorryLabCore","updateKeys":["Nexus:29793"],"installedVersion":"1.0.14","isBroken":false},{"id":"6480.giantcrops","updateKeys":["Nexus: 5221"],"installedVersion":"2.1.2","isBroken":false},{"id":"Ryueun.ShaneDialogue","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"RimeNovi.CatValley","updateKeys":["Nexus:39379"],"installedVersion":"1.0.3","isBroken":false},{"id":"Cyrilly.InputMethodFix","updateKeys":["Nexus:35313","GitHub:Cyrillya/InputMethodFix"],"installedVersion":"1.0.4","isBroken":false},{"id":"Achtuur.AchtuurCore","updateKeys":["Nexus:16827"],"installedVersion":"1.3.3","isBroken":false},{"id":"f4iTh.ActivateSprinklers","updateKeys":["Nexus:2088"],"installedVersion":"1.3.2","isBroken":false},{"id":"recht.UsefulPets","updateKeys":["Nexus:40711"],"installedVersion":"1.2.12-beta","isBroken":false},{"id":"Aimon111.RedesignedFarmHouseLayoutAlt","updateKeys":["Nexus:14411"],"installedVersion":"2.1.2","isBroken":false},{"id":"Aimon.MoreLivelyFarmCave","updateKeys":["Nexus:23190"],"installedVersion":"1.0.3","isBroken":false},{"id":"WBM.Alexdialogue","updateKeys":[""],"installedVersion":"1.0.1","isBroken":false},{"id":"aedenthorn.AllChestsMenu","updateKeys":["Nexus:14494"],"installedVersion":"0.4.1","isBroken":false},{"id":"PeacefulEnd.AlternativeTextures","updateKeys":["Nexus:9246"],"installedVersion":"8.1.1","isBroken":false},{"id":"Himetarts.ARV.CP","updateKeys":["Nexus:9999"],"installedVersion":"1.5.1","isBroken":false},{"id":"DIGUS.ANIMALHUSBANDRYMOD","updateKeys":["Nexus:1538"],"installedVersion":"2.8.1","isBroken":false},{"id":"GZhynko.AnimalsNeedWater","updateKeys":["Nexus:6196"],"installedVersion":"1.7.4","isBroken":false},{"id":"JavCombita.ApexMastery","updateKeys":["Nexus:39685"],"installedVersion":"3.5.6","isBroken":false},{"id":"moonslime.ArchaeologySkill","updateKeys":["Nexus:22199"],"installedVersion":"2.18.2","isBroken":false},{"id":"AT_LBXLW_Animatied_Barbecue_Stand_CP","updateKeys":["Nexus:35140"],"installedVersion":"1.0.0","isBroken":false},{"id":"qixing.AutoGrabTruffles","updateKeys":["Nexus:20874","GitHub:qixing-jk/QiXingAutoGrabTruffles"],"installedVersion":"1.1.0","isBroken":false},{"id":"Rakiin.AutomaticGates","updateKeys":["Nexus:3109"],"installedVersion":"2.5.5","isBroken":false},{"id":"ZeroXPatch.BackgroundTickThrottler","updateKeys":["Nexus:41920"],"installedVersion":"1.1.0","isBroken":false},{"id":"mizzion.bankofferngill","updateKeys":["Nexus:13043"],"installedVersion":"1.1.1","isBroken":false},{"id":"bb.beesPlus","updateKeys":["Nexus: 30597"],"installedVersion":"1.3","isBroken":false},{"id":"leclair.bettercrafting","updateKeys":["Nexus:11115@Main","ModDrop:1115749@Main"],"installedVersion":"2.18.0","isBroken":false},{"id":"BBR.BetterRings","updateKeys":["Nexus:8642"],"installedVersion":"1.0","isBroken":false},{"id":"MindMeltMax.BetterShipping","updateKeys":["nexus:10487"],"installedVersion":"1.4.8","isBroken":false},{"id":"Neopffe.BetterWater","updateKeys":["Nexus:15079"],"installedVersion":"1.9.2","isBroken":false},{"id":"bennoloth.BWSG","updateKeys":["Nexus:14994"],"installedVersion":"1.0.3","isBroken":false},{"id":"spacechase0.BiggerBackpack","updateKeys":["Nexus:1845","Chucklefish:5191"],"installedVersion":"7.3","isBroken":false},{"id":"Entoarox.BiggerFridges","updateKeys":["nexus:21678"],"installedVersion":"1.1.1","isBroken":false},{"id":"drbirbdev.BirbCore","updateKeys":["Nexus:19140"],"installedVersion":"1.1.0","isBroken":false},{"id":"BerryBea.BookSubscription","updateKeys":["Nexus:21353"],"installedVersion":"1.2.4","isBroken":false},{"id":"Esca.BuildOnAnyTile","updateKeys":["GitHub:Esca-MMC/BuildOnAnyTile","Nexus:6854","ModDrop:827525"],"installedVersion":"1.1.3","isBroken":false},{"id":"Spiderbuttons.ButtonsExtraBooksCore","updateKeys":["Nexus:21526"],"installedVersion":"3.2.1","isBroken":false},{"id":"Spiderbuttons.BETAS","updateKeys":["Nexus:27100"],"installedVersion":"3.4.0","isBroken":false},{"id":"jeanne.CharacterCustomizationAnywhere","updateKeys":["Nexus:7415"],"installedVersion":"1.0.2","isBroken":false},{"id":"Pathoschild.ChestsAnywhere","updateKeys":["Nexus:518"],"installedVersion":"1.30.1","isBroken":false},{"id":"CJBok.CheatsMenu","updateKeys":["Nexus:4"],"installedVersion":"1.42.0","isBroken":false},{"id":"CJBok.ItemSpawner","updateKeys":["Nexus:93"],"installedVersion":"2.5.6","isBroken":false},{"id":"AirynYri.GardenStatueObelisks","updateKeys":["Nexus:16374"],"installedVersion":"1.1.0","isBroken":false},{"id":"Pyobeom.ClintDialouge","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"leclair.cloudyskies","updateKeys":["Nexus:23135@main"],"installedVersion":"1.9.1","isBroken":false},{"id":"mushymato.CompactSearchableShopMenu","updateKeys":["Nexus:33271","GitHub:Mushymato/CompactSearchableShopMenu"],"installedVersion":"1.2.1","isBroken":false},{"id":"Pathoschild.ContentPatcher","updateKeys":["Nexus:1915"],"installedVersion":"2.9.1","isBroken":false},{"id":"gaussfire.ConvenientInventory","updateKeys":["Nexus:10384"],"installedVersion":"1.6.1","isBroken":false},{"id":"CuriousLotor.CookingDaily","updateKeys":["Nexus:32686"],"installedVersion":"1.1","isBroken":false},{"id":"Cornucopia.ArtisanMachines","updateKeys":["Nexus: 24842"],"installedVersion":"1.0.16","isBroken":false},{"id":"Cornucopia.CookingRecipes","updateKeys":["Nexus:39057"],"installedVersion":"1.0.8","isBroken":false},{"id":"Cornucopia.MoreCrops","updateKeys":["Nexus: 19508"],"installedVersion":"1.6.3","isBroken":false},{"id":"Cornucopia.MoreFlowers","updateKeys":["Nexus: 20290"],"installedVersion":"1.5.7","isBroken":false},{"id":"LBXLW_Barbecue_Stand_CP","updateKeys":["Nexus:35140"],"installedVersion":"1.0.0","isBroken":false},{"id":"aedenthorn.CropHarvestBubbles","updateKeys":["Nexus:17761"],"installedVersion":"0.6.2","isBroken":false},{"id":"tem696969696969.CropWateringBubbles","updateKeys":["Nexus:21428"],"installedVersion":"0.2.9","isBroken":false},{"id":"Spiderbuttons.CMCT","updateKeys":["Nexus:28284"],"installedVersion":"1.1.2","isBroken":false},{"id":"furyx639.CustomBush","updateKeys":["Nexus:20619","CurseForge:998265","ModDrop:1547214","GitHub:LeFauxMatt/CustomBush"],"installedVersion":"1.5.2","isBroken":false},{"id":"PeacefulEnd.CustomCompanions","updateKeys":["Nexus:8626"],"installedVersion":"5.1.0","isBroken":false},{"id":"datamancer.CustomFixedDialogue","updateKeys":["Nexus:20938","ModDrop:1533308"],"installedVersion":"2.4.4","isBroken":false},{"id":"Cherry.CustomizeAnywhere","updateKeys":["Nexus:4734"],"installedVersion":"1.4.2","isBroken":false},{"id":"Dragoon23.CustomizeDresser","updateKeys":["Nexus:23359"],"installedVersion":"1.5.1","isBroken":false},{"id":"DaisyNiko.Tilesheets","updateKeys":["Nexus:4736"],"installedVersion":"1.12","isBroken":false},{"id":"DaLion.Core","updateKeys":["Nexus:24332"],"installedVersion":"2.2.3","isBroken":false},{"id":"Esca.DestroyableBushes","updateKeys":["Nexus:6304","GitHub:Esca-MMC/DestroyableBushes","ModDrop:798245"],"installedVersion":"1.5.2","isBroken":false},{"id":"boringvlln.kettlemicrowave","updateKeys":["Nexus:25681"],"installedVersion":"1.5.1","isBroken":false},{"id":"DSHi.AdventureKitRetexture","updateKeys":["Nexus:34058"],"installedVersion":"1.0.1","isBroken":false},{"id":"DSHi.ArtifactsRetexture","updateKeys":["Nexus:24240"],"installedVersion":"1.2.0","isBroken":false},{"id":"DSHi.FishRetexture","updateKeys":["Nexus:21465"],"installedVersion":"1.2.0","isBroken":false},{"id":"DSHi.FoodRetexture","updateKeys":["Nexus:18726"],"installedVersion":"1.4.0","isBroken":false},{"id":"DSHi.MineralsRetexture","updateKeys":["Nexus:18725"],"installedVersion":"1.3.0","isBroken":false},{"id":"DSHi.SeedRetexture","updateKeys":["Nexus:33153"],"installedVersion":"1.1.0","isBroken":false},{"id":"DSHi.ShippingItemsRetexture","updateKeys":["Nexus:18769"],"installedVersion":"1.4.2","isBroken":false},{"id":"DSHi.SpecialItemsRetexture","updateKeys":["Nexus:32206"],"installedVersion":"1.0.2","isBroken":false},{"id":"PeacefulEnd.DynamicReflections","updateKeys":["Nexus:12831"],"installedVersion":"4.0.1","isBroken":false},{"id":"knakamura.dynamicnighttime","updateKeys":["Nexus:2072"],"installedVersion":"1.3.16-beta","isBroken":false},{"id":"Nook.DynamicShader","updateKeys":["Nexus: 40775"],"installedVersion":"1.0.15","isBroken":false},{"id":"DaisyNiko.EarthyInteriors","updateKeys":["Nexus:14790"],"installedVersion":"1.2.2","isBroken":false},{"id":"DaisyNiko.EarthyRecolour","updateKeys":["Nexus:5255"],"installedVersion":"1.4.4","isBroken":false},{"id":"VinillaBean.EarthyRSV","updateKeys":["Nexus:17980"],"installedVersion":"1.1.3","isBroken":false},{"id":"colling.towninterior","updateKeys":["Nexus:15049"],"installedVersion":"1.0.3","isBroken":false},{"id":"Elle.CuterCats","updateKeys":["Nexus:20041"],"installedVersion":"1.0.1","isBroken":false},{"id":"Elle.CuterDogs","updateKeys":["Nexus:20040"],"installedVersion":"1.0.2","isBroken":false},{"id":"Elle.NewHorses","updateKeys":["Nexus:3169"],"installedVersion":"1.1.5","isBroken":false},{"id":"RivalRabbit.EmsCatsCP","updateKeys":["Nexus:37201"],"installedVersion":"1.0","isBroken":false},{"id":"RivalRabbit.EmsDogsCP","updateKeys":["Nexus:38357"],"installedVersion":"1.2","isBroken":false},{"id":"RivalRabbit.EmsFarmAnimalsCP","updateKeys":["Nexus:39782"],"installedVersion":"1.3","isBroken":false},{"id":"RivalRabbit.EmsHorsesCP","updateKeys":["Nexus:41169"],"installedVersion":"1.1","isBroken":false},{"id":"RivalRabbit.EmsItemsCP","updateKeys":["Nexus:39019"],"installedVersion":"1.3","isBroken":false},{"id":"Ems.LargeCritters","updateKeys":["Nexus:39616"],"installedVersion":"1.5","isBroken":false},{"id":"Ems.River.Wildlife","updateKeys":["Nexus:43463"],"installedVersion":"1.3","isBroken":false},{"id":"Ems.SeasonalSprinklers","updateKeys":["Nexus:36790"],"installedVersion":"1.2","isBroken":false},{"id":"RivalRabbit.EmsCamelsCP","updateKeys":["Nexus:39719"],"installedVersion":"1.1","isBroken":false},{"id":"RivalRabbit.EmsTurtlesCP","updateKeys":["Nexus:38651"],"installedVersion":"1.0","isBroken":false},{"id":"Pyobeom.EmilyDialouge","updateKeys":[""],"installedVersion":"1.0.0","isBroken":false},{"id":"tem696969696969.EmptyJarBubbles","updateKeys":["Nexus:22598"],"installedVersion":"1.0.4-fix","isBroken":false},{"id":"Esca.EMP","updateKeys":["Nexus:9296","GitHub:Esca-MMC/EscasModdingPlugins","ModDrop:1005443"],"installedVersion":"1.7.2","isBroken":false},{"id":"shekurika.EventLookup","updateKeys":["Nexus:8505"],"installedVersion":"0.2.9","isBroken":false},{"id":"Cherry.ExpandedPreconditionsUtility","updateKeys":["Nexus:6529"],"installedVersion":"1.1.2","isBroken":false},{"id":"selph.ExtraAnimalConfig","updateKeys":["Nexus:25328"],"installedVersion":"1.9.10","isBroken":false},{"id":"selph.ExtraMachineConfig","updateKeys":["Nexus:22256"],"installedVersion":"1.17.12","isBroken":false},{"id":"Esca.FarmTypeManager","updateKeys":["Nexus:3231","GitHub:Esca-MMC/FarmTypeManager","ModDrop:598755"],"installedVersion":"1.26.1","isBroken":false},{"id":"CF.FarmhouseFixes","updateKeys":["Nexus:16507"],"installedVersion":"1.8.3","isBroken":false},{"id":"ZeroXPatch.FasterMenuLoad","updateKeys":["Nexus: 41564 "],"installedVersion":"1.5.0","isBroken":false},{"id":"paulsteele.fse","updateKeys":["ferngill.simple.economy","Nexus:21414"],"installedVersion":"2.1.0","isBroken":false},{"id":"paulsteele.fse.vanilla","updateKeys":["ferngill.simple.economy","Nexus:21414"],"installedVersion":"2.1.0","isBroken":false},{"id":"paulsteele.fse.mail","updateKeys":["ferngill.simple.economy","Nexus:21414"],"installedVersion":"2.1.0","isBroken":false},{"id":"ChibiKyu.FishingAssistant2","updateKeys":["Nexus:5815"],"installedVersion":"2.5.2","isBroken":false},{"id":"Nook.ChestLabels","updateKeys":["Nexus:39045"],"installedVersion":"1.0.1","isBroken":false},{"id":"Wildflour.NooksCrannies","updateKeys":["Nexus:23468"],"installedVersion":"2.2.1","isBroken":false},{"id":"miru.forestamber","updateKeys":["nexus:16127"],"installedVersion":"3.0","isBroken":false},{"id":"Kriana.FriendsForever","updateKeys":["Nexus:20702"],"installedVersion":"1.2.10","isBroken":false},{"id":"aedenthorn.FurnitureAdjustment","updateKeys":["Nexus:10213"],"installedVersion":"0.4.1","isBroken":false},{"id":"leroymilo.FurnitureFramework","updateKeys":["Nexus:23458"],"installedVersion":"3.3.0","isBroken":false},{"id":"spacechase0.GenericModConfigMenu","updateKeys":["Nexus:5098"],"installedVersion":"1.16.0","isBroken":false},{"id":"jltaylor-us.GMCMOptions","updateKeys":["Nexus:10505","GitHub:jltaylor-us/StardewGMCMOptions"],"installedVersion":"2.1.0","isBroken":false},{"id":"Pyobeom.HaleyDialouge","updateKeys":[""],"installedVersion":"1.1.0","isBroken":false},{"id":"tlitookilakin.HappyHomeDesigner","updateKeys":["Nexus:19675","GitHub:tlitookilakin/HappyHomeDesigner"],"installedVersion":"2.5.4","isBroken":false},{"id":"Lamya.Camper.FF","updateKeys":["nexus:37437"],"installedVersion":"1.0.2","isBroken":false},{"id":"weizinai.HelpWanted","updateKeys":["Nexus: 21766"],"installedVersion":"2.0.4","isBroken":false},{"id":"bozeupasi.HugeChestMod","updateKeys":["Nexus:47117"],"installedVersion":"1.0.3","isBroken":false},{"id":"hxw.tilesheets","updateKeys":["Nexus:20139"],"installedVersion":"2.0.0","isBroken":false},{"id":"aedenthorn.ImmersiveScarecrows","updateKeys":["Nexus:15290"],"installedVersion":"1.4.3","isBroken":false},{"id":"berkayylmao.InfiniteZoom","updateKeys":["Nexus:8808"],"installedVersion":"1.1.0","isBroken":false},{"id":"jibb.minecarts","updateKeys":["Nexus:11881","CurseForge:988762"],"installedVersion":"4.6.0","isBroken":false},{"id":"jibb.minecarts.C","updateKeys":["Nexus:11881"],"installedVersion":"4.6.0","isBroken":false},{"id":"bcmpinc.Internationalization","updateKeys":["Nexus:0"],"installedVersion":"0.6","isBroken":false},{"id":"Latteholn.ItalianCountrysideBuildings","updateKeys":["Nexus:27579"],"installedVersion":"1.0.4","isBroken":false},{"id":"mistyspring.ItemExtensions","updateKeys":["nexus:20357"],"installedVersion":"1.16.0","isBroken":false},{"id":"ChaosEnergy.LadderLocator","updateKeys":["Nexus:3094"],"installedVersion":"1.5.2","isBroken":false},{"id":"atelier99.LaniCC","updateKeys":["Nexus:32689"],"installedVersion":"1.1.7","isBroken":false},{"id":"Exblosis.LetsMoveIt","updateKeys":["Nexus:20943"],"installedVersion":"0.6.20","isBroken":false},{"id":"mushymato.LivestockBazaar","updateKeys":["Nexus:29997","GitHub:Mushymato/LivestockBazaar"],"installedVersion":"1.6.1","isBroken":false},{"id":"foggy.LfL","updateKeys":[""],"installedVersion":"2.2.8","isBroken":false},{"id":"Pathoschild.LookupAnything","updateKeys":["Nexus:541"],"installedVersion":"1.55.0","isBroken":false},{"id":"blueberry.LoveOfCooking","updateKeys":["Nexus:6830"],"installedVersion":"2.0.8","isBroken":false},{"id":"Lumisteria.LumiTilesheetsIndoor","updateKeys":["Nexus:9599"],"installedVersion":"1.4.0","isBroken":false},{"id":"Lumisteria.TtilesheetsOutdoor","updateKeys":["Nexus:10448"],"installedVersion":"1.4.0","isBroken":false},{"id":"selph.CustomTapperFramework","updateKeys":["Nexus:22975"],"installedVersion":"1.11.6","isBroken":false},{"id":"DIGUS.MailFrameworkMod","updateKeys":["Nexus:1536"],"installedVersion":"1.20.0","isBroken":false},{"id":"Digus.MailServicesMod","updateKeys":["Nexus:7842"],"installedVersion":"1.6.2","isBroken":false},{"id":"DecidedlyHuman.MappingExtensionsAndExtraProperties","updateKeys":["Nexus:14493"],"installedVersion":"2.5.3","isBroken":false},{"id":"Coldopa.MiniBars","updateKeys":["Nexus:8329"],"installedVersion":"1.0.5","isBroken":false},{"id":"mushymato.MMAP","updateKeys":["Nexus:28423","GitHub:Mushymato/MiscMapActionsProperties"],"installedVersion":"1.14.0","isBroken":false},{"id":"Airyn.MoonCycle","updateKeys":["Nexus:19428"],"installedVersion":"1.1.0","isBroken":false},{"id":"EpicBellyFlop45.MoreGrass","updateKeys":["Nexus:5398"],"installedVersion":"1.2.2","isBroken":false},{"id":"leclair.morenightlyevents","updateKeys":["Nexus:22612@Main"],"installedVersion":"0.4.0","isBroken":false},{"id":"KangTaeGong","updateKeys":["Nexus:7155"],"installedVersion":"2.0.6","isBroken":false},{"id":"NotAGardener.MoreSecretNotes","updateKeys":["Nexus:41211"],"installedVersion":"1.0.0","isBroken":false},{"id":"EnderTedi.NoFenceDecayRedux","updateKeys":["Nexus:20802"],"installedVersion":"1.2.0","isBroken":false},{"id":"Pathoschild.NoclipMode","updateKeys":["Nexus:3900"],"installedVersion":"1.3.20","isBroken":false},{"id":"Bouhm.NPCMapLocations","updateKeys":["Nexus:239"],"installedVersion":"3.5.2","isBroken":false},{"id":"NCarigon.PassableCrops","updateKeys":["nexus:15223"],"installedVersion":"1.2.3","isBroken":false},{"id":"focustense.PenPals","updateKeys":["Nexus:27489","GitHub:focustense/StardewPenPals"],"installedVersion":"0.4.0","isBroken":false},{"id":"ZeroXPatch.NPCMapLocationsPerformancePatch","updateKeys":["Nexus:42199"],"installedVersion":"1.1.0","isBroken":false},{"id":"Peskit.Hogwarts_Express","updateKeys":["Nexus:7338"],"installedVersion":"1.0","isBroken":false},{"id":"weizinai.PiCore","updateKeys":["Nexus: 33525"],"installedVersion":"0.4.0","isBroken":false},{"id":"glymr.FurnitureOutside","updateKeys":["Nexus:21147@New"],"installedVersion":"1.0.5","isBroken":false},{"id":"PLY.provence.fence","updateKeys":["Nexus:34606"],"installedVersion":"1.0.0","isBroken":false},{"id":"BadNetCode.PonyWeightLossProgram","updateKeys":["Nexus:1232","Moddrop:130159"],"installedVersion":"1.0.0","isBroken":false},{"id":"Platonymous.Portraiture","updateKeys":["Nexus:999"],"installedVersion":"1.12.1-alpha.20240304","isBroken":false},{"id":"Espy.PreciseFurniture","updateKeys":["Nexus:23488"],"installedVersion":"1.1.1","isBroken":false},{"id":"iargue.PrismaticToolsContinued","updateKeys":["Nexus:21450"],"installedVersion":"1.2.4","isBroken":false},{"id":"Digus.ProducerFrameworkMod","updateKeys":["Nexus:4970"],"installedVersion":"1.9.8","isBroken":false},{"id":"kath.weathering","updateKeys":["Nexus:23734@Main"],"installedVersion":"1.4.17","isBroken":false},{"id":"Platonymous.Toolkit","updateKeys":["Nexus:1726"],"installedVersion":"1.24.0","isBroken":false},{"id":"DLX.QuickSave","updateKeys":["Nexus:26194"],"installedVersion":"1.5.0","isBroken":false},{"id":"ahomiepassingby.realisticwindeffects","updateKeys":["Nexus:38268"],"installedVersion":"1.0.1","isBroken":false},{"id":"cantorsdust.RecatchLegendaryFish","updateKeys":["Nexus:172"],"installedVersion":"1.9.3","isBroken":false},{"id":"Louis.RegionalBanking","updateKeys":["Nexus:41480"],"installedVersion":"2.0.1","isBroken":false},{"id":"EternalSoap.RemoteFridgeStorage","updateKeys":["Nexus:2545"],"installedVersion":"1.10.2","isBroken":false},{"id":"Rafseazz.RSVCP","updateKeys":["Nexus:7286"],"installedVersion":"2.5.17","isBroken":false},{"id":"Rafseazz.RSVCC","updateKeys":["Nexus:-1"],"installedVersion":"2.5.17","isBroken":false},{"id":"Rafseazz.RSVFTM","updateKeys":["Nexus:-1"],"installedVersion":"2.5.17","isBroken":false},{"id":"Rafseazz.RidgesideVillage","updateKeys":["Nexus:-1"],"installedVersion":"2.5.17","isBroken":false},{"id":"Clara.Ripley","updateKeys":["Nexus:32660"],"installedVersion":"1.0.9","isBroken":false},{"id":"Wildflour.SASS","updateKeys":["nexus:32385"],"installedVersion":"2.0.4","isBroken":false},{"id":"Coll1234567.RunningLate","updateKeys":["Nexus:3518"],"installedVersion":"2.0.2","isBroken":false},{"id":"Latteholn.RuralsOfItaly","updateKeys":["Nexus:45720"],"installedVersion":"1.0.1","isBroken":false},{"id":"Hesper.RusticCountrysideTownInterior","updateKeys":["Nexus:6098"],"installedVersion":"1.7","isBroken":false},{"id":"RusticCountry.wallsandfloors","updateKeys":["Nexus:5857"],"installedVersion":"1.1","isBroken":false},{"id":"rokugin.safelightningupdated","updateKeys":["Nexus:22783"],"installedVersion":"1.1.1","isBroken":false},{"id":"Aimon111.SeasonalCloverDigSpot","updateKeys":["Nexus:16626"],"installedVersion":"1.0.3","isBroken":false},{"id":"kiwisprinkle.SeasonalCozyBus","updateKeys":["Nexus:24873"],"installedVersion":"1.0","isBroken":false},{"id":"ichortower.SecretNoteFramework","updateKeys":["Nexus:25055","GitHub:ichortower/SecretNoteFramework"],"installedVersion":"1.2.1","isBroken":false},{"id":"Az.Foliage","updateKeys":["Nexus:20972"],"installedVersion":"2.1.2","isBroken":false},{"id":"Az.Resources","updateKeys":["Nexus:15026"],"installedVersion":"1.0.1","isBroken":false},{"id":"Entoarox.SitForStamina","updateKeys":["nexus:7334"],"installedVersion":"1.0.1","isBroken":false},{"id":"DewMods.StardewValleyMods.SkipFishingMinigame","updateKeys":["Nexus:2697"],"installedVersion":"0.7.4","isBroken":false},{"id":"SkullCavernElevator","updateKeys":["Nexus:963"],"installedVersion":"1.6.2","isBroken":false},{"id":"FlyingTNT.SocialPageOrderRedux","updateKeys":["Nexus:23374"],"installedVersion":"1.3.1","isBroken":false},{"id":"drbirbdev.SocializingSkill","updateKeys":["Nexus:14142"],"installedVersion":"2.1.1","isBroken":false},{"id":"spacechase0.SpaceCore","updateKeys":["Nexus:1348"],"installedVersion":"1.28.4","isBroken":false},{"id":"MakoKZ.SpamMail","updateKeys":["Nexus:22765"],"installedVersion":"1.0.4","isBroken":false},{"id":"mushymato.SpecialOrderNotifications","updateKeys":["Nexus:25999"],"installedVersion":"1.1.1","isBroken":false},{"id":"Spiderbuttons.SpecialPowerUtilities","updateKeys":["Nexus:22300"],"installedVersion":"2.3.3","isBroken":false},{"id":"thimadera.StackEverythingRedux","updateKeys":["Nexus:22381"],"installedVersion":"1.2.1","isBroken":false},{"id":"ZeroXPatch.StardewHighPriority","updateKeys":["Nexus:40359"],"installedVersion":"1.2.0","isBroken":false},{"id":"Achtuur.StardewTravelSkill","updateKeys":["Nexus:16820","GitHub:Achtuur/StardewTravelSkill"],"installedVersion":"1.4.0","isBroken":false},{"id":"FlashShifter.SVECode","updateKeys":["Nexus:???"],"installedVersion":"1.15.11","isBroken":false},{"id":"FlashShifter.StardewValleyExpandedCP","updateKeys":["Nexus:???"],"installedVersion":"1.15.11","isBroken":false},{"id":"FlashShifter.SVE-FTM","updateKeys":["Nexus:???"],"installedVersion":"1.15.11","isBroken":false},{"id":"bcmpinc.StardewHack","updateKeys":["Nexus:3213"],"installedVersion":"7.4","isBroken":false},{"id":"focustense.StardewUI","updateKeys":["Nexus:43861","GitHub:Mushymato/StardewUI"],"installedVersion":"0.6.3-unofficial-mushymato.1","isBroken":false},{"id":"Omegasis.StardustCore","updateKeys":["Nexus:2341"],"installedVersion":"3.1.1","isBroken":false},{"id":"dylanjames.storebells","updateKeys":["Nexus:34540"],"installedVersion":"0.0.4","isBroken":false},{"id":"Airyn.Dao.CP","updateKeys":["Nexus:33615"],"installedVersion":"1.0.3","isBroken":false},{"id":"Arknir.Jonghyuk","updateKeys":["Nexus:12000"],"installedVersion":"1.2.3","isBroken":false},{"id":"atelier99.SBV.NPCLani","updateKeys":["Nexus:32689"],"installedVersion":"1.1.7","isBroken":false},{"id":"skellady.SBVCP","updateKeys":["Nexus:11111"],"installedVersion":"1.1.2","isBroken":false},{"id":"skellady.SBVCC","updateKeys":["Nexus:-1"],"installedVersion":"1.1.2","isBroken":false},{"id":"skellady.SBVFTM","updateKeys":["Nexus:-1"],"installedVersion":"1.1.2","isBroken":false},{"id":"Ophaneom.Survivalistic","updateKeys":["Nexus:12179","Nexus:23617","GitHub:Locked15/SDV_Survivalistic-Rebooted"],"installedVersion":"1.1.0-Unofficial.4-Locked15","isBroken":false},{"id":"Morghoula.SVETreesRecolored","updateKeys":["Nexus:28798"],"installedVersion":"1.0.1","isBroken":false},{"id":"Aimon111.HPE_Icons","updateKeys":["Nexus:39068"],"installedVersion":"1.0.4","isBroken":false},{"id":"mx146323.StardewLivingRPG","updateKeys":["Nexus:42597"],"installedVersion":"1.0.5","isBroken":false},{"id":"mx.TheLivingValleyExpanded","updateKeys":["Nexus:42699"],"installedVersion":"2.0.1","isBroken":false},{"id":"jltaylor-us.ToDew","updateKeys":["Nexus:7409","GitHub:jltaylor-us/StardewToDew"],"installedVersion":"2.5.0","isBroken":false},{"id":"Pathoschild.TractorMod","updateKeys":["Nexus:1401"],"installedVersion":"4.24.4","isBroken":false},{"id":"Annosz.UiInfoSuite2","updateKeys":["GitHub:Annosz/UIInfoSuite2","Nexus:7098"],"installedVersion":"2.3.7","isBroken":false},{"id":"fox_white25.ultimate_fertilizer","updateKeys":["nexus:21318"],"installedVersion":"1.2.5","isBroken":false},{"id":"misscoriel.UCRFix","updateKeys":["Nexus: 8284"],"installedVersion":"2.1.5","isBroken":false},{"id":"DLX.Bundles","updateKeys":["Nexus:17265@MAIN"],"installedVersion":"4.3.1","isBroken":false},{"id":"DaLion.Professions","updateKeys":["Nexus:24355"],"installedVersion":"1.4.2","isBroken":false},{"id":"lindest.stallsboxes","updateKeys":["Nexus:43227"],"installedVersion":"1.3.2","isBroken":false},{"id":"bcmpinc.WearMoreRings","updateKeys":["Nexus:3214"],"installedVersion":"7.9","isBroken":false},{"id":"Kana.WeatherWonders","updateKeys":["Nexus:23868"],"installedVersion":"1.4.10-stable","isBroken":false},{"id":"Pyobeom.WillyDialogue","updateKeys":[""],"installedVersion":"1.1.0","isBroken":false},{"id":"AraI_D_Wizard","updateKeys":[""],"installedVersion":"3.0.0","isBroken":false},{"id":"N3cro_92.WorldMapGingerIsland","updateKeys":["Nexus:21969"],"installedVersion":"1.0.1","isBroken":false},{"id":"N3cro_92.WorldMapRSV","updateKeys":["Nexus:21792"],"installedVersion":"1.0.6","isBroken":false},{"id":"N3cro_92.WorldMapSVE","updateKeys":["Nexus:21788@SVE"],"installedVersion":"1.1.2","isBroken":false},{"id":"tiakall.wren","updateKeys":["Nexus:14286"],"installedVersion":"1.0.4","isBroken":false},{"id":"moonslime.CookingSkill","updateKeys":["Nexus:22681"],"installedVersion":"1.13.0","isBroken":false},{"id":"aedenthorn.YAJM","updateKeys":["Nexus:6546"],"installedVersion":"0.7.2","isBroken":false},{"id":"Hoijjyat.LinusDialogue","updateKeys":[""],"installedVersion":"1.1.0","isBroken":false},{"id":"DaisyNiko.ZenithFarm","updateKeys":["Nexus:15618"],"installedVersion":"1.5","isBroken":false},{"id":"DaisyNiko.ZenithFarm.FTM","updateKeys":["Nexus:15618"],"installedVersion":"1.5","isBroken":false},{"id":"nuupon.immersivebarnscoops","updateKeys":["Nexus:28462"],"installedVersion":"1.0.7","isBroken":false},{"id":"SSULs.Monster.Set","updateKeys":["Nexus:6776"],"installedVersion":"1.0.0","isBroken":false},{"id":"Goldenrevolver.AnimalsDie","updateKeys":["Nexus:7769"],"installedVersion":"1.7.3","isBroken":false},{"id":"furyx639.CarryChest","updateKeys":["Nexus:30321","CurseForge:1169557","GitHub:LeFauxMatt/CarryChests"],"installedVersion":"1.3.0","isBroken":false}],"apiVersion":"4.0.0","gameVersion":"1.6.15","platform":"Windows","includeExtendedMetadata":false}
+HTTP: 200
+응답: [
+  {
+    "id": "Novaphene.DB-SeasonalFences",
+    "errors": []
+  },
+  {
+    "id": "Novaphene.DB-SeasonalFlooring",
+    "errors": []
+  },
+  {
+    "id": "Jona.PottedStrawberryRetex",
+    "errors": []
+  },
+  {
+    "id": "kqnuka.canvasbuffs",
+    "errors": []
+  },
+  {
+    "id": "Jona.PottedStrawberry",
+    "errors": []
+  },
+  {
+    "id": "Novaphene.DB-WildGrassField",
+    "errors": []
+  },
+  {
+    "id": "ENGloomy.CreamyCozyDecorAT",
+    "errors": []
+  },
+  {
+    "id": "RetroStyle.Furniture.Nano",
+    "errors": []
+  },
+  {
+    "id": "ENGloomy.VintageIndustrialDecorAT",
+    "errors": []
+  },
+  {
+    "id": "SunberryTeam.SBVSMAPI",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Kana.WeatherWonders.CC",
+    "errors": []
+  },
+  {
+    "id": "Victy.VillagerRetexture",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Pinya_GalmuriFont",
+    "errors": []
+  },
+  {
+    "id": "Number7102.ElliottDialogue",
+    "errors": []
+  },
+  {
+    "id": "moonslime.ArchaeologySkill.CP",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Spiderbuttons.ButtonsExtraBooks",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.CozyProvincial",
+    "errors": []
+  },
+  {
+    "id": "CandyConstellation.KirbyEnemies",
+    "errors": [
+      "The Nexus mod with ID '48464' has no valid versions."
+    ]
+  },
+  {
+    "id": "GoodJobSuzette.HomeCooking",
+    "errors": []
+  },
+  {
+    "id": "WBM_Harveydialogue",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.ItalianCountrysideFarmhouseCP",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.IdyllicCountryFences",
+    "errors": []
+  },
+  {
+    "id": "Molamole.ArtisanRefiningCraftablesRetextures.CP",
+    "errors": []
+  },
+  {
+    "id": "Novaphene.RetroWallsAndFloors",
+    "errors": []
+  },
+  {
+    "id": "ENGloomy.VintageIndustrialDecor",
+    "errors": []
+  },
+  {
+    "id": "Tarniyar.CP.WalkToDesert",
+    "errors": []
+  },
+  {
+    "id": "moonslime.CookingSkill.CP",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Gintyann.sunflower.Crib",
+    "errors": [
+      "The update key 'Nexus:' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "Gintyannsunflower.kitchen",
+    "errors": [
+      "The update key 'Nexus:' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "WBM_sam",
+    "errors": []
+  },
+  {
+    "id": "CP.Peachyogurt.Sprites",
+    "errors": []
+  },
+  {
+    "id": "Tanga.forestGoldClock",
+    "errors": []
+  },
+  {
+    "id": "WBM_Leah",
+    "errors": []
+  },
+  {
+    "id": "Kana.WeatherWonders.DLL",
+    "suggestedUpdate": {
+      "version": "1.5.3-beta",
+      "url": "https://www.curseforge.com/stardewvalley/mods/weather-wonders"
+    },
+    "errors": []
+  },
+  {
+    "id": "Novaphene.RetroFurnitures",
+    "errors": []
+  },
+  {
+    "id": "Tarniyar.FTM.WalkToDesert",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "Kana.WeatherWonders.FTM",
+    "errors": []
+  },
+  {
+    "id": "AraI.SVE_D_Wizard",
+    "errors": []
+  },
+  {
+    "id": "YunHikari.SorryLabCore",
+    "errors": []
+  },
+  {
+    "id": "6480.giantcrops",
+    "errors": []
+  },
+  {
+    "id": "Ryueun.ShaneDialogue",
+    "errors": []
+  },
+  {
+    "id": "RimeNovi.CatValley",
+    "errors": []
+  },
+  {
+    "id": "Cyrilly.InputMethodFix",
+    "suggestedUpdate": {
+      "version": "1.0.6",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/35313"
+    },
+    "errors": []
+  },
+  {
+    "id": "Achtuur.AchtuurCore",
+    "errors": []
+  },
+  {
+    "id": "f4iTh.ActivateSprinklers",
+    "errors": []
+  },
+  {
+    "id": "recht.UsefulPets",
+    "suggestedUpdate": {
+      "version": "1.2.16",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/40711"
+    },
+    "errors": []
+  },
+  {
+    "id": "Aimon111.RedesignedFarmHouseLayoutAlt",
+    "errors": []
+  },
+  {
+    "id": "Aimon.MoreLivelyFarmCave",
+    "errors": []
+  },
+  {
+    "id": "WBM.Alexdialogue",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.AllChestsMenu",
+    "suggestedUpdate": {
+      "version": "0.4.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/14494"
+    },
+    "errors": [
+      "The CurseForge mod with ID '868705' has no valid versions."
+    ]
+  },
+  {
+    "id": "PeacefulEnd.AlternativeTextures",
+    "errors": []
+  },
+  {
+    "id": "Himetarts.ARV.CP",
+    "errors": []
+  },
+  {
+    "id": "DIGUS.ANIMALHUSBANDRYMOD",
+    "errors": []
+  },
+  {
+    "id": "GZhynko.AnimalsNeedWater",
+    "errors": []
+  },
+  {
+    "id": "JavCombita.ApexMastery",
+    "suggestedUpdate": {
+      "version": "3.6.6",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/39685"
+    },
+    "errors": []
+  },
+  {
+    "id": "moonslime.ArchaeologySkill",
+    "errors": [
+      "The CurseForge mod with ID '1003404' has no valid versions."
+    ]
+  },
+  {
+    "id": "AT_LBXLW_Animatied_Barbecue_Stand_CP",
+    "errors": []
+  },
+  {
+    "id": "qixing.AutoGrabTruffles",
+    "errors": [
+      "Found no GitHub release for this ID."
+    ]
+  },
+  {
+    "id": "Rakiin.AutomaticGates",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.BackgroundTickThrottler",
+    "errors": []
+  },
+  {
+    "id": "mizzion.bankofferngill",
+    "errors": []
+  },
+  {
+    "id": "bb.beesPlus",
+    "errors": []
+  },
+  {
+    "id": "leclair.bettercrafting",
+    "errors": []
+  },
+  {
+    "id": "BBR.BetterRings",
+    "errors": []
+  },
+  {
+    "id": "MindMeltMax.BetterShipping",
+    "errors": []
+  },
+  {
+    "id": "Neopffe.BetterWater",
+    "errors": []
+  },
+  {
+    "id": "bennoloth.BWSG",
+    "errors": []
+  },
+  {
+    "id": "spacechase0.BiggerBackpack",
+    "errors": []
+  },
+  {
+    "id": "Entoarox.BiggerFridges",
+    "errors": []
+  },
+  {
+    "id": "drbirbdev.BirbCore",
+    "errors": []
+  },
+  {
+    "id": "BerryBea.BookSubscription",
+    "errors": []
+  },
+  {
+    "id": "Esca.BuildOnAnyTile",
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.ButtonsExtraBooksCore",
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.BETAS",
+    "errors": []
+  },
+  {
+    "id": "jeanne.CharacterCustomizationAnywhere",
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.ChestsAnywhere",
+    "errors": []
+  },
+  {
+    "id": "CJBok.CheatsMenu",
+    "errors": []
+  },
+  {
+    "id": "CJBok.ItemSpawner",
+    "errors": []
+  },
+  {
+    "id": "AirynYri.GardenStatueObelisks",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.ClintDialouge",
+    "errors": []
+  },
+  {
+    "id": "leclair.cloudyskies",
+    "errors": []
+  },
+  {
+    "id": "mushymato.CompactSearchableShopMenu",
+    "suggestedUpdate": {
+      "version": "1.3.0",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/33271"
+    },
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.ContentPatcher",
+    "errors": []
+  },
+  {
+    "id": "gaussfire.ConvenientInventory",
+    "errors": []
+  },
+  {
+    "id": "CuriousLotor.CookingDaily",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.ArtisanMachines",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.CookingRecipes",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.MoreCrops",
+    "errors": []
+  },
+  {
+    "id": "Cornucopia.MoreFlowers",
+    "errors": []
+  },
+  {
+    "id": "LBXLW_Barbecue_Stand_CP",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.CropHarvestBubbles",
+    "errors": []
+  },
+  {
+    "id": "tem696969696969.CropWateringBubbles",
+    "suggestedUpdate": {
+      "version": "0.2.12",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/21428"
+    },
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.CMCT",
+    "errors": []
+  },
+  {
+    "id": "furyx639.CustomBush",
+    "errors": []
+  },
+  {
+    "id": "PeacefulEnd.CustomCompanions",
+    "errors": []
+  },
+  {
+    "id": "datamancer.CustomFixedDialogue",
+    "errors": []
+  },
+  {
+    "id": "Cherry.CustomizeAnywhere",
+    "errors": []
+  },
+  {
+    "id": "Dragoon23.CustomizeDresser",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.Tilesheets",
+    "errors": []
+  },
+  {
+    "id": "DaLion.Core",
+    "errors": []
+  },
+  {
+    "id": "Esca.DestroyableBushes",
+    "errors": []
+  },
+  {
+    "id": "boringvlln.kettlemicrowave",
+    "errors": []
+  },
+  {
+    "id": "DSHi.AdventureKitRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.ArtifactsRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.FishRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.FoodRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.MineralsRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.SeedRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.ShippingItemsRetexture",
+    "errors": []
+  },
+  {
+    "id": "DSHi.SpecialItemsRetexture",
+    "errors": []
+  },
+  {
+    "id": "PeacefulEnd.DynamicReflections",
+    "errors": []
+  },
+  {
+    "id": "knakamura.dynamicnighttime",
+    "errors": []
+  },
+  {
+    "id": "Nook.DynamicShader",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.EarthyInteriors",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.EarthyRecolour",
+    "errors": []
+  },
+  {
+    "id": "VinillaBean.EarthyRSV",
+    "errors": []
+  },
+  {
+    "id": "colling.towninterior",
+    "errors": []
+  },
+  {
+    "id": "Elle.CuterCats",
+    "errors": []
+  },
+  {
+    "id": "Elle.CuterDogs",
+    "errors": []
+  },
+  {
+    "id": "Elle.NewHorses",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsCatsCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsDogsCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsFarmAnimalsCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsHorsesCP",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsItemsCP",
+    "errors": []
+  },
+  {
+    "id": "Ems.LargeCritters",
+    "errors": []
+  },
+  {
+    "id": "Ems.River.Wildlife",
+    "errors": []
+  },
+  {
+    "id": "Ems.SeasonalSprinklers",
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsCamelsCP",
+    "suggestedUpdate": {
+      "version": "1.2.0",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/39719"
+    },
+    "errors": []
+  },
+  {
+    "id": "RivalRabbit.EmsTurtlesCP",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.EmilyDialouge",
+    "errors": []
+  },
+  {
+    "id": "tem696969696969.EmptyJarBubbles",
+    "errors": []
+  },
+  {
+    "id": "Esca.EMP",
+    "errors": []
+  },
+  {
+    "id": "shekurika.EventLookup",
+    "errors": []
+  },
+  {
+    "id": "Cherry.ExpandedPreconditionsUtility",
+    "errors": []
+  },
+  {
+    "id": "selph.ExtraAnimalConfig",
+    "errors": []
+  },
+  {
+    "id": "selph.ExtraMachineConfig",
+    "errors": []
+  },
+  {
+    "id": "Esca.FarmTypeManager",
+    "errors": []
+  },
+  {
+    "id": "CF.FarmhouseFixes",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.FasterMenuLoad",
+    "errors": []
+  },
+  {
+    "id": "paulsteele.fse",
+    "errors": [
+      "The update key 'ferngill.simple.economy' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "paulsteele.fse.vanilla",
+    "errors": [
+      "The update key 'ferngill.simple.economy' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "paulsteele.fse.mail",
+    "errors": [
+      "The update key 'ferngill.simple.economy' isn't in a valid format. It should contain the site key and mod ID like 'Nexus:541', with an optional subkey like 'Nexus:541@subkey'."
+    ]
+  },
+  {
+    "id": "ChibiKyu.FishingAssistant2",
+    "errors": []
+  },
+  {
+    "id": "Nook.ChestLabels",
+    "errors": []
+  },
+  {
+    "id": "Wildflour.NooksCrannies",
+    "errors": []
+  },
+  {
+    "id": "miru.forestamber",
+    "errors": []
+  },
+  {
+    "id": "Kriana.FriendsForever",
+    "suggestedUpdate": {
+      "version": "1.2.11",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/20702"
+    },
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.FurnitureAdjustment",
+    "errors": []
+  },
+  {
+    "id": "leroymilo.FurnitureFramework",
+    "errors": []
+  },
+  {
+    "id": "spacechase0.GenericModConfigMenu",
+    "errors": []
+  },
+  {
+    "id": "jltaylor-us.GMCMOptions",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.HaleyDialouge",
+    "errors": []
+  },
+  {
+    "id": "tlitookilakin.HappyHomeDesigner",
+    "errors": []
+  },
+  {
+    "id": "Lamya.Camper.FF",
+    "errors": []
+  },
+  {
+    "id": "weizinai.HelpWanted",
+    "errors": []
+  },
+  {
+    "id": "bozeupasi.HugeChestMod",
+    "suggestedUpdate": {
+      "version": "1.0.5",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/47117"
+    },
+    "errors": []
+  },
+  {
+    "id": "hxw.tilesheets",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.ImmersiveScarecrows",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "berkayylmao.InfiniteZoom",
+    "errors": []
+  },
+  {
+    "id": "jibb.minecarts",
+    "errors": []
+  },
+  {
+    "id": "jibb.minecarts.C",
+    "errors": []
+  },
+  {
+    "id": "bcmpinc.Internationalization",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Latteholn.ItalianCountrysideBuildings",
+    "errors": []
+  },
+  {
+    "id": "mistyspring.ItemExtensions",
+    "errors": []
+  },
+  {
+    "id": "ChaosEnergy.LadderLocator",
+    "errors": []
+  },
+  {
+    "id": "atelier99.LaniCC",
+    "errors": []
+  },
+  {
+    "id": "Exblosis.LetsMoveIt",
+    "errors": []
+  },
+  {
+    "id": "mushymato.LivestockBazaar",
+    "suggestedUpdate": {
+      "version": "1.6.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/29997"
+    },
+    "errors": []
+  },
+  {
+    "id": "foggy.LfL",
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.LookupAnything",
+    "errors": []
+  },
+  {
+    "id": "blueberry.LoveOfCooking",
+    "errors": []
+  },
+  {
+    "id": "Lumisteria.LumiTilesheetsIndoor",
+    "errors": []
+  },
+  {
+    "id": "Lumisteria.TtilesheetsOutdoor",
+    "errors": []
+  },
+  {
+    "id": "selph.CustomTapperFramework",
+    "suggestedUpdate": {
+      "version": "1.11.7",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/22975"
+    },
+    "errors": []
+  },
+  {
+    "id": "DIGUS.MailFrameworkMod",
+    "errors": []
+  },
+  {
+    "id": "Digus.MailServicesMod",
+    "errors": []
+  },
+  {
+    "id": "DecidedlyHuman.MappingExtensionsAndExtraProperties",
+    "errors": []
+  },
+  {
+    "id": "Coldopa.MiniBars",
+    "errors": []
+  },
+  {
+    "id": "mushymato.MMAP",
+    "suggestedUpdate": {
+      "version": "1.14.1",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/28423"
+    },
+    "errors": []
+  },
+  {
+    "id": "Airyn.MoonCycle",
+    "errors": []
+  },
+  {
+    "id": "EpicBellyFlop45.MoreGrass",
+    "errors": []
+  },
+  {
+    "id": "leclair.morenightlyevents",
+    "errors": []
+  },
+  {
+    "id": "KangTaeGong",
+    "errors": []
+  },
+  {
+    "id": "NotAGardener.MoreSecretNotes",
+    "errors": []
+  },
+  {
+    "id": "EnderTedi.NoFenceDecayRedux",
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.NoclipMode",
+    "errors": []
+  },
+  {
+    "id": "Bouhm.NPCMapLocations",
+    "errors": []
+  },
+  {
+    "id": "NCarigon.PassableCrops",
+    "errors": []
+  },
+  {
+    "id": "focustense.PenPals",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.NPCMapLocationsPerformancePatch",
+    "errors": []
+  },
+  {
+    "id": "Peskit.Hogwarts_Express",
+    "errors": []
+  },
+  {
+    "id": "weizinai.PiCore",
+    "errors": []
+  },
+  {
+    "id": "glymr.FurnitureOutside",
+    "errors": []
+  },
+  {
+    "id": "PLY.provence.fence",
+    "errors": []
+  },
+  {
+    "id": "BadNetCode.PonyWeightLossProgram",
+    "errors": []
+  },
+  {
+    "id": "Platonymous.Portraiture",
+    "errors": []
+  },
+  {
+    "id": "Espy.PreciseFurniture",
+    "errors": []
+  },
+  {
+    "id": "iargue.PrismaticToolsContinued",
+    "errors": []
+  },
+  {
+    "id": "Digus.ProducerFrameworkMod",
+    "errors": []
+  },
+  {
+    "id": "kath.weathering",
+    "errors": []
+  },
+  {
+    "id": "Platonymous.Toolkit",
+    "errors": []
+  },
+  {
+    "id": "DLX.QuickSave",
+    "errors": []
+  },
+  {
+    "id": "ahomiepassingby.realisticwindeffects",
+    "errors": [
+      "The CurseForge mod with ID '1379464' has no valid versions."
+    ]
+  },
+  {
+    "id": "cantorsdust.RecatchLegendaryFish",
+    "errors": []
+  },
+  {
+    "id": "Louis.RegionalBanking",
+    "errors": []
+  },
+  {
+    "id": "EternalSoap.RemoteFridgeStorage",
+    "errors": []
+  },
+  {
+    "id": "Rafseazz.RSVCP",
+    "errors": []
+  },
+  {
+    "id": "Rafseazz.RSVCC",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Rafseazz.RSVFTM",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Rafseazz.RidgesideVillage",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Clara.Ripley",
+    "errors": []
+  },
+  {
+    "id": "Wildflour.SASS",
+    "errors": []
+  },
+  {
+    "id": "Coll1234567.RunningLate",
+    "errors": []
+  },
+  {
+    "id": "Latteholn.RuralsOfItaly",
+    "suggestedUpdate": {
+      "version": "1.0.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/45720"
+    },
+    "errors": []
+  },
+  {
+    "id": "Hesper.RusticCountrysideTownInterior",
+    "errors": []
+  },
+  {
+    "id": "RusticCountry.wallsandfloors",
+    "errors": []
+  },
+  {
+    "id": "rokugin.safelightningupdated",
+    "errors": []
+  },
+  {
+    "id": "Aimon111.SeasonalCloverDigSpot",
+    "errors": []
+  },
+  {
+    "id": "kiwisprinkle.SeasonalCozyBus",
+    "errors": []
+  },
+  {
+    "id": "ichortower.SecretNoteFramework",
+    "errors": []
+  },
+  {
+    "id": "Az.Foliage",
+    "errors": []
+  },
+  {
+    "id": "Az.Resources",
+    "errors": []
+  },
+  {
+    "id": "Entoarox.SitForStamina",
+    "errors": []
+  },
+  {
+    "id": "DewMods.StardewValleyMods.SkipFishingMinigame",
+    "errors": []
+  },
+  {
+    "id": "SkullCavernElevator",
+    "errors": []
+  },
+  {
+    "id": "FlyingTNT.SocialPageOrderRedux",
+    "errors": []
+  },
+  {
+    "id": "drbirbdev.SocializingSkill",
+    "errors": []
+  },
+  {
+    "id": "spacechase0.SpaceCore",
+    "errors": []
+  },
+  {
+    "id": "MakoKZ.SpamMail",
+    "errors": []
+  },
+  {
+    "id": "mushymato.SpecialOrderNotifications",
+    "errors": []
+  },
+  {
+    "id": "Spiderbuttons.SpecialPowerUtilities",
+    "errors": []
+  },
+  {
+    "id": "thimadera.StackEverythingRedux",
+    "errors": []
+  },
+  {
+    "id": "ZeroXPatch.StardewHighPriority",
+    "errors": [
+      "The CurseForge mod with ID '1430989' has no valid versions."
+    ]
+  },
+  {
+    "id": "Achtuur.StardewTravelSkill",
+    "errors": [
+      "Found no GitHub release for this ID."
+    ]
+  },
+  {
+    "id": "FlashShifter.SVECode",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "FlashShifter.StardewValleyExpandedCP",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "FlashShifter.SVE-FTM",
+    "errors": [
+      "The value '???' isn't a valid Nexus mod ID, must be an integer ID."
+    ]
+  },
+  {
+    "id": "bcmpinc.StardewHack",
+    "errors": []
+  },
+  {
+    "id": "focustense.StardewUI",
+    "errors": []
+  },
+  {
+    "id": "Omegasis.StardustCore",
+    "errors": []
+  },
+  {
+    "id": "dylanjames.storebells",
+    "errors": []
+  },
+  {
+    "id": "Airyn.Dao.CP",
+    "suggestedUpdate": {
+      "version": "1.0.4",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/33615"
+    },
+    "errors": []
+  },
+  {
+    "id": "Arknir.Jonghyuk",
+    "errors": []
+  },
+  {
+    "id": "atelier99.SBV.NPCLani",
+    "errors": []
+  },
+  {
+    "id": "skellady.SBVCP",
+    "errors": []
+  },
+  {
+    "id": "skellady.SBVCC",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "skellady.SBVFTM",
+    "errors": [
+      "Found no Nexus mod with this ID."
+    ]
+  },
+  {
+    "id": "Ophaneom.Survivalistic",
+    "errors": []
+  },
+  {
+    "id": "Morghoula.SVETreesRecolored",
+    "errors": []
+  },
+  {
+    "id": "Aimon111.HPE_Icons",
+    "errors": []
+  },
+  {
+    "id": "mx146323.StardewLivingRPG",
+    "errors": []
+  },
+  {
+    "id": "mx.TheLivingValleyExpanded",
+    "errors": []
+  },
+  {
+    "id": "jltaylor-us.ToDew",
+    "suggestedUpdate": {
+      "version": "2.6.2",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/7409"
+    },
+    "errors": []
+  },
+  {
+    "id": "Pathoschild.TractorMod",
+    "errors": []
+  },
+  {
+    "id": "Annosz.UiInfoSuite2",
+    "errors": []
+  },
+  {
+    "id": "fox_white25.ultimate_fertilizer",
+    "suggestedUpdate": {
+      "version": "1.3.0",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/21318"
+    },
+    "errors": []
+  },
+  {
+    "id": "misscoriel.UCRFix",
+    "suggestedUpdate": {
+      "version": "2.1.7",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/8284"
+    },
+    "errors": [
+      "The CurseForge mod with ID '885075' has no valid versions."
+    ]
+  },
+  {
+    "id": "DLX.Bundles",
+    "errors": []
+  },
+  {
+    "id": "DaLion.Professions",
+    "errors": []
+  },
+  {
+    "id": "lindest.stallsboxes",
+    "errors": []
+  },
+  {
+    "id": "bcmpinc.WearMoreRings",
+    "errors": []
+  },
+  {
+    "id": "Kana.WeatherWonders",
+    "errors": []
+  },
+  {
+    "id": "Pyobeom.WillyDialogue",
+    "errors": []
+  },
+  {
+    "id": "AraI_D_Wizard",
+    "errors": []
+  },
+  {
+    "id": "N3cro_92.WorldMapGingerIsland",
+    "errors": []
+  },
+  {
+    "id": "N3cro_92.WorldMapRSV",
+    "errors": []
+  },
+  {
+    "id": "N3cro_92.WorldMapSVE",
+    "suggestedUpdate": {
+      "version": "1.1.5",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/21788"
+    },
+    "errors": []
+  },
+  {
+    "id": "tiakall.wren",
+    "errors": []
+  },
+  {
+    "id": "moonslime.CookingSkill",
+    "errors": []
+  },
+  {
+    "id": "aedenthorn.YAJM",
+    "errors": []
+  },
+  {
+    "id": "Hoijjyat.LinusDialogue",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.ZenithFarm",
+    "errors": []
+  },
+  {
+    "id": "DaisyNiko.ZenithFarm.FTM",
+    "errors": []
+  },
+  {
+    "id": "nuupon.immersivebarnscoops",
+    "errors": []
+  },
+  {
+    "id": "SSULs.Monster.Set",
+    "suggestedUpdate": {
+      "version": "1.4.5",
+      "url": "https://www.nexusmods.com/stardewvalley/mods/6776"
+    },
+    "errors": []
+  },
+  {
+    "id": "Goldenrevolver.AnimalsDie",
+    "errors": []
+  },
+  {
+    "id": "furyx639.CarryChest",
+    "errors": []
+  }
+]

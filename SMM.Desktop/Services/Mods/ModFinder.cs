@@ -124,6 +124,7 @@ public sealed class ModFinder
                     Version = manifest.Version,
                     UniqueId = manifest.UniqueID,
                     Description = manifest.Description,
+                    UpdateKeys = manifest.UpdateKeys,
 
                     Dependencies = manifest.Dependencies,
                     ContentPackForUniqueId = manifest.ContentPackFor?.UniqueID ?? string.Empty,
@@ -164,13 +165,8 @@ public sealed class ModFinder
 
     private static string GetNexusUrl(ModManifest manifest)
     {
-        foreach (var key in manifest.UpdateKeys)
+        foreach (var value in manifest.UpdateKeys)
         {
-            if (key.ValueKind != JsonValueKind.String)
-                continue;
-
-            var value = key.GetString();
-
             if (string.IsNullOrWhiteSpace(value))
                 continue;
 

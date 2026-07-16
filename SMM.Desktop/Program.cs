@@ -13,6 +13,7 @@ using SMM.Desktop.Services.Mods;
 using System.Diagnostics;
 using SMM.Desktop.Services.Profiles;
 using SMM.Desktop.Services.Language;
+using static SMM.Desktop.Services.Setting.SettingsService;
 
 namespace HelloPhotinoApp
 {
@@ -32,7 +33,7 @@ namespace HelloPhotinoApp
             Log("1. start");
 
             // Window title declared here for visibility
-            string windowTitle = "Stardew Mod Manager";
+            string windowTitle = "Stardewvally Mod Manager";
 
             var settingsService = new SettingsService();
             var settings = settingsService.Get();
@@ -54,6 +55,14 @@ namespace HelloPhotinoApp
                 new ModFinder(new ModReader()),
                 new ModValidator(),
                 new ModToggleService());
+
+            var httpClient = new HttpClient();
+            var modUpdateService = new ModUpdateService(
+                httpClient,
+                modService
+            );
+
+            var appUpdateService = new AppUpdateService(httpClient);
 
             var profileService = new ProfileService(
                 settingsService,
@@ -80,7 +89,7 @@ namespace HelloPhotinoApp
                     .SetResizable(true)
                     //.SetIconFile(iconPath)
                     .Center()
-                    //.Load("http://localhost:5173") 개발
+                    .Load("http://localhost:5173") // 개발
 
                     .RegisterCustomSchemeHandler("app", (object sender, string scheme, string url, out string contentType) =>
                     {
@@ -155,23 +164,6 @@ namespace HelloPhotinoApp
                             }, jsonOptions);
 
                             window.SendWebMessage(json);
-                            return;
-                        }
-
-                        if (message.StartsWith("mods.openFolder|"))
-                        {
-                            var folderPath = message["mods.openFolder|".Length..];
-
-                            if (Directory.Exists(folderPath))
-                            {
-                                Process.Start(new ProcessStartInfo
-                                {
-                                    FileName = folderPath,
-                                    UseShellExecute = true,
-                                    Verb = "open"
-                                });
-                            }
-
                             return;
                         }
 
@@ -339,6 +331,23 @@ namespace HelloPhotinoApp
                             return;
                         }
 
+                        if (message == "mods.openFolder")
+                        {
+                            var modsPath = settingsService.Get().ModPath;
+
+                            if (Directory.Exists(modsPath))
+                            {
+                                Process.Start(new ProcessStartInfo
+                                {
+                                    FileName = "explorer.exe",
+                                    Arguments = $"\"{modsPath}\"",
+                                    UseShellExecute = true
+                                });
+                            }
+
+                            return;
+                        }
+
                         if (message.StartsWith("mods.openFolder|"))
                         {
                             var folderPath = message["mods.openFolder|".Length..];
@@ -459,8 +468,56 @@ namespace HelloPhotinoApp
                             return;
                         }
 
-                    })
-                    .Load(indexPath);
+                        if (message == "mods.checkUpdates")
+                        {
+                            try
+                            {
+                                var updates = modUpdateService
+                                    .CheckUpdatesAsync()
+                                    .GetAwaiter()
+                                    .GetResult();
+
+                                var json = JsonSerializer.Serialize(new
+                                {
+                                    type = "modUpdates",
+                                    data = updates
+                                }, jsonOptions);
+
+                                window.SendWebMessage(json);
+                            }
+                            catch (Exception ex)
+                            {
+                                var json = JsonSerializer.Serialize(new
+                                {
+                                    type = "modUpdates",
+                                    data = Array.Empty<object>(),
+                                    error = ex.Message
+                                }, jsonOptions);
+
+                                window.SendWebMessage(json);
+                            }
+
+                            return;
+                        }
+
+                        if (message == "app.checkUpdate")
+                        {
+                            var result = appUpdateService
+                                .CheckAsync()
+                                .GetAwaiter()
+                                .GetResult();
+
+                            window.SendWebMessage(JsonSerializer.Serialize(new
+                            {
+                                type = "appUpdate",
+                                data = result
+                            }, jsonOptions));
+
+                            return;
+                        }
+
+                    });
+                    //.Load(indexPath);
 
                 var gameCheckTimer = new System.Timers.Timer(3000);
                 gameCheckTimer.Elapsed += (_, _) =>
